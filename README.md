@@ -33,7 +33,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 * [HogarEnCuba](https://github.com/daxslab/hogarencuba-mobile) ⭐ 6 | 🐛 0 | 🌐 Dart | 📅 2020-12-22: Client for [www.hogarencuba.com](http://www.hogarencuba.com) made in Flutter.
 * [PorLaLivreApp](https://github.com/garciaguimeras/PorLaLivreApp) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-07-03: Android app to check listings in [www.porlalivre.com](http://www.porlalivre.com) while offline.
 * [Cuba Weather](https://github.com/leynier/cuba-weather-flutter) ⭐ 4 | 🐛 0 | 🌐 Dart | 📅 2020-06-03: Mobile client application for [www.redcuba.cu](https://www.redcuba.cu) weather API. Given a location in Cuba, if it is within the permitted locations, meteorological data on the location is obtained.
-* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 13,851 | 🐛 1,060 | 🌐 Kotlin | 📅 2026-08-13 with some changes to simplify configuring Nauta email accounts.
+* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 13,856 | 🐛 1,061 | 🌐 Kotlin | 📅 2026-08-13 with some changes to simplify configuring Nauta email accounts.
 * [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-01: "Escala Geriátrica de Evaluación Funcional Global" is an instrument used in Cuba to evaluate elder people autonomy. This is an Android implementation.
 * [Rellama](https://github.com/Nenirey/Rellama) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2020-09-15: This is an Radial app using lamw, Lazarus and Free Pascal, download in [apklis](https://www.apklis.cu/application/com.example.appintentdemo3).
 * [QvaPay](https://github.com/qvapay/qp): Aplicación móvil de la pasarela de pagos QvaPay.
@@ -342,4 +342,4 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
