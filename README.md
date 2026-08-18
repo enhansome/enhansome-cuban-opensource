@@ -33,7 +33,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 * [HogarEnCuba](https://github.com/daxslab/hogarencuba-mobile) ⭐ 6 | 🐛 0 | 🌐 Dart | 📅 2020-12-22: Client for [www.hogarencuba.com](http://www.hogarencuba.com) made in Flutter.
 * [PorLaLivreApp](https://github.com/garciaguimeras/PorLaLivreApp) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-07-03: Android app to check listings in [www.porlalivre.com](http://www.porlalivre.com) while offline.
 * [Cuba Weather](https://github.com/leynier/cuba-weather-flutter) ⭐ 4 | 🐛 0 | 🌐 Dart | 📅 2020-06-03: Mobile client application for [www.redcuba.cu](https://www.redcuba.cu) weather API. Given a location in Cuba, if it is within the permitted locations, meteorological data on the location is obtained.
-* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 13,862 | 🐛 1,062 | 🌐 Kotlin | 📅 2026-08-13 with some changes to simplify configuring Nauta email accounts.
+* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 13,866 | 🐛 1,059 | 🌐 Kotlin | 📅 2026-08-17 with some changes to simplify configuring Nauta email accounts.
 * [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-01: "Escala Geriátrica de Evaluación Funcional Global" is an instrument used in Cuba to evaluate elder people autonomy. This is an Android implementation.
 * [Rellama](https://github.com/Nenirey/Rellama) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2020-09-15: This is an Radial app using lamw, Lazarus and Free Pascal, download in [apklis](https://www.apklis.cu/application/com.example.appintentdemo3).
 * [QvaPay](https://github.com/qvapay/qp): Aplicación móvil de la pasarela de pagos QvaPay.
@@ -95,7 +95,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Docker
 
-* [DockerImageSave](https://github.com/jadolg/DockerImageSave) ⭐ 93 | 🐛 3 | 🌐 Go | 📅 2026-08-10 Saves docker images on a remote host and allows you to download them to circumvent Docker censorship on Cuba
+* [DockerImageSave](https://github.com/jadolg/DockerImageSave) ⭐ 93 | 🐛 4 | 🌐 Go | 📅 2026-08-17 Saves docker images on a remote host and allows you to download them to circumvent Docker censorship on Cuba
 * [Portainer Stack Utils](https://github.com/greenled/portainer-stack-utils) ⭐ 75 | 🐛 14 | 🌐 Go | 📅 2025-12-05 CLI client for [Portainer](https://portainer.io/)
 * [SimpleStaticServer](https://github.com/PhaserEditor2D/SimpleStaticServer/) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2021-07-08 Zero-configuration server for static files. Optimized for HTML5 games and Single Page Applications. Made with Go.
 * [restana-static](https://hub.docker.com/r/kyberneees/restana-static) Efficiently serve static files using Node.js and Docker containers: <https://itnext.io/restana-static-serving-the-frontend-with-node-js-beyond-nginx-e45fdb2e49cb>
@@ -123,7 +123,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Integrated Development Environments (IDEs)
 
-* [Phaser Editor 2D](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) ⭐ 503 | 🐛 83 | 🌐 JavaScript | 📅 2024-04-25: A complete & visual editor for making HTML5 2D games ([website](https://phasereditor2d.com)). Games are based on the Phaser framework.
+* [Phaser Editor 2D](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) ⭐ 502 | 🐛 83 | 🌐 JavaScript | 📅 2024-04-25: A complete & visual editor for making HTML5 2D games ([website](https://phasereditor2d.com)). Games are based on the Phaser framework.
 
 ## Internet of Things (IoT)
 
@@ -312,7 +312,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 * [django-reactor](https://github.com/edelvalle/reactor) ⭐ 638 | 🐛 18 | 🌐 Python | 📅 2025-02-10: Django implementation of Phoenix LiveView.
 * [django-ajax](https://github.com/yceruto/django-ajax) ⭐ 322 | 🐛 0 | 🌐 Python | 📅 2024-04-27: Django library for AJAX operations.
-* [django-pgschemas](https://github.com/lorinkoz/django-pgschemas) ⭐ 160 | 🐛 0 | 🌐 Python | 📅 2026-08-10: Django multi-tenancy using PostgreSQL schemas.
+* [django-pgschemas](https://github.com/lorinkoz/django-pgschemas) ⭐ 160 | 🐛 0 | 🌐 Python | 📅 2026-08-17: Django multi-tenancy using PostgreSQL schemas.
 * [django-partial-date](https://github.com/ktowen/django_partial_date) ⭐ 23 | 🐛 4 | 🌐 Python | 📅 2022-01-20: Django custom model field for partial dates with the form YYYY, YYYY-MM, YYYY-MM-DD.
 * [django-js-choices](https://github.com/lorinkoz/django-js-choices) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2024-10-15: JavaScript model's fields choices handling for Django.
 * [TextMadeWeb](https://github.com/jadolg/TextMadeWeb) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2024-05-21 A website to open other websites in text only mode. Example here [txtmdweb](https://txtmdweb.herokuapp.com)
@@ -342,4 +342,4 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
