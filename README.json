@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 209832362,
             "language": "Python",
             "last_commit": "2026-02-21T00:07:05Z",
             "owner": "codestrange",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170082265,
             "language": "CSS",
             "last_commit": "2023-06-26T18:15:47Z",
             "owner": "codestrange",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 184320730,
             "language": "Python",
             "last_commit": "2022-01-22T00:04:12Z",
             "owner": "codestrange",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222384587,
             "language": "HTML",
             "last_commit": "2019-11-18T07:09:38Z",
             "owner": "codestrange",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 225769625,
             "language": "Python",
             "last_commit": "2023-07-06T22:03:07Z",
             "owner": "leynier",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 227005472,
             "language": "Jupyter Notebook",
             "last_commit": "2019-12-11T05:29:58Z",
             "owner": "leynier",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222385375,
             "language": "C",
             "last_commit": "2019-11-18T07:13:57Z",
             "owner": "codestrange",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149352708,
             "language": "Assembly",
             "last_commit": "2020-06-03T08:03:53Z",
             "owner": "leynier",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149353306,
             "language": "C#",
             "last_commit": "2020-06-03T08:03:39Z",
             "owner": "leynier",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222385161,
             "language": "C",
             "last_commit": "2019-11-18T07:11:38Z",
             "owner": "codestrange",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 388677838,
             "language": "JavaScript",
             "last_commit": "2021-07-25T19:48:30Z",
             "owner": "glpzzz",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 224576336,
             "language": "Python",
             "last_commit": "2023-07-06T22:02:55Z",
             "owner": "leynier",
@@ -175,7 +187,7 @@
       "title": "Academic Examples (Homeworks)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 249562862,
             "language": "Dart",
             "last_commit": "2020-09-04T09:08:50Z",
             "owner": "covid19cuba",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53676703,
             "language": "Java",
             "last_commit": "2020-04-20T00:03:09Z",
             "owner": "daxslab",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149671675,
             "language": "Java",
             "last_commit": "2018-12-27T00:49:49Z",
             "owner": "daxslab",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139487067,
             "language": "Dart",
             "last_commit": "2020-08-20T23:03:41Z",
             "owner": "aleguerra05",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144878433,
             "language": "Dart",
             "last_commit": "2020-12-14T07:08:57Z",
             "owner": "rlazom",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85114033,
             "language": "Java",
             "last_commit": "2026-07-23T12:03:47Z",
             "owner": "jadolg",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 29331276,
             "language": "Java",
             "last_commit": "2016-08-30T14:05:33Z",
             "owner": "jadolg",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208341898,
             "language": "Dart",
             "last_commit": "2020-12-22T19:25:45Z",
             "owner": "daxslab",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 195082854,
             "language": "Java",
             "last_commit": "2019-07-03T15:39:10Z",
             "owner": "garciaguimeras",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 235717726,
             "language": "Dart",
             "last_commit": "2020-06-03T08:01:22Z",
             "owner": "leynier",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47355971,
             "language": "Java",
             "last_commit": "2015-12-16T18:23:32Z",
             "owner": "daxslab",
@@ -338,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146324602,
             "language": "JavaScript",
             "last_commit": "2019-12-01T02:12:25Z",
             "owner": "daxslab",
@@ -352,36 +376,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278753070,
             "language": "Java",
             "last_commit": "2020-09-15T13:25:40Z",
             "owner": "Nenirey",
             "repo": "Rellama",
             "stars": 2
           }
-        },
-        {
-          "node_type": "item",
-          "title": "QvaPay",
-          "description": "Aplicación móvil de la pasarela de pagos QvaPay.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "NautaClear",
-          "description": "Simple app to clean Nauta email account.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "SIMple",
-          "description": "Aplicación Android para la gestión de servicios móviles de ETECSA.",
-          "children": []
         }
       ],
       "title": "Android Apps"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -390,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84824266,
             "language": "Python",
             "last_commit": "2026-08-08T08:17:28Z",
             "owner": "jadolg",
@@ -404,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 260968763,
             "language": "Python",
             "last_commit": "2023-07-20T15:09:46Z",
             "owner": "jadolg",
@@ -415,285 +424,295 @@
       "title": "API"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Si5351",
+              "description": "An alternative library for the Si5351 etherkit official one, very small and with more clean signals.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87822973,
+                "language": "C++",
+                "last_commit": "2022-03-22T19:39:05Z",
+                "owner": "pavelmc",
+                "repo": "Si5351mcu",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FT-857D CAT control",
+              "description": "A library that allows you to simulate a Yaesu Radio FT-857D with your arduino, very usefull for ham radio projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68032971,
+                "language": "C++",
+                "last_commit": "2023-08-29T00:52:52Z",
+                "owner": "pavelmc",
+                "repo": "FT857d",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bmux",
+              "description": "Need more buttons in your project but you run out of pins? no problem put up to 8 buttons in just one analog pin; with click and hold feature in the correct way.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70643306,
+                "language": "C++",
+                "last_commit": "2018-07-17T12:56:28Z",
+                "owner": "pavelmc",
+                "repo": "BMux",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Yatuli",
+              "description": "Yet another tune lib, you don't have a rotary encoder for a project? no problem use a linear potentiometer for that.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92175261,
+                "language": "C++",
+                "last_commit": "2018-07-17T12:56:53Z",
+                "owner": "pavelmc",
+                "repo": "Yatuli",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stepperUnipolar",
+              "description": "A non-blocking stepper Library to control unipolar Motors, with some tricks under the hood (power saving!).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151143588,
+                "language": "C++",
+                "last_commit": "2018-10-01T23:07:53Z",
+                "owner": "pavelmc",
+                "repo": "stepperUnipolar",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "amake",
+              "description": "You loves Arduino but hate the Arduino IDE, no problem you can use your preffered editor and use amake under the hood to compile and upload the code (Linux only, Geany focused)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78233717,
+                "language": "Shell",
+                "last_commit": "2020-11-09T14:12:44Z",
+                "owner": "pavelmc",
+                "repo": "amake",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arduino-arcs",
+              "description": "Amateur Radio Control Solution, a complete solution for a front panel to modernize old or homebrew hamradio equipment",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60937466,
+                "language": "Arduino",
+                "last_commit": "2017-11-13T20:21:38Z",
+                "owner": "pavelmc",
+                "repo": "arduino-arcs",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "carrito",
+              "description": "& carrito-control a cuban hombrewed small car project from scrap parts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151140926,
+                "language": "C++",
+                "last_commit": "2018-10-01T19:25:47Z",
+                "owner": "pavelmc",
+                "repo": "carrito",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Multi Porobe SWR meter",
+              "description": "a inteligent meter for SWR and POWER readings for ham radio transmitters, also has a automatic way to control ICOM antenna tuners for no-ICOM radios",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101918327,
+                "language": null,
+                "last_commit": "2017-08-30T19:01:50Z",
+                "owner": "pavelmc",
+                "repo": "multi-probe-swr-meter",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "esp8266_wx_station",
+              "description": "A DIY meteorological weather station based on ESP8266 Arduino board that reports to a SBC/PC via wifi",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231269862,
+                "language": "C++",
+                "last_commit": "2020-04-13T03:32:46Z",
+                "owner": "stdevPavelmc",
+                "repo": "esp8266_wx_station",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Projects"
+        }
+      ],
       "title": "Arduino & Pic related"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Si5351",
-          "description": "An alternative library for the Si5351 etherkit official one, very small and with more clean signals.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2022-03-22T19:39:05Z",
-            "owner": "pavelmc",
-            "repo": "Si5351mcu",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FT-857D CAT control",
-          "description": "A library that allows you to simulate a Yaesu Radio FT-857D with your arduino, very usefull for ham radio projects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-08-29T00:52:52Z",
-            "owner": "pavelmc",
-            "repo": "FT857d",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bmux",
-          "description": "Need more buttons in your project but you run out of pins? no problem put up to 8 buttons in just one analog pin; with click and hold feature in the correct way.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2018-07-17T12:56:28Z",
-            "owner": "pavelmc",
-            "repo": "BMux",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Yatuli",
-          "description": "Yet another tune lib, you don't have a rotary encoder for a project? no problem use a linear potentiometer for that.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2018-07-17T12:56:53Z",
-            "owner": "pavelmc",
-            "repo": "Yatuli",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "stepperUnipolar",
-          "description": "A non-blocking stepper Library to control unipolar Motors, with some tricks under the hood (power saving!).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2018-10-01T23:07:53Z",
-            "owner": "pavelmc",
-            "repo": "stepperUnipolar",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BugSend",
-          "description": "Librería creada en Java para capturar los cierres inesperados de su aplicación y enviarlos por correo electrónico.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "NautaClear",
-          "description": "Librería creada en Java para obtener y eliminar los correos del servidor nauta.",
-          "children": []
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PTB Django Cookiecutter",
+              "description": "A simple cookiecutter to create Python Telegram bots, wrapped with Django.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 367896865,
+                "language": "Python",
+                "last_commit": "2022-10-20T19:58:45Z",
+                "owner": "CarlosLugones",
+                "repo": "ptb-django-cookiecutter",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cuba-Weather_bot",
+              "description": "consults weather info from www.redcuba.cu using cuba-weather.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 230964504,
+                "language": "Python",
+                "last_commit": "2020-04-11T05:45:15Z",
+                "owner": "cuba-weather",
+                "repo": "cuba-weather-telegram-bot",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "web_podcast",
+              "description": "bot serving ElEnjambre podcasts via Telegram.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 219849939,
+                "language": "JavaScript",
+                "last_commit": "2023-01-05T04:56:03Z",
+                "owner": "rocana95",
+                "repo": "web-podcast",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "binarycoffee_bot",
+              "description": "It is the official bot of the Binary Coffee community, it keeps the Telegram channel updated with the latest articles",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 234645307,
+                "language": "Python",
+                "last_commit": "2026-05-31T23:52:55Z",
+                "owner": "binary-coffee-dev",
+                "repo": "binarycoffee_bot",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Covid19 Cuba",
+              "description": "Bot para dar seguimiento a la pandemia de COVID-19 en Cuba.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 251388989,
+                "language": "Python",
+                "last_commit": "2020-04-13T15:47:24Z",
+                "owner": "luiscib3r",
+                "repo": "covid19cuba_bot",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tg-telegraf-bot",
+              "description": "is a simple bot for group management and fun. Live at @massickRemixBot.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 452014679,
+                "language": "TypeScript",
+                "last_commit": "2024-07-25T02:04:18Z",
+                "owner": "M4ss1ck",
+                "repo": "tg-telegraf-bot",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "longPollRobot",
+              "description": "sends polls with more than 10 options and they will be divided equally using a command.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 464777889,
+                "language": "JavaScript",
+                "last_commit": "2022-05-01T04:58:13Z",
+                "owner": "M4ss1ck",
+                "repo": "longPollRobot",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Telegram"
         }
       ],
-      "title": "Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "amake",
-          "description": "You loves Arduino but hate the Arduino IDE, no problem you can use your preffered editor and use amake under the hood to compile and upload the code (Linux only, Geany focused)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2020-11-09T14:12:44Z",
-            "owner": "pavelmc",
-            "repo": "amake",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "arduino-arcs",
-          "description": "Amateur Radio Control Solution, a complete solution for a front panel to modernize old or homebrew hamradio equipment",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Arduino",
-            "last_commit": "2017-11-13T20:21:38Z",
-            "owner": "pavelmc",
-            "repo": "arduino-arcs",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "carrito",
-          "description": "& carrito-control a cuban hombrewed small car project from scrap parts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2018-10-01T19:25:47Z",
-            "owner": "pavelmc",
-            "repo": "carrito",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Multi Porobe SWR meter",
-          "description": "a inteligent meter for SWR and POWER readings for ham radio transmitters, also has a automatic way to control ICOM antenna tuners for no-ICOM radios",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-08-30T19:01:50Z",
-            "owner": "pavelmc",
-            "repo": "multi-probe-swr-meter",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "esp8266_wx_station",
-          "description": "A DIY meteorological weather station based on ESP8266 Arduino board that reports to a SBC/PC via wifi",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2020-04-13T03:32:46Z",
-            "owner": "stdevPavelmc",
-            "repo": "esp8266_wx_station",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Projects"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Bots"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "PTB Django Cookiecutter",
-          "description": "A simple cookiecutter to create Python Telegram bots, wrapped with Django.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-10-20T19:58:45Z",
-            "owner": "CarlosLugones",
-            "repo": "ptb-django-cookiecutter",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cuba-Weather_bot",
-          "description": "consults weather info from www.redcuba.cu using cuba-weather.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-04-11T05:45:15Z",
-            "owner": "cuba-weather",
-            "repo": "cuba-weather-telegram-bot",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "web_podcast",
-          "description": "bot serving ElEnjambre podcasts via Telegram.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-05T04:56:03Z",
-            "owner": "rocana95",
-            "repo": "web-podcast",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "binarycoffee_bot",
-          "description": "It is the official bot of the Binary Coffee community, it keeps the Telegram channel updated with the latest articles",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-31T23:52:55Z",
-            "owner": "binary-coffee-dev",
-            "repo": "binarycoffee_bot",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Covid19 Cuba",
-          "description": "Bot para dar seguimiento a la pandemia de COVID-19 en Cuba.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-04-13T15:47:24Z",
-            "owner": "luiscib3r",
-            "repo": "covid19cuba_bot",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tg-telegraf-bot",
-          "description": "is a simple bot for group management and fun. Live at @massickRemixBot.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-07-25T02:04:18Z",
-            "owner": "M4ss1ck",
-            "repo": "tg-telegraf-bot",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "longPollRobot",
-          "description": "sends polls with more than 10 options and they will be divided equally using a command.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-05-01T04:58:13Z",
-            "owner": "M4ss1ck",
-            "repo": "longPollRobot",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Telegram"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -702,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146609838,
             "language": "Go",
             "last_commit": "2026-08-18T09:28:26Z",
             "owner": "jadolg",
@@ -716,6 +736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158273186,
             "language": "Go",
             "last_commit": "2025-12-05T02:34:50Z",
             "owner": "greenled",
@@ -730,6 +751,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 381924291,
             "language": "Go",
             "last_commit": "2021-07-08T15:01:51Z",
             "owner": "PhaserEditor2D",
@@ -741,7 +763,7 @@
       "title": "Docker"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -750,6 +772,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88511749,
             "language": "JavaScript",
             "last_commit": "2026-07-19T15:05:03Z",
             "owner": "BackendStack21",
@@ -764,6 +787,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175988627,
             "language": "JavaScript",
             "last_commit": "2026-06-21T09:05:04Z",
             "owner": "BackendStack21",
@@ -778,6 +802,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34669020,
             "language": "Python",
             "last_commit": "2023-12-19T08:11:05Z",
             "owner": "daxslab",
@@ -792,6 +817,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 273339433,
             "language": "PHP",
             "last_commit": "2024-11-06T19:26:21Z",
             "owner": "thenlabs",
@@ -806,6 +832,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153110710,
             "language": "PHP",
             "last_commit": "2026-01-28T01:37:01Z",
             "owner": "andaniel05",
@@ -820,6 +847,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90284732,
             "language": "CSS",
             "last_commit": "2026-02-05T13:56:22Z",
             "owner": "williamamed",
@@ -834,6 +862,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130065924,
             "language": "PHP",
             "last_commit": "2018-04-20T10:53:01Z",
             "owner": "GlueApps",
@@ -848,6 +877,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 239029636,
             "language": "PHP",
             "last_commit": "2026-04-18T16:13:25Z",
             "owner": "thenlabs",
@@ -859,7 +889,7 @@
       "title": "Frameworks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -868,6 +898,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66655955,
             "language": "Python",
             "last_commit": "2016-09-14T01:18:26Z",
             "owner": "fperdigon",
@@ -882,6 +913,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66654368,
             "language": "Python",
             "last_commit": "2017-05-10T22:51:48Z",
             "owner": "fperdigon",
@@ -896,6 +928,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 502071147,
             "language": "Python",
             "last_commit": "2023-04-21T20:35:16Z",
             "owner": "R0land013",
@@ -907,7 +940,7 @@
       "title": "Hacks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -916,6 +949,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 216148850,
             "language": "Python",
             "last_commit": "2019-10-19T04:26:52Z",
             "owner": "jadolg",
@@ -930,6 +964,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111620522,
             "language": "Erlang",
             "last_commit": "2018-02-23T19:18:25Z",
             "owner": "redclawtech",
@@ -944,6 +979,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135215695,
             "language": "Erlang",
             "last_commit": "2019-03-21T16:03:52Z",
             "owner": "redclawtech",
@@ -958,6 +994,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175881620,
             "language": "Python",
             "last_commit": "2019-09-07T20:03:48Z",
             "owner": "JimScope",
@@ -969,7 +1006,7 @@
       "title": "Internet of Things (IoT)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -978,6 +1015,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202271902,
             "language": "C++",
             "last_commit": "2024-06-12T02:50:36Z",
             "owner": "swl-x",
@@ -992,6 +1030,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142578958,
             "language": "Python",
             "last_commit": "2024-01-04T21:59:34Z",
             "owner": "videomorph-dev",
@@ -1006,6 +1045,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128256520,
             "language": "Pascal",
             "last_commit": "2025-12-01T19:06:06Z",
             "owner": "Nenirey",
@@ -1020,6 +1060,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 301817593,
             "language": "C++",
             "last_commit": "2022-01-15T19:32:37Z",
             "owner": "oleksis",
@@ -1031,80 +1072,87 @@
       "title": "Multimedia"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LVNet",
+              "description": "Deep learning model for heart left ventricle segmentation on Magnetic Resonance Imaging.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90981887,
+                "language": "Python",
+                "last_commit": "2021-03-08T18:28:08Z",
+                "owner": "fperdigon",
+                "repo": "LVNet",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepVertebralLabeling",
+              "description": "Deep learning model for spine vertebral labeling on Magnetic Resonance Imaging.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146323226,
+                "language": "Python",
+                "last_commit": "2018-08-27T18:47:25Z",
+                "owner": "fperdigon",
+                "repo": "DeepVertebralLabeling_RV",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Machine Learning / Deep Learning Models"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BacillusMarker",
+              "description": "BacillusMarker is an application to easy mark bacillus of tuberculosis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92336798,
+                "language": "Python",
+                "last_commit": "2025-02-01T18:35:26Z",
+                "owner": "fperdigon",
+                "repo": "BacillusMarker",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ParasiteMarker",
+              "description": "ParasiteMarker is an application to easy mark Malaria parasites.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92773627,
+                "language": "Python",
+                "last_commit": "2017-05-29T21:01:27Z",
+                "owner": "fperdigon",
+                "repo": "ParasiteMarker",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Scientific software"
+        }
+      ],
       "title": "Open Scientific Research"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "LVNet",
-          "description": "Deep learning model for heart left ventricle segmentation on Magnetic Resonance Imaging.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-03-08T18:28:08Z",
-            "owner": "fperdigon",
-            "repo": "LVNet",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeepVertebralLabeling",
-          "description": "Deep learning model for spine vertebral labeling on Magnetic Resonance Imaging.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-08-27T18:47:25Z",
-            "owner": "fperdigon",
-            "repo": "DeepVertebralLabeling_RV",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Machine Learning / Deep Learning Models"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "BacillusMarker",
-          "description": "BacillusMarker is an application to easy mark bacillus of tuberculosis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-01T18:35:26Z",
-            "owner": "fperdigon",
-            "repo": "BacillusMarker",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ParasiteMarker",
-          "description": "ParasiteMarker is an application to easy mark Malaria parasites.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-05-29T21:01:27Z",
-            "owner": "fperdigon",
-            "repo": "ParasiteMarker",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Scientific software"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1113,6 +1161,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115145948,
             "language": "C++",
             "last_commit": "2017-12-22T20:18:14Z",
             "owner": "jmbatistav",
@@ -1127,6 +1176,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27489921,
             "language": "Python",
             "last_commit": "2019-06-03T01:29:17Z",
             "owner": "daxslab",
@@ -1138,7 +1188,7 @@
       "title": "Repository management"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1147,6 +1197,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27184411,
             "language": "Pascal",
             "last_commit": "2025-11-24T06:19:27Z",
             "owner": "Nenirey",
@@ -1161,6 +1212,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 234774603,
             "language": "Python",
             "last_commit": "2023-07-21T10:02:53Z",
             "owner": "atscub",
@@ -1175,6 +1227,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 221502605,
             "language": "Shell",
             "last_commit": "2026-06-04T00:24:02Z",
             "owner": "stdevPavelmc",
@@ -1189,6 +1242,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 314600040,
             "language": "C++",
             "last_commit": "2023-08-05T17:26:55Z",
             "owner": "rsanjuan87",
@@ -1203,6 +1257,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37195717,
             "language": "Shell",
             "last_commit": "2020-12-08T16:39:11Z",
             "owner": "oneohthree",
@@ -1217,6 +1272,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 376997720,
             "language": "Go",
             "last_commit": "2021-11-17T16:04:20Z",
             "owner": "kenriortega",
@@ -1231,6 +1287,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230487887,
             "language": "Python",
             "last_commit": "2021-03-23T08:05:19Z",
             "owner": "cuba-weather",
@@ -1245,6 +1302,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106902472,
             "language": "Python",
             "last_commit": "2021-05-28T09:15:52Z",
             "owner": "ateijelo",
@@ -1259,6 +1317,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45195590,
             "language": "Python",
             "last_commit": "2015-12-01T15:10:28Z",
             "owner": "daxslab",
@@ -1273,6 +1332,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44781482,
             "language": "Python",
             "last_commit": "2020-05-16T18:29:19Z",
             "owner": "fperdigon",
@@ -1287,6 +1347,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 485983950,
             "language": "Python",
             "last_commit": "2026-08-11T23:11:55Z",
             "owner": "suitetecsa",
@@ -1301,6 +1362,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155029420,
             "language": "Python",
             "last_commit": "2020-03-07T21:10:29Z",
             "owner": "atscub",
@@ -1315,6 +1377,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139887227,
             "language": "C#",
             "last_commit": "2020-07-12T11:54:39Z",
             "owner": "garciaguimeras",
@@ -1329,6 +1392,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 228442427,
             "language": "Rust",
             "last_commit": "2021-01-20T15:12:54Z",
             "owner": "yorodm",
@@ -1343,6 +1407,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 254256515,
             "language": "Python",
             "last_commit": "2020-04-15T05:26:39Z",
             "owner": "NoxCreation",
@@ -1357,6 +1422,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163609692,
             "language": "Go",
             "last_commit": "2019-01-03T03:37:58Z",
             "owner": "alejandrojnm",
@@ -1371,6 +1437,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82572061,
             "language": "Java",
             "last_commit": "2023-05-22T21:45:42Z",
             "owner": "garciaguimeras",
@@ -1385,6 +1452,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 236270630,
             "language": "Dart",
             "last_commit": "2020-03-08T05:39:34Z",
             "owner": "leynier",
@@ -1399,6 +1467,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8165477,
             "language": "Python",
             "last_commit": "2013-02-12T21:30:32Z",
             "owner": "garciaguimeras",
@@ -1413,6 +1482,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 257711312,
             "language": "Python",
             "last_commit": "2020-04-23T16:12:22Z",
             "owner": "stdevPavelmc",
@@ -1427,6 +1497,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211898771,
             "language": "Shell",
             "last_commit": "2019-09-30T16:12:08Z",
             "owner": "sysadminsdecuba",
@@ -1441,6 +1512,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67049191,
             "language": "C#",
             "last_commit": "2016-10-20T16:16:08Z",
             "owner": "garciaguimeras",
@@ -1455,106 +1527,101 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 290204015,
             "language": "Go",
             "last_commit": "2026-04-11T10:19:07Z",
             "owner": "jadolg",
             "repo": "clipu",
             "stars": 2
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "link-zone-desktop",
+              "description": "Desktop app to easily manage the Alcatel Link Zone.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 421976666,
+                "language": "JavaScript",
+                "last_commit": "2023-08-23T03:55:31Z",
+                "owner": "iocodz",
+                "repo": "link-zone-desktop",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "prognos",
+              "description": "aplicación para monitorear el estado del tiempo en Cuba.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27507331,
+                "language": "Python",
+                "last_commit": "2019-12-27T16:13:19Z",
+                "owner": "codeshard",
+                "repo": "prognos",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "blue-nauta",
+              "description": "Cross-platform application to log in to the nauta network.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 582795523,
+                "language": "Python",
+                "last_commit": "2023-04-21T21:56:27Z",
+                "owner": "R0land013",
+                "repo": "blue-nauta",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nx-simplemenu-applet",
+              "description": "Menu Extension for Plasma 5.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 72579680,
+                "language": "C++",
+                "last_commit": "2022-07-08T05:47:52Z",
+                "owner": "nx-desktop",
+                "repo": "nx-simplemenu-applet",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VPS Etecsa Calculator",
+              "description": "Simple calculator for ETECSA VPS prices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 337830686,
+                "language": "Python",
+                "last_commit": "2021-11-16T17:23:43Z",
+                "owner": "ragnarok22",
+                "repo": "VPSEtecsaCalculator",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Desktop"
         }
       ],
       "title": "System"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "link-zone-desktop",
-          "description": "Desktop app to easily manage the Alcatel Link Zone.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-08-23T03:55:31Z",
-            "owner": "iocodz",
-            "repo": "link-zone-desktop",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "prognos",
-          "description": "aplicación para monitorear el estado del tiempo en Cuba.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-12-27T16:13:19Z",
-            "owner": "codeshard",
-            "repo": "prognos",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "blue-nauta",
-          "description": "Cross-platform application to log in to the nauta network.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-04-21T21:56:27Z",
-            "owner": "R0land013",
-            "repo": "blue-nauta",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nx-simplemenu-applet",
-          "description": "Menu Extension for Plasma 5.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2022-07-08T05:47:52Z",
-            "owner": "nx-desktop",
-            "repo": "nx-simplemenu-applet",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VPS Etecsa Calculator",
-          "description": "Simple calculator for ETECSA VPS prices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-11-16T17:23:43Z",
-            "owner": "ragnarok22",
-            "repo": "VPSEtecsaCalculator",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "devdocs-desktop",
-          "description": "Desktop app for DevDocs.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "qvapay-desktop",
-          "description": "Desktop app for QvaPay",
-          "children": []
-        }
-      ],
-      "title": "Desktop"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1563,6 +1630,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191787455,
             "language": "Python",
             "last_commit": "2021-10-25T16:35:46Z",
             "owner": "lpozo",
@@ -1577,6 +1645,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 410699436,
             "language": "HTML",
             "last_commit": "2021-09-27T00:57:37Z",
             "owner": "ragnarok22",
@@ -1591,24 +1660,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 415365094,
             "language": "JavaScript",
             "last_commit": "2021-10-10T21:36:05Z",
             "owner": "ragnarok22",
             "repo": "smart-contact-chat",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "MathREPL",
-          "description": "a basic math expression evaluator using Python's and the module.",
-          "children": []
         }
       ],
       "title": "Tutorials & Challenges"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1617,6 +1681,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 249451706,
             "language": "JavaScript",
             "last_commit": "2024-08-10T12:35:00Z",
             "owner": "covid19cubadata",
@@ -1631,6 +1696,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 423596663,
             "language": "Elixir",
             "last_commit": "2025-07-04T17:45:27Z",
             "owner": "easypodcasts",
@@ -1645,6 +1711,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 226112418,
             "language": "TypeScript",
             "last_commit": "2026-08-12T02:05:56Z",
             "owner": "binary-coffee-dev",
@@ -1659,6 +1726,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 421058854,
             "language": "JavaScript",
             "last_commit": "2023-01-08T00:46:49Z",
             "owner": "ragnarok22",
@@ -1673,6 +1741,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292748488,
             "language": "HTML",
             "last_commit": "2024-04-29T18:36:14Z",
             "owner": "Pixely-Studios",
@@ -1687,6 +1756,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 225615643,
             "language": "JavaScript",
             "last_commit": "2025-01-12T17:06:24Z",
             "owner": "binary-coffee-dev",
@@ -1701,6 +1771,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 203644288,
             "language": "HTML",
             "last_commit": "2023-10-03T22:35:28Z",
             "owner": "dcruz1990",
@@ -1715,6 +1786,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 233856498,
             "language": "CSS",
             "last_commit": "2021-10-06T10:12:59Z",
             "owner": "binary-coffee-dev",
@@ -1729,6 +1801,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253227227,
             "language": "JavaScript",
             "last_commit": "2024-08-10T23:35:55Z",
             "owner": "llamaret",
@@ -1743,6 +1816,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 460661220,
             "language": "TypeScript",
             "last_commit": "2023-10-17T22:40:26Z",
             "owner": "M4ss1ck",
@@ -1757,6 +1831,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 522065073,
             "language": "JavaScript",
             "last_commit": "2024-08-17T10:54:55Z",
             "owner": "abeltranp9476",
@@ -1771,6 +1846,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 250085636,
             "language": "Vue",
             "last_commit": "2020-04-11T00:12:59Z",
             "owner": "CarlosLugones",
@@ -1785,6 +1861,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 338650055,
             "language": "Nunjucks",
             "last_commit": "2021-10-11T21:39:02Z",
             "owner": "ragnarok22",
@@ -1799,6 +1876,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 285417309,
             "language": "Python",
             "last_commit": "2020-08-06T16:00:58Z",
             "owner": "seiyukaras",
@@ -1813,965 +1891,1000 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 514965612,
             "language": "JavaScript",
             "last_commit": "2023-01-06T01:04:34Z",
             "owner": "iocodz",
             "repo": "dota2-free-data-api",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "BacheCubano",
-          "description": "Web of Stores, Classifieds and Businesses in Cuba https://www.bachecubano.com",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Callemonte",
-          "description": "Classified search engine in Cuba https://callemonte.com",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Qvolax",
-          "description": "Live Chat System with Ajax, PHP & MySQL",
-          "children": []
         }
       ],
       "title": "Web Applications"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Formly",
+              "description": "A JavaScript library for form validation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 517180162,
+                "language": "JavaScript",
+                "last_commit": "2022-09-16T14:22:28Z",
+                "owner": "dlcastillop",
+                "repo": "Formly",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "click-handler",
+              "description": "Vanilla JS Lib for Handle click and dblclick events on same element.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 516421980,
+                "language": "JavaScript",
+                "last_commit": "2022-07-30T16:37:39Z",
+                "owner": "manuelernestog",
+                "repo": "click-handler",
+                "stars": 3
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "fast-gateway",
+                  "description": "A Node.js API Gateway for the masses! https://itnext.io/a-js-api-gateway-for-the-masses-a12fdb9e961c",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 188700531,
+                    "language": "JavaScript",
+                    "last_commit": "2026-05-17T14:11:51Z",
+                    "owner": "BackendStack21",
+                    "repo": "fast-gateway",
+                    "stars": 322
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "fast-proxy",
+                  "description": "HTTP proxy library. So you can forward your HTTP request to another server.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 190131234,
+                    "language": "JavaScript",
+                    "last_commit": "2024-01-29T20:24:24Z",
+                    "owner": "fastify",
+                    "repo": "fast-proxy",
+                    "stars": 162
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "k-fastify-gateway",
+                  "description": "A Node.js API Gateway that just works! (based on fastify)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 144907486,
+                    "language": "JavaScript",
+                    "last_commit": "2023-06-03T19:48:30Z",
+                    "owner": "jkyberneees",
+                    "repo": "fastify-gateway",
+                    "stars": 111
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "keycloak-backend",
+                  "description": "Keycloak Node.js minimalist connector for backend services integration.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 95303274,
+                    "language": "TypeScript",
+                    "last_commit": "2025-11-23T14:39:36Z",
+                    "owner": "BackendStack21",
+                    "repo": "keycloak-backend",
+                    "stars": 71
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "http-cache-middleware",
+                  "description": "HTTP caching made simple!",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 189103424,
+                    "language": "JavaScript",
+                    "last_commit": "2023-09-20T06:30:35Z",
+                    "owner": "BackendStack21",
+                    "repo": "http-cache-middleware",
+                    "stars": 30
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "distributed-eventemitter",
+                  "description": "The ultra fast, distributed (multi process and multi server), STOMP based event emitter for Node.js!",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 54847631,
+                    "language": "JavaScript",
+                    "last_commit": "2016-10-31T08:51:52Z",
+                    "owner": "jkyberneees",
+                    "repo": "distributed-eventemitter",
+                    "stars": 25
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "hydra-integration",
+                  "description": "Minimalist 'hydra integration' module, intended for Node.js web frameworks integration.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 85476745,
+                    "language": "JavaScript",
+                    "last_commit": "2023-01-05T03:53:41Z",
+                    "owner": "jkyberneees",
+                    "repo": "hydra-integration",
+                    "stars": 14
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "fastify-msgpack",
+                  "description": "Fastify and MessagePack, together at last. Uses @msgpack/msgpack by default.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 368019532,
+                    "language": "JavaScript",
+                    "last_commit": "2021-05-18T22:53:16Z",
+                    "owner": "kenriortega",
+                    "repo": "fastify-msgpack",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "string-mismatch.js",
+                  "description": "It is a NodeJS library to see the differences between two strings. It has 3 algorithms with different computational complexities.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 127142558,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-05T04:38:20Z",
+                    "owner": "wil92",
+                    "repo": "string-mismatch",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "http-lambda-proxy",
+                  "description": "Proxy HTTP requests to AWS Lambda.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 251323992,
+                    "language": "JavaScript",
+                    "last_commit": "2020-12-08T21:34:43Z",
+                    "owner": "BackendStack21",
+                    "repo": "http-lambda-proxy",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "bull-queue-manager",
+                  "description": "Minimalist queue manager based on bull.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 87787492,
+                    "language": "JavaScript",
+                    "last_commit": "2017-04-18T11:48:12Z",
+                    "owner": "jkyberneees",
+                    "repo": "bull-queue-manager",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nacl-signature",
+                  "description": "JavaScript module to sign/verify data using NaCL crypto library (TweetNaCL.js)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 60064836,
+                    "language": "JavaScript",
+                    "last_commit": "2020-04-07T05:28:55Z",
+                    "owner": "jkyberneees",
+                    "repo": "nacl-signature",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "middleware-if-unless",
+                  "description": "Invokes connect-like middleware if / unless routing criteria matches. Inspired on express-unless module.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 164021531,
+                    "language": "JavaScript",
+                    "last_commit": "2026-07-18T08:34:33Z",
+                    "owner": "BackendStack21",
+                    "repo": "middleware-if-unless",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "on-http-end",
+                  "description": "Allows to capture HTTP response content and headers on request end.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 189090207,
+                    "language": "JavaScript",
+                    "last_commit": "2023-04-07T19:57:07Z",
+                    "owner": "BackendStack21",
+                    "repo": "on-http-end",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "agnostic-http-error-handler",
+                  "description": "Node.js framework agnostic HTTP error handler.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 242965776,
+                    "language": "JavaScript",
+                    "last_commit": "2020-03-30T07:47:19Z",
+                    "owner": "jkyberneees",
+                    "repo": "http-error-handler",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "hydra-dashboard",
+                  "description": "Hydra cluster dashboard/router application.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 91897625,
+                    "language": "JavaScript",
+                    "last_commit": "2023-01-07T02:17:35Z",
+                    "owner": "jkyberneees",
+                    "repo": "hydra-dashboard",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "hydra-plugin-http",
+                  "description": "Hydra plugin that adds traditional HTTP requests, routing and proxy capabilities to your hydra micro-service cluster.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 89146335,
+                    "language": "JavaScript",
+                    "last_commit": "2019-12-30T10:25:32Z",
+                    "owner": "jkyberneees",
+                    "repo": "hydra-plugin-http",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "serverless-json-parser",
+                  "description": "Simple JSON parser for AWS Lambda + HTTP integration via serverless-http.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 251261933,
+                    "language": "JavaScript",
+                    "last_commit": "2020-03-30T11:24:45Z",
+                    "owner": "jkyberneees",
+                    "repo": "serverless-json-parser",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Node.js"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "PayLink",
+                  "description": "A payment organizer.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 536982454,
+                    "language": "JavaScript",
+                    "last_commit": "2023-03-28T20:33:40Z",
+                    "owner": "dlcastillop",
+                    "repo": "paylink",
+                    "stars": 53
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "react-hooks-toolbox",
+                  "description": "Collection of reactjs hooks.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 181409462,
+                    "language": "JavaScript",
+                    "last_commit": "2022-12-09T19:33:07Z",
+                    "owner": "apenab",
+                    "repo": "react-hooks-toolbox",
+                    "stars": 11
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "React.js"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Javascript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "symfony-skeleton-vkernel",
+              "description": "Start point to build multiple Symfony applications with shared config, code and vendors in the same place/repo.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101703070,
+                "language": "PHP",
+                "last_commit": "2026-06-16T05:17:52Z",
+                "owner": "yceruto",
+                "repo": "symfony-ddd-skeleton",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yii2-taggedview",
+              "description": "Yii2 extension to add standard HTML metatags and social one (Open Graph and Twitter Cards) in order to crontribute to webiste SEO.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116883230,
+                "language": "PHP",
+                "last_commit": "2021-08-25T13:48:45Z",
+                "owner": "daxslab",
+                "repo": "yii2-taggedview",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yii2-thumbnailer",
+              "description": "Yii2 extension to generate (any size) thumbnails for any image on the fly.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116883361,
+                "language": "PHP",
+                "last_commit": "2024-06-25T09:23:58Z",
+                "owner": "daxslab",
+                "repo": "yii2-thumbnailer",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fastcode-ci",
+              "description": "CLI commands for CodeIgniter 4 that allows to quickly create repetitive code.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 145897676,
+                "language": "PHP",
+                "last_commit": "2018-08-25T14:31:19Z",
+                "owner": "cjamcu",
+                "repo": "fastcode-ci",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WASP 🐝 • Woew! Another starter plugin",
+              "description": "WASP es un starter plugin que facilita el desarrollo con WordPress. Con él podrás crear tus propios plugins de manera rápida, fácil y sencilla. Wiki.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 402551988,
+                "language": "PHP",
+                "last_commit": "2024-09-04T13:03:36Z",
+                "owner": "themingisprose",
+                "repo": "wasp",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yii2-website-module",
+              "description": "Yii2 module to create blog type websites without restricting what you can do within a Yii2 application.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174627138,
+                "language": "PHP",
+                "last_commit": "2021-08-11T20:24:53Z",
+                "owner": "daxslab",
+                "repo": "yii2-website-module",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ClassBuilder",
+              "description": "Builder for create PHP classes dinamically.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238961693,
+                "language": "PHP",
+                "last_commit": "2022-05-13T22:28:38Z",
+                "owner": "thenlabs",
+                "repo": "class-builder",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yii2-calendly",
+              "description": "Yii2 extension to include Calendly widgets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 221624151,
+                "language": "PHP",
+                "last_commit": "2019-11-14T07:33:38Z",
+                "owner": "daxslab",
+                "repo": "yii2-calendly",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ObjectCollection",
+              "description": "Class to represent a collection of objects of the same type.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69474094,
+                "language": "PHP",
+                "last_commit": "2017-01-04T15:46:09Z",
+                "owner": "andaniel05",
+                "repo": "ObjectCollection",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yii2-uploader-behavior",
+              "description": "Yii2 extension to simplifly the process of uploading a file using a behavior that can be attached to models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86965345,
+                "language": "PHP",
+                "last_commit": "2023-07-09T23:28:50Z",
+                "owner": "daxslab",
+                "repo": "yii2-uploader-behavior",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OJS Social Metatags",
+              "description": "Adds Open Graph and Twitter Cards meta tags to Open Journal System based websites.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49138748,
+                "language": "PHP",
+                "last_commit": "2016-04-08T13:01:12Z",
+                "owner": "daxslab",
+                "repo": "ojs-social-metatags",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ThenLabsStratusBundle",
+              "description": "Extends Symfony to the full stack development with integration of StratusPHP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 331747429,
+                "language": "PHP",
+                "last_commit": "2021-07-24T19:40:03Z",
+                "owner": "thenlabs",
+                "repo": "stratus-bundle",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BattlefieldMapListParser",
+              "description": "A PHP file parser for Battlefield 3 and Battlefield 4 MapList files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 332131483,
+                "language": "PHP",
+                "last_commit": "2021-01-24T04:19:49Z",
+                "owner": "lk-KEVIN",
+                "repo": "BattlefieldMapListParser",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Components",
+              "description": "Create custom component-based structures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238956392,
+                "language": "PHP",
+                "last_commit": "2022-11-27T20:55:51Z",
+                "owner": "thenlabs",
+                "repo": "components",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HttpServer",
+              "description": "A HTTP Server written in PHP with help of the Symfony components.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308719612,
+                "language": "PHP",
+                "last_commit": "2021-10-23T22:15:49Z",
+                "owner": "thenlabs",
+                "repo": "http-server",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mysql-php-save-v1.0",
+              "description": "Save MySQL db in production mode, usefull for automatic backups.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184507690,
+                "language": "PHP",
+                "last_commit": "2019-05-02T02:07:58Z",
+                "owner": "NTCarlos",
+                "repo": "mysql-php-save-v1.0",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WPPF • The WordPress Post Factory",
+              "description": "No más \"kjndf kjsdfgn jasg\" en tus proyectos en desarrollo. WPPF es un sencillo plugin que te ayudará a generar contenido falso en los proyectos que estás desarrollando.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 712729037,
+                "language": "PHP",
+                "last_commit": "2023-11-03T22:35:02Z",
+                "owner": "themingisprose",
+                "repo": "wppf",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yii2-contactform-module",
+              "description": "Yii2 module to include contact forms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147025812,
+                "language": "PHP",
+                "last_commit": "2020-10-27T00:33:06Z",
+                "owner": "daxslab",
+                "repo": "yii2-contactform-module",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PHP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "django-reactor",
+              "description": "Django implementation of Phoenix LiveView.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 182271222,
+                "language": "Python",
+                "last_commit": "2025-02-10T18:39:52Z",
+                "owner": "edelvalle",
+                "repo": "reactor",
+                "stars": 638
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-ajax",
+              "description": "Django library for AJAX operations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11436765,
+                "language": "Python",
+                "last_commit": "2024-04-27T20:52:14Z",
+                "owner": "yceruto",
+                "repo": "django-ajax",
+                "stars": 322
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-pgschemas",
+              "description": "Django multi-tenancy using PostgreSQL schemas.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162996334,
+                "language": "Python",
+                "last_commit": "2026-08-17T23:18:35Z",
+                "owner": "lorinkoz",
+                "repo": "django-pgschemas",
+                "stars": 160
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-partial-date",
+              "description": "Django custom model field for partial dates with the form YYYY, YYYY-MM, YYYY-MM-DD.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106856553,
+                "language": "Python",
+                "last_commit": "2022-01-20T20:13:54Z",
+                "owner": "ktowen",
+                "repo": "django_partial_date",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-js-choices",
+              "description": "JavaScript model's fields choices handling for Django.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93749850,
+                "language": "Python",
+                "last_commit": "2024-10-15T18:38:56Z",
+                "owner": "lorinkoz",
+                "repo": "django-js-choices",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TextMadeWeb",
+              "description": "A website to open other websites in text only mode. Example here txtmdweb",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86596830,
+                "language": "Python",
+                "last_commit": "2024-05-21T08:36:45Z",
+                "owner": "jadolg",
+                "repo": "TextMadeWeb",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "web2py-simple-seo",
+              "description": "Simple SEO metadata plugin for web2py including Open Graph and Twitter Cards.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41487123,
+                "language": "Python",
+                "last_commit": "2015-09-03T15:53:27Z",
+                "owner": "daxslab",
+                "repo": "web2py-simple-seo",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-l10n-cu",
+              "description": "Django localization app for adapting a product for a cuban market, with Provinces and Municipalities tables populated in the DB.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 275605475,
+                "language": "Python",
+                "last_commit": "2022-04-27T17:55:58Z",
+                "owner": "Mirage-Tech-Cuba",
+                "repo": "django-l10n-cu",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "web2py-typeahead",
+              "description": "typeahead.js autocompletion widget for web2py framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51525085,
+                "language": "Python",
+                "last_commit": "2017-01-11T16:10:00Z",
+                "owner": "daxslab",
+                "repo": "web2py-typeahead",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flask-base",
+              "description": "Base structure for a web application using the Flask micro-framework and the MVC software architecture pattern.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186742639,
+                "language": "HTML",
+                "last_commit": "2022-01-22T00:04:54Z",
+                "owner": "leynier",
+                "repo": "flask-base",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sqlalchemy-connector",
+              "description": "Easy connector for SQL Databases, support for sqlite, postgresql and mysql.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206091562,
+                "language": "Python",
+                "last_commit": "2023-12-11T18:27:41Z",
+                "owner": "JoseVL92",
+                "repo": "sqlalchemy_multiconnector",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "web2py-thumbnails",
+              "description": "Thumbnails plugin for the web2py framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19779371,
+                "language": "Python",
+                "last_commit": "2015-06-26T12:58:02Z",
+                "owner": "daxslab",
+                "repo": "web2py-thumbnails",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HTTP2COM",
+              "description": "Windows Service that makes bi-directional proxy between HTTP and Serial Port. Can be used for web apps to access the local hardware from the brwser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16808958,
+                "language": "Python",
+                "last_commit": "2014-06-21T04:11:42Z",
+                "owner": "codeadict",
+                "repo": "HTTP2COM",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "http-requests",
+              "description": "HTTP sync / sync library that works with both: requests and aiohttp, exploiting the best of each one.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206081643,
+                "language": "Python",
+                "last_commit": "2022-05-19T19:27:20Z",
+                "owner": "JoseVL92",
+                "repo": "web-requester",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "my-django-celery-stack",
+              "description": "Implementation of Producer-Consumer using Docker containers with Django App, Celery Worker & Beat and RabbitMQ.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242193542,
+                "language": "Python",
+                "last_commit": "2026-08-09T16:10:45Z",
+                "owner": "mrbrazzi",
+                "repo": "my_django_celery_stack",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spia",
+              "description": "Simple Python internationalization API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10603548,
+                "language": "Python",
+                "last_commit": "2019-06-03T01:02:00Z",
+                "owner": "daxslab",
+                "repo": "spia",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "web2py-media-gallery",
+              "description": "Global media gallery plugin for web2py",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47262894,
+                "language": "Python",
+                "last_commit": "2015-12-02T13:37:01Z",
+                "owner": "daxslab",
+                "repo": "web2py-media-gallery",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "quotation_followup",
+              "description": "Odoo (Formerly OpenERP) module to follow up quotations by mail.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18527863,
+                "language": "PHP",
+                "last_commit": "2014-05-20T21:46:31Z",
+                "owner": "codeadict",
+                "repo": "quotation_followup",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "text-miner",
+              "description": "Utilities for text mining processing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206105196,
+                "language": "Python",
+                "last_commit": "2023-03-28T20:31:50Z",
+                "owner": "JoseVL92",
+                "repo": "text-miner",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "web2py-no-captcha-security",
+              "description": "No-Captcha security plugin for the web2py framework to enable bot protection using no-captcha techniques.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69476926,
+                "language": "Python",
+                "last_commit": "2016-09-28T15:47:05Z",
+                "owner": "daxslab",
+                "repo": "web2py-no-captcha-security",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "kings-landing",
+              "description": "A modern, simple and customizable landing page dedicated to early customer acquisition for frugal entrepreneurs. Think it as an open-source alternative to LaunchRock without spending 5 bucks monthly.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120170122,
+                "language": "Ruby",
+                "last_commit": "2023-04-11T23:45:43Z",
+                "owner": "codeadict",
+                "repo": "kings-landing",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pluie",
+              "description": "A fully functional platform for sending SMS. Ten of the most used SMS-Gateways implemented including Twilio. This project was the former core of Knales",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 330723101,
+                "language": "Ruby",
+                "last_commit": "2023-12-15T11:55:34Z",
+                "owner": "luilver",
+                "repo": "pluie",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
+        }
+      ],
       "title": "Web Development"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Formly",
-          "description": "A JavaScript library for form validation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-09-16T14:22:28Z",
-            "owner": "dlcastillop",
-            "repo": "Formly",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "click-handler",
-          "description": "Vanilla JS Lib for Handle click and dblclick events on same element.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-07-30T16:37:39Z",
-            "owner": "manuelernestog",
-            "repo": "click-handler",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Javascript"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "fast-gateway",
-          "description": "A Node.js API Gateway for the masses! https://itnext.io/a-js-api-gateway-for-the-masses-a12fdb9e961c",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-17T14:11:51Z",
-            "owner": "BackendStack21",
-            "repo": "fast-gateway",
-            "stars": 322
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fast-proxy",
-          "description": "HTTP proxy library. So you can forward your HTTP request to another server.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2024-01-29T20:24:24Z",
-            "owner": "fastify",
-            "repo": "fast-proxy",
-            "stars": 162
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "k-fastify-gateway",
-          "description": "A Node.js API Gateway that just works! (based on fastify)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-06-03T19:48:30Z",
-            "owner": "jkyberneees",
-            "repo": "fastify-gateway",
-            "stars": 111
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "keycloak-backend",
-          "description": "Keycloak Node.js minimalist connector for backend services integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-11-23T14:39:36Z",
-            "owner": "BackendStack21",
-            "repo": "keycloak-backend",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "http-cache-middleware",
-          "description": "HTTP caching made simple!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-09-20T06:30:35Z",
-            "owner": "BackendStack21",
-            "repo": "http-cache-middleware",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "distributed-eventemitter",
-          "description": "The ultra fast, distributed (multi process and multi server), STOMP based event emitter for Node.js!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-10-31T08:51:52Z",
-            "owner": "jkyberneees",
-            "repo": "distributed-eventemitter",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hydra-integration",
-          "description": "Minimalist 'hydra integration' module, intended for Node.js web frameworks integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-05T03:53:41Z",
-            "owner": "jkyberneees",
-            "repo": "hydra-integration",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fastify-msgpack",
-          "description": "Fastify and MessagePack, together at last. Uses @msgpack/msgpack by default.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-05-18T22:53:16Z",
-            "owner": "kenriortega",
-            "repo": "fastify-msgpack",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "string-mismatch.js",
-          "description": "It is a NodeJS library to see the differences between two strings. It has 3 algorithms with different computational complexities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-05T04:38:20Z",
-            "owner": "wil92",
-            "repo": "string-mismatch",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "http-lambda-proxy",
-          "description": "Proxy HTTP requests to AWS Lambda.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-12-08T21:34:43Z",
-            "owner": "BackendStack21",
-            "repo": "http-lambda-proxy",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bull-queue-manager",
-          "description": "Minimalist queue manager based on bull.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-04-18T11:48:12Z",
-            "owner": "jkyberneees",
-            "repo": "bull-queue-manager",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nacl-signature",
-          "description": "JavaScript module to sign/verify data using NaCL crypto library (TweetNaCL.js)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-04-07T05:28:55Z",
-            "owner": "jkyberneees",
-            "repo": "nacl-signature",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "middleware-if-unless",
-          "description": "Invokes connect-like middleware if / unless routing criteria matches. Inspired on express-unless module.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-18T08:34:33Z",
-            "owner": "BackendStack21",
-            "repo": "middleware-if-unless",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "on-http-end",
-          "description": "Allows to capture HTTP response content and headers on request end.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-04-07T19:57:07Z",
-            "owner": "BackendStack21",
-            "repo": "on-http-end",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "agnostic-http-error-handler",
-          "description": "Node.js framework agnostic HTTP error handler.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-03-30T07:47:19Z",
-            "owner": "jkyberneees",
-            "repo": "http-error-handler",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hydra-dashboard",
-          "description": "Hydra cluster dashboard/router application.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-07T02:17:35Z",
-            "owner": "jkyberneees",
-            "repo": "hydra-dashboard",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hydra-plugin-http",
-          "description": "Hydra plugin that adds traditional HTTP requests, routing and proxy capabilities to your hydra micro-service cluster.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-12-30T10:25:32Z",
-            "owner": "jkyberneees",
-            "repo": "hydra-plugin-http",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "serverless-json-parser",
-          "description": "Simple JSON parser for AWS Lambda + HTTP integration via serverless-http.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-03-30T11:24:45Z",
-            "owner": "jkyberneees",
-            "repo": "serverless-json-parser",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Node.js"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "PayLink",
-          "description": "A payment organizer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-03-28T20:33:40Z",
-            "owner": "dlcastillop",
-            "repo": "paylink",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-hooks-toolbox",
-          "description": "Collection of reactjs hooks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-09T19:33:07Z",
-            "owner": "apenab",
-            "repo": "react-hooks-toolbox",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "React.js"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "symfony-skeleton-vkernel",
-          "description": "Start point to build multiple Symfony applications with shared config, code and vendors in the same place/repo.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-06-16T05:17:52Z",
-            "owner": "yceruto",
-            "repo": "symfony-ddd-skeleton",
-            "stars": 134
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yii2-taggedview",
-          "description": "Yii2 extension to add standard HTML metatags and social one (Open Graph and Twitter Cards) in order to crontribute to webiste SEO.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-08-25T13:48:45Z",
-            "owner": "daxslab",
-            "repo": "yii2-taggedview",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yii2-thumbnailer",
-          "description": "Yii2 extension to generate (any size) thumbnails for any image on the fly.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-06-25T09:23:58Z",
-            "owner": "daxslab",
-            "repo": "yii2-thumbnailer",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fastcode-ci",
-          "description": "CLI commands for CodeIgniter 4 that allows to quickly create repetitive code.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2018-08-25T14:31:19Z",
-            "owner": "cjamcu",
-            "repo": "fastcode-ci",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WASP 🐝 • Woew! Another starter plugin",
-          "description": "WASP es un starter plugin que facilita el desarrollo con WordPress. Con él podrás crear tus propios plugins de manera rápida, fácil y sencilla. Wiki.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2024-09-04T13:03:36Z",
-            "owner": "themingisprose",
-            "repo": "wasp",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yii2-website-module",
-          "description": "Yii2 module to create blog type websites without restricting what you can do within a Yii2 application.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-08-11T20:24:53Z",
-            "owner": "daxslab",
-            "repo": "yii2-website-module",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ClassBuilder",
-          "description": "Builder for create PHP classes dinamically.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2022-05-13T22:28:38Z",
-            "owner": "thenlabs",
-            "repo": "class-builder",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yii2-calendly",
-          "description": "Yii2 extension to include Calendly widgets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-11-14T07:33:38Z",
-            "owner": "daxslab",
-            "repo": "yii2-calendly",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ObjectCollection",
-          "description": "Class to represent a collection of objects of the same type.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2017-01-04T15:46:09Z",
-            "owner": "andaniel05",
-            "repo": "ObjectCollection",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yii2-uploader-behavior",
-          "description": "Yii2 extension to simplifly the process of uploading a file using a behavior that can be attached to models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2023-07-09T23:28:50Z",
-            "owner": "daxslab",
-            "repo": "yii2-uploader-behavior",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OJS Social Metatags",
-          "description": "Adds Open Graph and Twitter Cards meta tags to Open Journal System based websites.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2016-04-08T13:01:12Z",
-            "owner": "daxslab",
-            "repo": "ojs-social-metatags",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ThenLabsStratusBundle",
-          "description": "Extends Symfony to the full stack development with integration of StratusPHP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-07-24T19:40:03Z",
-            "owner": "thenlabs",
-            "repo": "stratus-bundle",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BattlefieldMapListParser",
-          "description": "A PHP file parser for Battlefield 3 and Battlefield 4 MapList files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-01-24T04:19:49Z",
-            "owner": "lk-KEVIN",
-            "repo": "BattlefieldMapListParser",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Components",
-          "description": "Create custom component-based structures.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2022-11-27T20:55:51Z",
-            "owner": "thenlabs",
-            "repo": "components",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HttpServer",
-          "description": "A HTTP Server written in PHP with help of the Symfony components.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-10-23T22:15:49Z",
-            "owner": "thenlabs",
-            "repo": "http-server",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mysql-php-save-v1.0",
-          "description": "Save MySQL db in production mode, usefull for automatic backups.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-05-02T02:07:58Z",
-            "owner": "NTCarlos",
-            "repo": "mysql-php-save-v1.0",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WPPF • The WordPress Post Factory",
-          "description": "No más \"kjndf kjsdfgn jasg\" en tus proyectos en desarrollo. WPPF es un sencillo plugin que te ayudará a generar contenido falso en los proyectos que estás desarrollando.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2023-11-03T22:35:02Z",
-            "owner": "themingisprose",
-            "repo": "wppf",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yii2-contactform-module",
-          "description": "Yii2 module to include contact forms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2020-10-27T00:33:06Z",
-            "owner": "daxslab",
-            "repo": "yii2-contactform-module",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "exclusivo-entrada-plugin",
-          "description": "Wordpress plugin to add a phrase or word at the beggining of every entry title..",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "HierarchyTrait",
-          "description": "Add hierarchical functionalities to a class.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Massive Email for OsClass plugins",
-          "description": "Massive email marketing plugin for OsClass CMS.",
-          "children": []
-        }
-      ],
-      "title": "PHP"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "django-reactor",
-          "description": "Django implementation of Phoenix LiveView.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-10T18:39:52Z",
-            "owner": "edelvalle",
-            "repo": "reactor",
-            "stars": 638
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-ajax",
-          "description": "Django library for AJAX operations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-27T20:52:14Z",
-            "owner": "yceruto",
-            "repo": "django-ajax",
-            "stars": 322
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-pgschemas",
-          "description": "Django multi-tenancy using PostgreSQL schemas.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T23:18:35Z",
-            "owner": "lorinkoz",
-            "repo": "django-pgschemas",
-            "stars": 160
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-partial-date",
-          "description": "Django custom model field for partial dates with the form YYYY, YYYY-MM, YYYY-MM-DD.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-01-20T20:13:54Z",
-            "owner": "ktowen",
-            "repo": "django_partial_date",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-js-choices",
-          "description": "JavaScript model's fields choices handling for Django.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-15T18:38:56Z",
-            "owner": "lorinkoz",
-            "repo": "django-js-choices",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TextMadeWeb",
-          "description": "A website to open other websites in text only mode. Example here txtmdweb",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-21T08:36:45Z",
-            "owner": "jadolg",
-            "repo": "TextMadeWeb",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "web2py-simple-seo",
-          "description": "Simple SEO metadata plugin for web2py including Open Graph and Twitter Cards.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2015-09-03T15:53:27Z",
-            "owner": "daxslab",
-            "repo": "web2py-simple-seo",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-l10n-cu",
-          "description": "Django localization app for adapting a product for a cuban market, with Provinces and Municipalities tables populated in the DB.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-04-27T17:55:58Z",
-            "owner": "Mirage-Tech-Cuba",
-            "repo": "django-l10n-cu",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "web2py-typeahead",
-          "description": "typeahead.js autocompletion widget for web2py framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-01-11T16:10:00Z",
-            "owner": "daxslab",
-            "repo": "web2py-typeahead",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flask-base",
-          "description": "Base structure for a web application using the Flask micro-framework and the MVC software architecture pattern.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2022-01-22T00:04:54Z",
-            "owner": "leynier",
-            "repo": "flask-base",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sqlalchemy-connector",
-          "description": "Easy connector for SQL Databases, support for sqlite, postgresql and mysql.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-12-11T18:27:41Z",
-            "owner": "JoseVL92",
-            "repo": "sqlalchemy_multiconnector",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "web2py-thumbnails",
-          "description": "Thumbnails plugin for the web2py framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2015-06-26T12:58:02Z",
-            "owner": "daxslab",
-            "repo": "web2py-thumbnails",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HTTP2COM",
-          "description": "Windows Service that makes bi-directional proxy between HTTP and Serial Port. Can be used for web apps to access the local hardware from the brwser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2014-06-21T04:11:42Z",
-            "owner": "codeadict",
-            "repo": "HTTP2COM",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "http-requests",
-          "description": "HTTP sync / sync library that works with both: requests and aiohttp, exploiting the best of each one.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-05-19T19:27:20Z",
-            "owner": "JoseVL92",
-            "repo": "web-requester",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "my-django-celery-stack",
-          "description": "Implementation of Producer-Consumer using Docker containers with Django App, Celery Worker & Beat and RabbitMQ.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-09T16:10:45Z",
-            "owner": "mrbrazzi",
-            "repo": "my_django_celery_stack",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Spia",
-          "description": "Simple Python internationalization API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-06-03T01:02:00Z",
-            "owner": "daxslab",
-            "repo": "spia",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "web2py-media-gallery",
-          "description": "Global media gallery plugin for web2py",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2015-12-02T13:37:01Z",
-            "owner": "daxslab",
-            "repo": "web2py-media-gallery",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "quotation_followup",
-          "description": "Odoo (Formerly OpenERP) module to follow up quotations by mail.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2014-05-20T21:46:31Z",
-            "owner": "codeadict",
-            "repo": "quotation_followup",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "text-miner",
-          "description": "Utilities for text mining processing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-28T20:31:50Z",
-            "owner": "JoseVL92",
-            "repo": "text-miner",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "web2py-no-captcha-security",
-          "description": "No-Captcha security plugin for the web2py framework to enable bot protection using no-captcha techniques.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-09-28T15:47:05Z",
-            "owner": "daxslab",
-            "repo": "web2py-no-captcha-security",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Python"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "kings-landing",
-          "description": "A modern, simple and customizable landing page dedicated to early customer acquisition for frugal entrepreneurs. Think it as an open-source alternative to LaunchRock without spending 5 bucks monthly.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2023-04-11T23:45:43Z",
-            "owner": "codeadict",
-            "repo": "kings-landing",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pluie",
-          "description": "A fully functional platform for sending SMS. Ten of the most used SMS-Gateways implemented including Twilio. This project was the former core of Knales",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2023-12-15T11:55:34Z",
-            "owner": "luilver",
-            "repo": "pluie",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Ruby"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T01:56:14.023Z",
+    "last_updated": "2026-08-19T12:24:34.346Z",
     "original_repository": "cuban-opensourcers/cuban-opensource",
+    "original_repository_id": 192082154,
     "original_repository_sha": "0144702b850eb3c49aceaf7df7b8931b980dfdda",
     "enhanced_repository": "enhansome/enhansome-cuban-opensource",
     "enhanced_repository_description": null,
