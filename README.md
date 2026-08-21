@@ -33,7 +33,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 * [HogarEnCuba](https://github.com/daxslab/hogarencuba-mobile) ⭐ 6 | 🐛 0 | 🌐 Dart | 📅 2020-12-22: Client for [www.hogarencuba.com](http://www.hogarencuba.com) made in Flutter.
 * [PorLaLivreApp](https://github.com/garciaguimeras/PorLaLivreApp) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-07-03: Android app to check listings in [www.porlalivre.com](http://www.porlalivre.com) while offline.
 * [Cuba Weather](https://github.com/leynier/cuba-weather-flutter) ⭐ 4 | 🐛 0 | 🌐 Dart | 📅 2020-06-03: Mobile client application for [www.redcuba.cu](https://www.redcuba.cu) weather API. Given a location in Cuba, if it is within the permitted locations, meteorological data on the location is obtained.
-* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 13,879 | 🐛 1,063 | 🌐 Kotlin | 📅 2026-08-19 with some changes to simplify configuring Nauta email accounts.
+* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 13,885 | 🐛 1,053 | 🌐 Kotlin | 📅 2026-08-20 with some changes to simplify configuring Nauta email accounts.
 * [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-01: "Escala Geriátrica de Evaluación Funcional Global" is an instrument used in Cuba to evaluate elder people autonomy. This is an Android implementation.
 * [Rellama](https://github.com/Nenirey/Rellama) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2020-09-15: This is an Radial app using lamw, Lazarus and Free Pascal, download in [apklis](https://www.apklis.cu/application/com.example.appintentdemo3).
 * [QvaPay](https://github.com/qvapay/qp): Aplicación móvil de la pasarela de pagos QvaPay.
@@ -262,7 +262,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 * [distributed-eventemitter](https://github.com/jkyberneees/distributed-eventemitter) ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2016-10-31 The ultra fast, distributed (multi process and multi server), STOMP based event emitter for Node.js!
 * [hydra-integration](https://github.com/jkyberneees/hydra-integration) ⭐ 14 | 🐛 17 | 🌐 JavaScript | 📅 2023-01-05 Minimalist 'hydra integration' module, intended for Node.js web frameworks integration.
 * [fastify-msgpack](https://github.com/kenriortega/fastify-msgpack) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2021-05-18 Fastify and MessagePack, together at last. Uses @msgpack/msgpack by default.
-* [string-mismatch.js](https://github.com/wil92/string-mismatch) ⭐ 9 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-05 It is a NodeJS library to see the differences between two strings. It has 3 algorithms with different computational complexities.
+* [string-mismatch.js](https://github.com/wil92/string-mismatch) ⭐ 9 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-20 It is a NodeJS library to see the differences between two strings. It has 3 algorithms with different computational complexities.
 * [http-lambda-proxy](https://github.com/jkyberneees/http-lambda-proxy) ⭐ 8 | 🐛 1 | 🌐 JavaScript | 📅 2020-12-08 Proxy HTTP requests to AWS Lambda.
 * [bull-queue-manager](https://github.com/jkyberneees/bull-queue-manager) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2017-04-18 Minimalist queue manager based on bull.
 * [nacl-signature](https://github.com/jkyberneees/nacl-signature) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2020-04-07 JavaScript module to sign/verify data using NaCL crypto library (TweetNaCL.js)
@@ -342,4 +342,4 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
