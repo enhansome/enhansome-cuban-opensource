@@ -600,6 +600,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "simplebot",
+              "description": "[WIP] A pluginable Delta Chat bot written in Python3.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 171721039,
+                "language": "Python",
+                "last_commit": "2025-04-01T14:41:29Z",
+                "owner": "simplebot-org",
+                "repo": "simplebot",
+                "stars": 38
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Deltachat"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "PTB Django Cookiecutter",
               "description": "A simple cookiecutter to create Python Telegram bots, wrapped with Django.",
               "children": [],
@@ -710,6 +732,48 @@
         }
       ],
       "title": "Bots"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "q-guide",
+          "description": "Q-Guide is a frontend to the ETECSA numbers database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 192606542,
+            "language": "Python",
+            "last_commit": "2019-06-18T20:28:53Z",
+            "owner": "leolopez89",
+            "repo": "Q-Guide",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Catalogs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TeamReference",
+          "description": "Team reference for Competitive Programming. Algorithms implementations very used in the ACM-ICPC contests. Good Latex template to develop your own team reference.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 157612019,
+            "language": "C++",
+            "last_commit": "2022-04-12T18:21:38Z",
+            "owner": "ivangalbans",
+            "repo": "TeamReference",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "Competitive Programming"
     },
     {
       "description": null,
@@ -1147,6 +1211,28 @@
           "description": null,
           "node_type": "group",
           "title": "Scientific software"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ECG BaseLine Wander Removal Methods",
+              "description": "This repository contains 9 methods for Base Line Wander removal on Electrocardiogram signals. It also contains 3 similarity metrics that are applied to signals.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140845465,
+                "language": "MATLAB",
+                "last_commit": "2022-02-23T19:52:12Z",
+                "owner": "fperdigon",
+                "repo": "ECG-BaseLineWander-Removal-Methods",
+                "stars": 48
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other Scientific Open Source Projects"
         }
       ],
       "title": "Open Scientific Research"
@@ -1898,6 +1984,28 @@
             "repo": "dota2-free-data-api",
             "stars": 1
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Zen Twitter",
+              "description": "Hide Twitter vanity metrics, notifications and distractions. Get it on Chrome Store",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 519842072,
+                "language": "CSS",
+                "last_commit": "2022-08-17T15:18:16Z",
+                "owner": "manuelernestog",
+                "repo": "zen-twitter",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Browser extensions"
         }
       ],
       "title": "Web Applications"
@@ -2250,6 +2358,28 @@
               "description": null,
               "node_type": "group",
               "title": "React.js"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TypeScriptTools",
+                  "description": "tools to aid frontend development with TypeScript and jQuery.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 172961009,
+                    "language": "TypeScript",
+                    "last_commit": "2020-05-21T13:38:01Z",
+                    "owner": "garciaguimeras",
+                    "repo": "TypeScriptTools",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "TypeScript"
             }
           ],
           "description": null,
@@ -2876,13 +3006,35 @@
           "description": null,
           "node_type": "group",
           "title": "Ruby"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Multi Steps Form Component for Bootstrap",
+              "description": "Easily create multi-step forms for Bootstrap",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 533064232,
+                "language": "HTML",
+                "last_commit": "2022-09-10T15:33:32Z",
+                "owner": "manuelernestog",
+                "repo": "bootstrap-multi-steps-component",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "UI Libraries"
         }
       ],
       "title": "Web Development"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:01:10.889Z",
+    "last_updated": "2026-08-24T14:33:07.413Z",
     "original_repository": "cuban-opensourcers/cuban-opensource",
     "original_repository_id": 192082154,
     "original_repository_sha": "0144702b850eb3c49aceaf7df7b8931b980dfdda",
