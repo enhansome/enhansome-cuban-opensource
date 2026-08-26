@@ -33,7 +33,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 * [HogarEnCuba](https://github.com/daxslab/hogarencuba-mobile) ⭐ 6 | 🐛 0 | 🌐 Dart | 📅 2020-12-22: Client for [www.hogarencuba.com](http://www.hogarencuba.com) made in Flutter.
 * [PorLaLivreApp](https://github.com/garciaguimeras/PorLaLivreApp) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-07-03: Android app to check listings in [www.porlalivre.com](http://www.porlalivre.com) while offline.
 * [Cuba Weather](https://github.com/leynier/cuba-weather-flutter) ⭐ 4 | 🐛 0 | 🌐 Dart | 📅 2020-06-03: Mobile client application for [www.redcuba.cu](https://www.redcuba.cu) weather API. Given a location in Cuba, if it is within the permitted locations, meteorological data on the location is obtained.
-* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 13,908 | 🐛 1,057 | 🌐 Kotlin | 📅 2026-08-24 with some changes to simplify configuring Nauta email accounts.
+* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 13,915 | 🐛 1,049 | 🌐 Kotlin | 📅 2026-08-26 with some changes to simplify configuring Nauta email accounts.
 * [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-01: "Escala Geriátrica de Evaluación Funcional Global" is an instrument used in Cuba to evaluate elder people autonomy. This is an Android implementation.
 * [Rellama](https://github.com/Nenirey/Rellama) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2020-09-15: This is an Radial app using lamw, Lazarus and Free Pascal, download in [apklis](https://www.apklis.cu/application/com.example.appintentdemo3).
 * [QvaPay](https://github.com/qvapay/qp): Aplicación móvil de la pasarela de pagos QvaPay.
@@ -95,7 +95,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Docker
 
-* [DockerImageSave](https://github.com/jadolg/DockerImageSave) ⭐ 93 | 🐛 4 | 🌐 Go | 📅 2026-08-24 Saves docker images on a remote host and allows you to download them to circumvent Docker censorship on Cuba
+* [DockerImageSave](https://github.com/jadolg/DockerImageSave) ⭐ 93 | 🐛 2 | 🌐 Go | 📅 2026-08-25 Saves docker images on a remote host and allows you to download them to circumvent Docker censorship on Cuba
 * [Portainer Stack Utils](https://github.com/greenled/portainer-stack-utils) ⭐ 75 | 🐛 14 | 🌐 Go | 📅 2025-12-05 CLI client for [Portainer](https://portainer.io/)
 * [SimpleStaticServer](https://github.com/PhaserEditor2D/SimpleStaticServer/) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2021-07-08 Zero-configuration server for static files. Optimized for HTML5 games and Single Page Applications. Made with Go.
 * [restana-static](https://hub.docker.com/r/kyberneees/restana-static) Efficiently serve static files using Node.js and Docker containers: <https://itnext.io/restana-static-serving-the-frontend-with-node-js-beyond-nginx-e45fdb2e49cb>
@@ -224,10 +224,10 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 * [Covid19 Cuba Data](https://github.com/covid19cubadata/covid19cubadata.github.io) ⭐ 68 | 🐛 15 | 🌐 JavaScript | 📅 2024-08-10: Covid19 - Dashboard for Cuba
 * [Easypodcasts](https://github.com/easypodcasts/easy_podcasts) ⭐ 39 | 🐛 4 | 🌐 Elixir | 📅 2025-07-04: Podcasts aggregator and audio compressor for cubans.
-* [Binary Coffee Frontend](https://github.com/dcs-community/dcs-frontend) ⭐ 14 | 🐛 55 | 🌐 TypeScript | 📅 2026-08-24: Frontend developed in Angular of the Binary Coffee community <https://binary-coffee.dev>
+* [Binary Coffee Frontend](https://github.com/dcs-community/dcs-frontend) ⭐ 14 | 🐛 55 | 🌐 TypeScript | 📅 2026-08-25: Frontend developed in Angular of the Binary Coffee community <https://binary-coffee.dev>
 * [Threadly Frontend](https://github.com/ragnarok22/threadly) ⚠️ Archived: Schedule, manage and create Twitter's threads in a thoughtful way.
 * [NStart](https://github.com/Pixely-Studios/NStart) ⭐ 10 | 🐛 5 | 🌐 HTML | 📅 2024-04-29: Una solucion para estudios de videojuegos que necesiten una página para promocionar su estudio, sus productos y su equipo.
-* [Binary Coffee API](https://github.com/dcs-community/dcs-blog) ⭐ 9 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-24: Backend based in strapi of the Binary Coffee community <https://binary-coffee.dev>
+* [Binary Coffee API](https://github.com/dcs-community/dcs-blog) ⭐ 9 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-25: Backend based in strapi of the Binary Coffee community <https://binary-coffee.dev>
 * [django-misclientes](https://github.com/dcruz1990/django-misclientes) ⭐ 6 | 🐛 2 | 🌐 HTML | 📅 2023-10-03: A simple Django App to manage contracts and customers in companies.
 * [Binary Coffee Admin Frontend](https://github.com/dcs-community/dcs-admin-frontend) ⚠️ Archived: Administration frontend developed in Angular of the Binary Coffee community <https://binary-coffee.dev>
 * [CovidCuba](https://github.com/llamaret/covidcuba.swlx.info) ⭐ 5 | 🐛 1 | 🌐 JavaScript | 📅 2024-08-10: Website COVID-19 Pandemic Situation in Cuba. From SWL-X Project
@@ -285,7 +285,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ### PHP
 
-* [symfony-skeleton-vkernel](https://github.com/yceruto/symfony-skeleton-vkernel) ⭐ 134 | 🐛 3 | 🌐 PHP | 📅 2026-06-16: Start point to build multiple Symfony applications with shared config, code and vendors in the same place/repo.
+* [symfony-skeleton-vkernel](https://github.com/yceruto/symfony-skeleton-vkernel) ⭐ 133 | 🐛 3 | 🌐 PHP | 📅 2026-06-16: Start point to build multiple Symfony applications with shared config, code and vendors in the same place/repo.
 * [yii2-taggedview](https://github.com/daxslab/yii2-taggedview) ⭐ 11 | 🐛 2 | 🌐 PHP | 📅 2021-08-25: Yii2 extension to add standard HTML metatags and social one (Open Graph and Twitter Cards) in order to crontribute to webiste SEO.
 * [yii2-thumbnailer](https://github.com/daxslab/yii2-thumbnailer) ⭐ 9 | 🐛 2 | 🌐 PHP | 📅 2024-06-25: Yii2 extension to generate (any size) thumbnails for any image on the fly.
 * [fastcode-ci](https://github.com/cjamcu/fastcode-ci) ⚠️ Archived: CLI commands for CodeIgniter 4 that allows to quickly create repetitive code.
@@ -342,4 +342,4 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
