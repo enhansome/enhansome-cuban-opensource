@@ -33,7 +33,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 * [HogarEnCuba](https://github.com/daxslab/hogarencuba-mobile) ⭐ 6 | 🐛 0 | 🌐 Dart | 📅 2020-12-22: Client for [www.hogarencuba.com](http://www.hogarencuba.com) made in Flutter.
 * [PorLaLivreApp](https://github.com/garciaguimeras/PorLaLivreApp) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-07-03: Android app to check listings in [www.porlalivre.com](http://www.porlalivre.com) while offline.
 * [Cuba Weather](https://github.com/leynier/cuba-weather-flutter) ⭐ 4 | 🐛 0 | 🌐 Dart | 📅 2020-06-03: Mobile client application for [www.redcuba.cu](https://www.redcuba.cu) weather API. Given a location in Cuba, if it is within the permitted locations, meteorological data on the location is obtained.
-* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 13,926 | 🐛 1,045 | 🌐 Kotlin | 📅 2026-08-26 with some changes to simplify configuring Nauta email accounts.
+* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 13,926 | 🐛 1,043 | 🌐 Kotlin | 📅 2026-08-27 with some changes to simplify configuring Nauta email accounts.
 * [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-01: "Escala Geriátrica de Evaluación Funcional Global" is an instrument used in Cuba to evaluate elder people autonomy. This is an Android implementation.
 * [Rellama](https://github.com/Nenirey/Rellama) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2020-09-15: This is an Radial app using lamw, Lazarus and Free Pascal, download in [apklis](https://www.apklis.cu/application/com.example.appintentdemo3).
 * [QvaPay](https://github.com/qvapay/qp): Aplicación móvil de la pasarela de pagos QvaPay.
@@ -139,7 +139,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ## Multimedia
 
 * [MystiQ](https://github.com/llamaret/MystiQ/) ⭐ 595 | 🐛 42 | 🌐 C++ | 📅 2024-06-12: Qt5/C++ FFmpeg Media Converter.
-* [VideoMorph](https://github.com/videomorph-dev/videomorph) ⭐ 97 | 🐛 8 | 🌐 Python | 📅 2024-01-04: GUI wrapper for ffmpeg.
+* [VideoMorph](https://github.com/videomorph-dev/videomorph) ⭐ 98 | 🐛 8 | 🌐 Python | 📅 2024-01-04: GUI wrapper for ffmpeg.
 * [LazView](https://github.com/Nenirey/LazView) ⭐ 18 | 🐛 1 | 🌐 Pascal | 📅 2025-12-01: imagen viewer written in Free Pascal and Lazarus
 * [Picta Downloader GUI](https://github.com/oleksis/picta-dl-gui) ⭐ 16 | 🐛 1 | 🌐 C++ | 📅 2022-01-15: allows you to download audiovisual content from [Picta](https://www.picta.cu/)
 

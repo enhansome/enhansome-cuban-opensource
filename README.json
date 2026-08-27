@@ -1099,7 +1099,7 @@
             "last_commit": "2024-01-04T21:59:34Z",
             "owner": "videomorph-dev",
             "repo": "videomorph",
-            "stars": 97
+            "stars": 98
           }
         },
         {
@@ -3034,9 +3034,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T09:59:18.239Z",
-    "original_repository": "cuban-opensourcers/cuban-opensource",
-    "original_repository_id": 192082154,
+    "last_updated": "2026-08-27T11:31:39.365Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 192082154,
+      "language": null,
+      "last_commit": "2024-02-10T04:48:06Z",
+      "owner": "cuban-opensourcers",
+      "repo": "cuban-opensource",
+      "stars": 199
+    },
     "original_repository_sha": "0144702b850eb3c49aceaf7df7b8931b980dfdda",
     "enhanced_repository": "enhansome/enhansome-cuban-opensource",
     "enhanced_repository_description": null,
