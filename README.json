@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed Systems Project for the 2019-2020 course of the Computer Science degree at the University of Havana, Cuba.",
+            "homepage": null,
             "id": 209832362,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-21T00:07:05Z",
+            "open_issues": 0,
             "owner": "codestrange",
             "repo": "matcom-messenger",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "dht",
+              "distributed-systems",
+              "kademlia",
+              "lamport-clock",
+              "messaging-app",
+              "messaging-services"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -26,12 +38,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Proyecto de Sistemas de Bases de Datos II del curso 2018-2019 de la carrera de Ciencia de la Computación de la Universidad de La Habana, Cuba.",
+            "homepage": null,
             "id": 170082265,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-06-26T18:15:47Z",
+            "open_issues": 0,
             "owner": "codestrange",
             "repo": "calendario-matcom",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "flask",
+              "scheduler",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -42,12 +63,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Proyecto de Ingeniería de Software del curso 2018-2019 de la carrera de Ciencia de la Computación de la Universidad de La Habana, Cuba.",
+            "homepage": null,
             "id": 184320730,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-01-22T00:04:12Z",
+            "open_issues": 0,
             "owner": "codestrange",
             "repo": "viajes-uh",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "flask",
+              "flask-admin",
+              "flask-cors",
+              "flask-login",
+              "flask-migrate",
+              "flask-shell-ipython",
+              "flask-sqlalchemy",
+              "flask-wtf",
+              "model-view-controller",
+              "mvc",
+              "software-engineering",
+              "sqlalchemy"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -58,12 +97,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine Programming II Project for the 2018-2019 course of the Computer Science degree at the University of Havana, Cuba.",
+            "homepage": null,
             "id": 222384587,
             "language": "HTML",
+            "license": null,
             "last_commit": "2019-11-18T07:09:38Z",
+            "open_issues": 0,
             "owner": "codestrange",
             "repo": "webserver",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "c",
+              "http-server",
+              "web-server"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -74,12 +122,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "School project about Numerical Integral Equation of the Computer Science degree of the Faculty of Mathematics and Computing of the University of Havana.",
+            "homepage": null,
             "id": 225769625,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-06T22:03:07Z",
+            "open_issues": 0,
             "owner": "leynier",
             "repo": "numerical-integral-equation",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "computer-science",
+              "matcom",
+              "numerical-integral-equation",
+              "school-project",
+              "university-of-havana"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -90,12 +149,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "School project about Numerical Nonlinear Equation of the Computer Science degree of the Faculty of Mathematics and Computing of the University of Havana.",
+            "homepage": null,
             "id": 227005472,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2019-12-11T05:29:58Z",
+            "open_issues": 0,
             "owner": "leynier",
             "repo": "numerical-nonlinear-equation",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "computer-science",
+              "matcom",
+              "numerical-nonlinear-equation",
+              "school-project",
+              "university-of-havana"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -106,12 +176,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine Programming II Project for the 2018-2019 course of the Computer Science degree at the University of Havana, Cuba.",
+            "homepage": null,
             "id": 222385375,
             "language": "C",
+            "license": null,
             "last_commit": "2019-11-18T07:13:57Z",
+            "open_issues": 0,
             "owner": "codestrange",
             "repo": "shellout",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "c",
+              "command-line",
+              "console-application"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -122,12 +201,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Proyecto de Programación de Máquinas I.",
+            "homepage": null,
             "id": 149352708,
             "language": "Assembly",
+            "license": null,
             "last_commit": "2020-06-03T08:03:53Z",
+            "open_issues": 0,
             "owner": "leynier",
             "repo": "vimasm",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "assembly",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -138,12 +225,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Programando a Wall-E. Segundo Proyecto de Programación.",
+            "homepage": null,
             "id": 149353306,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2020-06-03T08:03:39Z",
+            "open_issues": 0,
             "owner": "leynier",
             "repo": "wall-e",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "compilers",
+              "csharp"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -154,12 +249,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine Programming II Project for the 2018-2019 course of the Computer Science degree at the University of Havana, Cuba.",
+            "homepage": null,
             "id": 222385161,
             "language": "C",
+            "license": null,
             "last_commit": "2019-11-18T07:11:38Z",
+            "open_issues": 0,
             "owner": "codestrange",
             "repo": "warehouse-producer-consumer",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "c",
+              "producer-consumer",
+              "race-conditions",
+              "warehouse-management-system"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -170,12 +275,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This sample project is managing gateways - master devices that control multiple peripheral devices.",
+            "homepage": null,
             "id": 388677838,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-07-25T19:48:30Z",
+            "open_issues": 0,
             "owner": "glpzzz",
             "repo": "gateways",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "bootstrap5",
+              "chai",
+              "crud",
+              "docker-compose",
+              "expressjs",
+              "mocha",
+              "mongoose",
+              "nodejs",
+              "rest-api",
+              "unit-testing",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -186,12 +308,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "School project about Numerical Integration of the Computer Science degree of the Faculty of Mathematics and Computing of the University of Havana.",
+            "homepage": null,
             "id": 224576336,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-06T22:02:55Z",
+            "open_issues": 0,
             "owner": "leynier",
             "repo": "numerical-integration",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "computer-science",
+              "matcom",
+              "numerical-integration",
+              "school-project",
+              "university-of-havana"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         }
@@ -208,12 +341,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mobile application of Covid19 Cuba Data project implemented with Flutter",
+            "homepage": "https://covid19cubadata.github.io",
             "id": 249562862,
             "language": "Dart",
+            "license": "GPL-3.0",
             "last_commit": "2020-09-04T09:08:50Z",
+            "open_issues": 7,
             "owner": "covid19cuba",
             "repo": "covid19cuba-app",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "covid-19",
+              "covid19",
+              "covid19cubadata",
+              "cuba",
+              "flutter",
+              "flutter-app",
+              "flutter-application",
+              "mobile-app",
+              "mobile-application",
+              "sars-cov-2"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -224,12 +373,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Recargue fácilmente su saldo móvil desde cupones de ETECSA",
+            "homepage": null,
             "id": 53676703,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2020-04-20T00:03:09Z",
+            "open_issues": 0,
             "owner": "daxslab",
             "repo": "fotorecarga",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -240,12 +394,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aplicación para Android que advierte cuando un usuario se ha conectado a una red pública de etecsa sospechosa",
+            "homepage": null,
             "id": 149671675,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2018-12-27T00:49:49Z",
+            "open_issues": 3,
             "owner": "daxslab",
             "repo": "es_wifi_etecsa",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -256,12 +415,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transacction viewer for Transfermovil cuban app",
+            "homepage": null,
             "id": 139487067,
             "language": "Dart",
+            "license": null,
             "last_commit": "2020-08-20T23:03:41Z",
+            "open_issues": 2,
             "owner": "aleguerra05",
             "repo": "metro_trans",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "banco",
+              "cuba",
+              "etecsa",
+              "metropolitano",
+              "transacciones",
+              "transfermovil"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -272,12 +443,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 144878433,
             "language": "Dart",
+            "license": null,
             "last_commit": "2020-12-14T07:08:57Z",
+            "open_issues": 0,
             "owner": "rlazom",
             "repo": "BanKDroid",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -288,12 +466,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn off your Android phone's screen by shaking the device",
+            "homepage": null,
             "id": 85114033,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-07-23T12:03:47Z",
+            "open_issues": 0,
             "owner": "jadolg",
             "repo": "ShakeItOff",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -304,12 +487,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "NTLM proxy for android (no root required)",
+            "homepage": null,
             "id": 29331276,
             "language": "Java",
+            "license": null,
             "last_commit": "2016-08-30T14:05:33Z",
+            "open_issues": 0,
             "owner": "jadolg",
             "repo": "UCIntlm",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -320,12 +508,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mobile apps for HogarEnCuba website",
+            "homepage": null,
             "id": 208341898,
             "language": "Dart",
+            "license": null,
             "last_commit": "2020-12-22T19:25:45Z",
+            "open_issues": 0,
             "owner": "daxslab",
             "repo": "hogarencuba-mobile",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -336,12 +529,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 195082854,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2019-07-03T15:39:10Z",
+            "open_issues": 0,
             "owner": "garciaguimeras",
             "repo": "PorLaLivreApp",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -352,12 +550,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Application for mobile devices of the Cuba Weather project implemented with Flutter",
+            "homepage": "https://cubaweather.app",
             "id": 235717726,
             "language": "Dart",
+            "license": "GPL-3.0",
             "last_commit": "2020-06-03T08:01:22Z",
+            "open_issues": 0,
             "owner": "leynier",
             "repo": "cuba-weather-flutter",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "cuba-weather",
+              "flutter",
+              "flutter-app",
+              "weather",
+              "weather-app"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -368,12 +577,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cliente de correo Android optimizado para el uso del servicio Nauta",
+            "homepage": null,
             "id": 47355971,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2015-12-16T18:23:32Z",
+            "open_issues": 8,
             "owner": "daxslab",
             "repo": "daxSmail",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -384,12 +598,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aplicación que implementa la Escala Geriátrica de Evaluación Funcional Global. Instrumento que permite reconocer precozmente la autonomía del adulto mayor.",
+            "homepage": "http://esge.daxslab.com/",
             "id": 146324602,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-12-01T02:12:25Z",
+            "open_issues": 0,
             "owner": "daxslab",
             "repo": "escala-geriatrica",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "adulto",
+              "android",
+              "app",
+              "escala",
+              "instrumento",
+              "mayor",
+              "test"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -400,12 +627,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is an Radial app using lamw, Lazarus and Free Pascal",
+            "homepage": null,
             "id": 278753070,
             "language": "Java",
+            "license": null,
             "last_commit": "2020-09-15T13:25:40Z",
+            "open_issues": 0,
             "owner": "Nenirey",
             "repo": "Rellama",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         }
@@ -422,12 +654,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python API wrapper for Rocket.Chat",
+            "homepage": null,
             "id": 84824266,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-08T08:17:28Z",
+            "open_issues": 9,
             "owner": "jadolg",
             "repo": "rocketchat_API",
-            "stars": 293
+            "stars": 293,
+            "topics": [
+              "hacktoberfest",
+              "python-api-wrapper",
+              "rocketchat",
+              "rocketchat-api",
+              "rocketchat-sdk"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -438,12 +681,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Easy setup and API management for OpenVPN server",
+            "homepage": null,
             "id": 260968763,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-20T15:09:46Z",
+            "open_issues": 2,
             "owner": "jadolg",
             "repo": "vpn2go",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "docker-openvpn",
+              "hacktoberfest",
+              "openvpn",
+              "openvpn-server"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         }
@@ -462,12 +715,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Arduino Si5351 library tuned for size and click free.",
+                "homepage": null,
                 "id": 87822973,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2022-03-22T19:39:05Z",
+                "open_issues": 5,
                 "owner": "pavelmc",
                 "repo": "Si5351mcu",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "arduino",
+                  "bitx20",
+                  "click-free",
+                  "co7wt",
+                  "dds",
+                  "hamradio",
+                  "homebrew",
+                  "pll",
+                  "si5351",
+                  "vfo"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -478,12 +747,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CAT support for Arduino, simulating a Yaesu FT-857D",
+                "homepage": null,
                 "id": 68032971,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2023-08-29T00:52:52Z",
+                "open_issues": 5,
                 "owner": "pavelmc",
                 "repo": "FT857d",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "amateur",
+                  "arduino",
+                  "cat",
+                  "control",
+                  "ft857",
+                  "hamlib",
+                  "hamradio",
+                  "pc-control",
+                  "radio",
+                  "radio-control",
+                  "yaesu"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -494,12 +780,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Analog Button Muxer, click & hold: the intuitive way.",
+                "homepage": null,
                 "id": 70643306,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2018-07-17T12:56:28Z",
+                "open_issues": 0,
                 "owner": "pavelmc",
                 "repo": "BMux",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "adc",
+                  "analog-button-muxer",
+                  "analog-pins",
+                  "arduino",
+                  "buttons",
+                  "library",
+                  "multiple-buttons",
+                  "resistor"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -510,12 +810,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yet another tune lib: Linear volume control instead a rotary encoder, from the bitx40 idea.",
+                "homepage": null,
                 "id": 92175261,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2018-07-17T12:56:53Z",
+                "open_issues": 0,
                 "owner": "pavelmc",
                 "repo": "Yatuli",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "arduino",
+                  "bitx",
+                  "bitx40",
+                  "co7wt",
+                  "control",
+                  "encoder",
+                  "ham",
+                  "hamradio",
+                  "linear",
+                  "radio",
+                  "tune",
+                  "volume"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -526,12 +844,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A non-blocking stepper Library to control unipolar Motors, with some tricks under the hood",
+                "homepage": null,
                 "id": 151143588,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2018-10-01T23:07:53Z",
+                "open_issues": 0,
                 "owner": "pavelmc",
                 "repo": "stepperUnipolar",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             }
@@ -549,12 +872,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A very simple Arduino command line interface for linux",
+                "homepage": null,
                 "id": 78233717,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2020-11-09T14:12:44Z",
+                "open_issues": 2,
                 "owner": "pavelmc",
                 "repo": "amake",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "arduino",
+                  "arduino-ide",
+                  "bash",
+                  "board",
+                  "cli",
+                  "develop",
+                  "geany",
+                  "hack",
+                  "ide",
+                  "linux",
+                  "ubuntu",
+                  "uno"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -565,12 +906,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Amateur Radio Control & Clock (RF) Solution",
+                "homepage": null,
                 "id": 60937466,
                 "language": "Arduino",
+                "license": "GPL-3.0",
                 "last_commit": "2017-11-13T20:21:38Z",
+                "open_issues": 0,
                 "owner": "pavelmc",
                 "repo": "arduino-arcs",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "arduino",
+                  "arduino-sketches",
+                  "bitx20",
+                  "cat",
+                  "cat-control",
+                  "ham",
+                  "hamradio",
+                  "homebrew",
+                  "radio",
+                  "randuino",
+                  "transceiver",
+                  "ubitx",
+                  "vfo"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -581,12 +941,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Carrito (Spanish for Small car) a home brewed arduino controled car.",
+                "homepage": null,
                 "id": 151140926,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2018-10-01T19:25:47Z",
+                "open_issues": 0,
                 "owner": "pavelmc",
                 "repo": "carrito",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "arduino",
+                  "car",
+                  "control",
+                  "homebrew"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -597,12 +967,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-Probe SWR/PWR Meter with Icom Tuner handling for Yaesu Rigs",
+                "homepage": null,
                 "id": 101918327,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2017-08-30T19:01:50Z",
+                "open_issues": 0,
                 "owner": "pavelmc",
                 "repo": "multi-probe-swr-meter",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -613,12 +988,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DIY wx station for fun and learn, always evolving...",
+                "homepage": null,
                 "id": 231269862,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2020-04-13T03:32:46Z",
+                "open_issues": 0,
                 "owner": "stdevPavelmc",
                 "repo": "esp8266_wx_station",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             }
@@ -642,12 +1022,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Extensible Delta Chat bot written in Python3",
+                "homepage": null,
                 "id": 171721039,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2025-04-01T14:41:29Z",
+                "open_issues": 6,
                 "owner": "simplebot-org",
                 "repo": "simplebot",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "bot",
+                  "chatbot",
+                  "deltachat",
+                  "email"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             }
@@ -665,12 +1055,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple cookiecutter to create Python Telegram bots, wrapped with Django.",
+                "homepage": "https://ptb-django-cookiecutter.readthedocs.io/en/latest/",
                 "id": 367896865,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-10-20T19:58:45Z",
+                "open_issues": 0,
                 "owner": "CarlosLugones",
                 "repo": "ptb-django-cookiecutter",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "boilerplate",
+                  "bot",
+                  "cookiecutter",
+                  "django",
+                  "python",
+                  "telegram"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -681,12 +1083,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Telegram Bot of the Cuba Weather project implemented with Python",
+                "homepage": "https://cubaweather.app",
                 "id": 230964504,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2020-04-11T05:45:15Z",
+                "open_issues": 0,
                 "owner": "cuba-weather",
                 "repo": "cuba-weather-telegram-bot",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "cuba-weather",
+                  "python",
+                  "telegram-bot",
+                  "weather",
+                  "weather-api"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -697,12 +1110,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 219849939,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-05T04:56:03Z",
+                "open_issues": 24,
                 "owner": "rocana95",
                 "repo": "web-podcast",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -713,12 +1131,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bot that publishes the latest articles to the Telegram channel.",
+                "homepage": null,
                 "id": 234645307,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-31T23:52:55Z",
+                "open_issues": 4,
                 "owner": "binary-coffee-dev",
                 "repo": "binarycoffee_bot",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -729,12 +1152,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 251388989,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2020-04-13T15:47:24Z",
+                "open_issues": 1,
                 "owner": "luiscib3r",
                 "repo": "covid19cuba_bot",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -745,12 +1173,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 452014679,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-07-25T02:04:18Z",
+                "open_issues": 0,
                 "owner": "M4ss1ck",
                 "repo": "tg-telegraf-bot",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -761,12 +1194,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Send polls with more than 10 options and they will be divided equally using the /poll command.",
+                "homepage": null,
                 "id": 464777889,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-05-01T04:58:13Z",
+                "open_issues": 0,
                 "owner": "M4ss1ck",
                 "repo": "longPollRobot",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "bot",
+                  "telegraf",
+                  "telegram-bot"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             }
@@ -788,12 +1230,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Frontend to ETECSA Database, built with PyQt4",
+            "homepage": null,
             "id": 192606542,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-06-18T20:28:53Z",
+            "open_issues": 0,
             "owner": "leolopez89",
             "repo": "Q-Guide",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         }
@@ -810,12 +1257,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Team reference for Competitive Programming.  Algorithms implementations very used in the ACM-ICPC contests. Latex template to build your own team reference.",
+            "homepage": "https://github.com/ivangalbans/TeamReference/blob/master/reference.pdf",
             "id": 157612019,
             "language": "C++",
+            "license": null,
             "last_commit": "2022-04-12T18:21:38Z",
+            "open_issues": 0,
             "owner": "ivangalbans",
             "repo": "TeamReference",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "acm-icpc",
+              "algorithm-competitions",
+              "bitmask",
+              "competitive-programming",
+              "competitive-programming-algorithms",
+              "competitive-programming-contests",
+              "competitive-programming-reference",
+              "computational-geometry-algorithms",
+              "data-structures",
+              "dynamic-programming",
+              "graph-algorithms",
+              "matrix",
+              "maxflow",
+              "number-theory",
+              "parsing",
+              "programming-competitions",
+              "sorting-searching",
+              "string-matching"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         }
@@ -832,12 +1303,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Download Docker images as files. Useful if you are located in places where DockerHub is blocked.",
+            "homepage": "https://dockerimagesave.akiel.dev/",
             "id": 146609838,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-25T13:24:16Z",
+            "open_issues": 2,
             "owner": "jadolg",
             "repo": "DockerImageSave",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "china",
+              "cuba",
+              "docker",
+              "hacktoberfest",
+              "iran"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -848,12 +1330,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI client for Portainer",
+            "homepage": "https://hub.docker.com/r/greenled/portainer-stack-utils/",
             "id": 158273186,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-05T02:34:50Z",
+            "open_issues": 14,
             "owner": "greenled",
             "repo": "portainer-stack-utils",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "api-client",
+              "bash",
+              "continuous-deployment",
+              "deployment",
+              "docker",
+              "docker-compose",
+              "go",
+              "httpie",
+              "jq",
+              "json-configuration",
+              "proxy",
+              "yaml-configuration"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -864,12 +1364,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A very simple HTTP server for static content (HTML5 games, single page applications).",
+            "homepage": null,
             "id": 381924291,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-07-08T15:01:51Z",
+            "open_issues": 0,
             "owner": "PhaserEditor2D",
             "repo": "SimpleStaticServer",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         }
@@ -886,12 +1391,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Restana is a lightweight and fast Node.js framework for building RESTful APIs.",
+            "homepage": "https://restana.21no.de",
             "id": 88511749,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-19T15:05:03Z",
+            "open_issues": 1,
             "owner": "BackendStack21",
             "repo": "restana",
-            "stars": 469
+            "stars": 469,
+            "topics": [
+              "framework",
+              "http",
+              "http-server",
+              "microservices",
+              "middleware",
+              "nodejs",
+              "nodejs-server",
+              "rest-api",
+              "restful",
+              "webserver"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -902,12 +1423,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zero friction HTTP requests router. The need for speed!",
+            "homepage": "https://0http.21no.de",
             "id": 175988627,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-21T09:05:04Z",
+            "open_issues": 1,
             "owner": "BackendStack21",
             "repo": "0http",
-            "stars": 167
+            "stars": 167,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -918,12 +1444,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mail services creation microframework",
+            "homepage": null,
             "id": 34669020,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2023-12-19T08:11:05Z",
+            "open_issues": 5,
             "owner": "daxslab",
             "repo": "mailProc",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -934,12 +1465,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PHP framework for creating PHP applications with reactive pages using the event driven programming paradigm between browser and server.",
+            "homepage": "https://github.com/thenlabs/doc/blob/master/stratus-php/master/en/index.md",
             "id": 273339433,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2024-11-06T19:26:21Z",
+            "open_issues": 2,
             "owner": "thenlabs",
             "repo": "stratus-php",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "ajax",
+              "event-driven",
+              "php",
+              "php-framework",
+              "php7",
+              "reactive",
+              "reactiveui",
+              "spa"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -950,12 +1495,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extends applications of PHPUnit to the BDD field",
+            "homepage": "https://pyramidal-tests.nbit.cu",
             "id": 153110710,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-01-28T01:37:01Z",
+            "open_issues": 1,
             "owner": "andaniel05",
             "repo": "PyramidalTests",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "bdd",
+              "bdd-framework",
+              "bdd-style",
+              "bdd-style-testing-framework",
+              "bdd-tests",
+              "php",
+              "php7",
+              "phpunit",
+              "phpunit7"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -966,12 +1526,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node Full Stack Web Framework",
+            "homepage": null,
             "id": 90284732,
             "language": "CSS",
+            "license": null,
             "last_commit": "2026-02-05T13:56:22Z",
+            "open_issues": 1,
             "owner": "williamamed",
             "repo": "Raptor.js",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "nodejs",
+              "webframework"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -982,12 +1550,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 130065924,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-04-20T10:53:01Z",
+            "open_issues": 0,
             "owner": "GlueApps",
             "repo": "GluePHP",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "framework",
+              "framework-php",
+              "fullstack-development",
+              "php",
+              "php7-1",
+              "php71"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -998,12 +1578,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PHP framework for build redistributables views and compiled from objects.",
+            "homepage": "https://github.com/thenlabs/doc/blob/master/composed-views/1.0/en/index.md",
             "id": 239029636,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-04-18T16:13:25Z",
+            "open_issues": 1,
             "owner": "thenlabs",
             "repo": "composed-views",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         }
@@ -1020,12 +1605,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is an Python_PyQt for Kindle touch and PaperWhite Amazon devices",
+            "homepage": null,
             "id": 66655955,
             "language": "Python",
+            "license": null,
             "last_commit": "2016-09-14T01:18:26Z",
+            "open_issues": 0,
             "owner": "fperdigon",
             "repo": "kindle_Python_PyQt_env",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1036,12 +1626,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project aim to make and/or port some usefull aplications writed in PyQt for Kindle Touch and PaperWithe Amazon devices.",
+            "homepage": null,
             "id": 66654368,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-05-10T22:51:48Z",
+            "open_issues": 0,
             "owner": "fperdigon",
             "repo": "kindle_PyQT_apps",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1052,12 +1647,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build PyQt5 apps easily using MVP pattern",
+            "homepage": null,
             "id": 502071147,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-04-21T20:35:16Z",
+            "open_issues": 0,
             "owner": "R0land013",
             "repo": "easy-mvp",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         }
@@ -1074,12 +1674,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An internet connection monitor for ESP8866",
+            "homepage": null,
             "id": 216148850,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-10-19T04:26:52Z",
+            "open_issues": 0,
             "owner": "jadolg",
             "repo": "IoTInternetMonitior",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1090,12 +1695,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VerneMQ plugin that aggregates and sends MQTT messages to AWS Kinesis.",
+            "homepage": null,
             "id": 111620522,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2018-02-23T19:18:25Z",
+            "open_issues": 1,
             "owner": "redclawtech",
             "repo": "vernemq_kinesis",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "aws",
+              "erlang",
+              "iot",
+              "kinesis-stream",
+              "mqtt",
+              "vernemq",
+              "vernemq-plugins"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1106,12 +1724,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VerneMQ plugin to send broker metrics to Amazon CloudWatch.",
+            "homepage": null,
             "id": 135215695,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2019-03-21T16:03:52Z",
+            "open_issues": 0,
             "owner": "redclawtech",
             "repo": "vmq_cloudwatch_metrics",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "aws",
+              "cloudwatch-metrics",
+              "erlang",
+              "monitoring-plugins",
+              "monitoring-tool",
+              "mqtt",
+              "vernemq"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1122,12 +1753,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Headless server for email automation",
+            "homepage": null,
             "id": 175881620,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-09-07T20:03:48Z",
+            "open_issues": 0,
             "owner": "JimScope",
             "repo": "PowerM",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "automation",
+              "emails",
+              "server"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         }
@@ -1144,12 +1784,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qt5/C++ FFmpeg Media Converter ",
+            "homepage": "https://mystiqapp.com",
             "id": 202271902,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2024-06-12T02:50:36Z",
+            "open_issues": 42,
             "owner": "swl-x",
             "repo": "MystiQ",
-            "stars": 595
+            "stars": 595,
+            "topics": [
+              "audio",
+              "conversion",
+              "converter-encoding",
+              "cpp",
+              "ffmpeg",
+              "ffmpeg-wrapper",
+              "gui",
+              "media-converter",
+              "multimedia",
+              "qml",
+              "qt5",
+              "transcoding",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1160,12 +1819,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A user-friendly Video Converter based on FFMPEG and written in Python/PyQt5.",
+            "homepage": "https://videomorph-dev.github.io/videomorph/",
             "id": 142578958,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-04T21:59:34Z",
+            "open_issues": 8,
             "owner": "videomorph-dev",
             "repo": "videomorph",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "ffmpeg",
+              "ffmpeg-wrapper",
+              "gui",
+              "pyqt5",
+              "python3",
+              "qt5",
+              "transcoding",
+              "video-converter",
+              "video-processing"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1176,12 +1850,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LazView is an imagen viewer writen in Free Pascal and Lazarus",
+            "homepage": null,
             "id": 128256520,
             "language": "Pascal",
+            "license": "GPL-2.0",
             "last_commit": "2025-12-01T19:06:06Z",
+            "open_issues": 1,
             "owner": "Nenirey",
             "repo": "LazView",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "image-viewer"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1192,12 +1873,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Picta Downloader GUI",
+            "homepage": null,
             "id": 301817593,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2022-01-15T19:32:37Z",
+            "open_issues": 1,
             "owner": "oleksis",
             "repo": "picta-dl-gui",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "cpp",
+              "downloader",
+              "gui",
+              "picta",
+              "qt5"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         }
@@ -1216,12 +1908,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Left ventricle segmentation tool using deep learning",
+                "homepage": null,
                 "id": 90981887,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-03-08T18:28:08Z",
+                "open_issues": 0,
                 "owner": "fperdigon",
                 "repo": "LVNet",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "caffe",
+                  "cnn",
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "medical-imaging",
+                  "segmentation"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -1232,12 +1936,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep learning model for vertebral labeling on MRI",
+                "homepage": null,
                 "id": 146323226,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-08-27T18:47:25Z",
+                "open_issues": 0,
                 "owner": "fperdigon",
                 "repo": "DeepVertebralLabeling_RV",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "automatic-labelling",
+                  "deep-learning",
+                  "keras-tensorflow",
+                  "mri-images",
+                  "vertebra"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             }
@@ -1255,12 +1970,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BacillusMarker is an aplication to easy mark bacillus of tuberculose.",
+                "homepage": null,
                 "id": 92336798,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-01T18:35:26Z",
+                "open_issues": 0,
                 "owner": "fperdigon",
                 "repo": "BacillusMarker",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "labeling-tool",
+                  "pyside",
+                  "python",
+                  "tuberculosis"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -1271,12 +1996,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ParasiteMarker is an aplication to easy mark Malaria parasites.",
+                "homepage": null,
                 "id": 92773627,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-05-29T21:01:27Z",
+                "open_issues": 0,
                 "owner": "fperdigon",
                 "repo": "ParasiteMarker",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "labelling",
+                  "malaria",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             }
@@ -1294,12 +2028,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains 9 methods for Base Line Wander removal. It also contains 3 similarity metrics that are applied to signals.",
+                "homepage": null,
                 "id": 140845465,
                 "language": "MATLAB",
+                "license": "MIT",
                 "last_commit": "2022-02-23T19:52:12Z",
+                "open_issues": 3,
                 "owner": "fperdigon",
                 "repo": "ECG-BaseLineWander-Removal-Methods",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "baseline-wander-removal",
+                  "ecg-signal",
+                  "matlab",
+                  "similarity-measurement"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             }
@@ -1321,12 +2065,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Herramienta para la descarga los repositorios de las distribuciones basadas en Debian GNU/Linux utilizando apt-mirror.",
+            "homepage": null,
             "id": 115145948,
             "language": "C++",
+            "license": null,
             "last_commit": "2017-12-22T20:18:14Z",
+            "open_issues": 0,
             "owner": "jmbatistav",
             "repo": "sheldon",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1337,12 +2086,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tinP is not PSC, Debian-based customised repository creator, core and cli",
+            "homepage": null,
             "id": 27489921,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2019-06-03T01:29:17Z",
+            "open_issues": 0,
             "owner": "daxslab",
             "repo": "tinp-core",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         }
@@ -1359,12 +2113,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced Wget GUI",
+            "homepage": null,
             "id": 27184411,
             "language": "Pascal",
+            "license": "GPL-2.0",
             "last_commit": "2025-11-24T06:19:27Z",
+            "open_issues": 9,
             "owner": "Nenirey",
             "repo": "AWGG",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1375,12 +2134,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python API para el portal cautivo Nauta de Cuba + CLI",
+            "homepage": null,
             "id": 234774603,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-21T10:02:53Z",
+            "open_issues": 8,
             "owner": "atscub",
             "repo": "nautapy",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1391,12 +2155,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Software to provision a mail server with users from a Windows or Samba 4 Active Directory",
+            "homepage": null,
             "id": 221502605,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-04T00:24:02Z",
+            "open_issues": 11,
             "owner": "stdevPavelmc",
             "repo": "mailad",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "active-directory",
+              "debian",
+              "deploy",
+              "dovecot",
+              "hacktoberfest",
+              "mail",
+              "mail-server",
+              "mailserver",
+              "postfix",
+              "provision",
+              "rsat",
+              "samba",
+              "simple-mailserver",
+              "ubuntu"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1407,12 +2191,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Psiphon GUI client in Qt, Cute Psiphon for All",
+            "homepage": null,
             "id": 314600040,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2023-08-05T17:26:55Z",
+            "open_issues": 4,
             "owner": "rsanjuan87",
             "repo": "PsiphonQt",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1423,12 +2212,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bash script to make USB drives bootables with Windows 7/8/8.1/10  installation files",
+            "homepage": null,
             "id": 37195717,
             "language": "Shell",
+            "license": "GPL-2.0",
             "last_commit": "2020-12-08T16:39:11Z",
+            "open_issues": 2,
             "owner": "oneohthree",
             "repo": "bootify",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1439,12 +2233,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom golang proxy inspired in nginx proxy, and traefik proxy",
+            "homepage": "https://piqba.notion.site/f98799ba3d384526ac6591247b12481c?v=4ca0c832682749e99dcc72a66fdd71a1",
             "id": 376997720,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-11-17T16:04:20Z",
+            "open_issues": 7,
             "owner": "kenriortega",
             "repo": "ngonx",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "badgerdb",
+              "golang",
+              "nginx",
+              "proxy",
+              "redis",
+              "traefik"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1455,12 +2261,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Application programming interface of the Cuba Weather project implemented in Python",
+            "homepage": "https://cubaweather.app",
             "id": 230487887,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2021-03-23T08:05:19Z",
+            "open_issues": 3,
             "owner": "cuba-weather",
             "repo": "cuba-weather-python",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "cuba-weather",
+              "python",
+              "python-api",
+              "python-package",
+              "weather",
+              "weather-api"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1471,12 +2289,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 106902472,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-05-28T09:15:52Z",
+            "open_issues": 5,
             "owner": "ateijelo",
             "repo": "nauta-cli",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1487,12 +2310,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Copy files to multiple destinations faster",
+            "homepage": null,
             "id": 45195590,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2015-12-01T15:10:28Z",
+            "open_issues": 0,
             "owner": "daxslab",
             "repo": "multicp",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1503,12 +2331,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extend2VNC In short, can extend the screen of your Linux computer wirelessly; in many words, is an application to Extend your screen using a virtual video interface and vncserver in Linux.",
+            "homepage": null,
             "id": 44781482,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-05-16T18:29:19Z",
+            "open_issues": 0,
             "owner": "fperdigon",
             "repo": "Extend2VNC",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1519,12 +2352,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Una API que interactua con los servicios web de ETECSA.",
+            "homepage": null,
             "id": 485983950,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-11T23:11:55Z",
+            "open_issues": 5,
             "owner": "suitetecsa",
             "repo": "suitetecsa-sdk-python",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "etecsa",
+              "etecsa-services",
+              "library",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1535,12 +2378,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 155029420,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-03-07T21:10:29Z",
+            "open_issues": 3,
             "owner": "atscub",
             "repo": "nauta-cli",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1551,12 +2399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 139887227,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2020-07-12T11:54:39Z",
+            "open_issues": 0,
             "owner": "garciaguimeras",
             "repo": "Nauta.Net",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1567,12 +2420,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Like tail -f but for AWS Cloudwatch",
+            "homepage": null,
             "id": 228442427,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2021-01-20T15:12:54Z",
+            "open_issues": 1,
             "owner": "yorodm",
             "repo": "awstail",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1583,12 +2441,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Aplicación de consola de windows para acceder a la información de cuota de datos móviles de Etecsa",
+            "homepage": null,
             "id": 254256515,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-04-15T05:26:39Z",
+            "open_issues": 2,
             "owner": "NoxCreation",
             "repo": "cuota_datos",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1599,12 +2462,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple way to backup a directory using the storage server with Amazon S3 compatible API like (Minio, Spaces)",
+            "homepage": null,
             "id": 163609692,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2019-01-03T03:37:58Z",
+            "open_issues": 0,
             "owner": "alejandrojnm",
             "repo": "simple-backup",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "backup",
+              "backup-script",
+              "digitalocean",
+              "minio",
+              "s3",
+              "spaces",
+              "utility"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1615,12 +2491,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An incomplete Java mail library, to be used with cuban Nauta accounts",
+            "homepage": null,
             "id": 82572061,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2023-05-22T21:45:42Z",
+            "open_issues": 0,
             "owner": "garciaguimeras",
             "repo": "jnauta",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1631,12 +2512,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Application programming interface of the Cuba Weather project implemented in Dart",
+            "homepage": "https://cubaweather.app",
             "id": 236270630,
             "language": "Dart",
+            "license": "MIT",
             "last_commit": "2020-03-08T05:39:34Z",
+            "open_issues": 0,
             "owner": "leynier",
             "repo": "cuba-weather-dart",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "cuba-weather",
+              "dart",
+              "dart-api",
+              "dart-package",
+              "insmet",
+              "redcuba",
+              "weather",
+              "weather-api"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1647,12 +2542,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 8165477,
             "language": "Python",
+            "license": null,
             "last_commit": "2013-02-12T21:30:32Z",
+            "open_issues": 0,
             "owner": "garciaguimeras",
             "repo": "DeVil",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1663,12 +2563,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Handy python script to export all MDaemon user's mailbox addresbooks (MDaemons's WorldClient addressbooks)",
+            "homepage": null,
             "id": 257711312,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-04-23T16:12:22Z",
+            "open_issues": 0,
             "owner": "stdevPavelmc",
             "repo": "mdexportab",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1679,12 +2584,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Instalador OpenVPN para Debian, Ubuntu rapido",
+            "homepage": null,
             "id": 211898771,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2019-09-30T16:12:08Z",
+            "open_issues": 0,
             "owner": "sysadminsdecuba",
             "repo": "openvpn-install",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1695,12 +2605,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A console epub reader written in C#/Mono",
+            "homepage": null,
             "id": 67049191,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2016-10-20T16:16:08Z",
+            "open_issues": 0,
             "owner": "garciaguimeras",
             "repo": "VintageReader",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1711,12 +2626,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet another clipboard sharing application",
+            "homepage": null,
             "id": 290204015,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-04-11T10:19:07Z",
+            "open_issues": 1,
             "owner": "jadolg",
             "repo": "clipu",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1729,12 +2649,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📡 App de escritorio para manejar fácilmente el Alcatel Link Zone de la infame Etecsa",
+                "homepage": null,
                 "id": 421976666,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-08-23T03:55:31Z",
+                "open_issues": 4,
                 "owner": "iocodz",
                 "repo": "link-zone-desktop",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "alcatel",
+                  "electron",
+                  "nextjs",
+                  "tailwindcss"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -1745,12 +2675,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prognos(del griego prognostikon) es una aplicación para monitorear el estado del tiempo en Cuba.",
+                "homepage": null,
                 "id": 27507331,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-12-27T16:13:19Z",
+                "open_issues": 1,
                 "owner": "codeshard",
                 "repo": "prognos",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -1761,12 +2696,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A multi platform app to log in nauta network",
+                "homepage": null,
                 "id": 582795523,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-21T21:56:27Z",
+                "open_issues": 5,
                 "owner": "R0land013",
                 "repo": "blue-nauta",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "login",
+                  "python3",
+                  "utility"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -1777,12 +2721,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Menu Extension for Plasma 5",
+                "homepage": null,
                 "id": 72579680,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2022-07-08T05:47:52Z",
+                "open_issues": 6,
                 "owner": "nx-desktop",
                 "repo": "nx-simplemenu-applet",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "application-launcher",
+                  "nx-desktop",
+                  "plasma-desktop",
+                  "start-menu"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -1793,12 +2747,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VPS Etecsa Calculator",
+                "homepage": null,
                 "id": 337830686,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-11-16T17:23:43Z",
+                "open_issues": 0,
                 "owner": "ragnarok22",
                 "repo": "VPSEtecsaCalculator",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             }
@@ -1820,12 +2779,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sample Python Calculator with PyQt5, Tkinter and...",
+            "homepage": null,
             "id": 191787455,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-10-25T16:35:46Z",
+            "open_issues": 3,
             "owner": "lpozo",
             "repo": "python-calculator",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1836,12 +2800,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ejemplo básico de como conectar un sitio en React con la wallet de Metamask",
+            "homepage": null,
             "id": 410699436,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2021-09-27T00:57:37Z",
+            "open_issues": 0,
             "owner": "ragnarok22",
             "repo": "wallet-connect",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1852,12 +2821,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Another chat but in a blockchain!",
+            "homepage": "smart-contact-chat.vercel.app",
             "id": 415365094,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-10-10T21:36:05Z",
+            "open_issues": 0,
             "owner": "ragnarok22",
             "repo": "smart-contact-chat",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         }
@@ -1874,12 +2848,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Covid19 - Dashboard for Cuba",
+            "homepage": null,
             "id": 249451706,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2024-08-10T12:35:00Z",
+            "open_issues": 15,
             "owner": "covid19cubadata",
             "repo": "covid19cubadata.github.io",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1890,12 +2869,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agregador de podcasts y convertidor de audio para cubanos",
+            "homepage": "https://easypodcasts.live",
             "id": 423596663,
             "language": "Elixir",
+            "license": "AGPL-3.0",
             "last_commit": "2025-07-04T17:45:27Z",
+            "open_issues": 4,
             "owner": "easypodcasts",
             "repo": "easy_podcasts",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "elixir",
+              "phoenix",
+              "podcasts"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1906,12 +2894,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Binary Coffee community frontend project",
+            "homepage": null,
             "id": 226112418,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T17:29:02Z",
+            "open_issues": 55,
             "owner": "binary-coffee-dev",
             "repo": "dcs-frontend",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "angular",
+              "docker",
+              "hacktoberfest",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1922,12 +2920,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Twitter Thread Planner",
+            "homepage": "https://app.threadly.app",
             "id": 421058854,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2023-01-08T00:46:49Z",
+            "open_issues": 4,
             "owner": "ragnarok22",
             "repo": "threadly",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "graphql",
+              "hacktoberfest",
+              "nextjs",
+              "react",
+              "twitter",
+              "twitter-threader"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1938,12 +2948,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A drop-in solution for landing pages & press information for videogame companies.",
+            "homepage": null,
             "id": 292748488,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-04-29T18:36:14Z",
+            "open_issues": 5,
             "owner": "Pixely-Studios",
             "repo": "NStart",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "asp-net-core",
+              "csharp",
+              "dopresskit",
+              "net-core",
+              "presskit",
+              "videogame"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1954,12 +2976,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Our own blog for the community",
+            "homepage": null,
             "id": 225615643,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T17:29:22Z",
+            "open_issues": 30,
             "owner": "binary-coffee-dev",
             "repo": "dcs-blog",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "blog",
+              "docker",
+              "graphql",
+              "hacktoberfest",
+              "strapi"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1970,12 +3003,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple django app to manage clients",
+            "homepage": null,
             "id": 203644288,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-03T22:35:28Z",
+            "open_issues": 2,
             "owner": "dcruz1990",
             "repo": "django-misclientes",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -1986,12 +3024,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 233856498,
             "language": "CSS",
+            "license": "NOASSERTION",
             "last_commit": "2021-10-06T10:12:59Z",
+            "open_issues": 17,
             "owner": "binary-coffee-dev",
             "repo": "dcs-admin-frontend",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -2002,12 +3045,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Website COVID-19 Pandemic Situation in Cuba. From SWL-X Project",
+            "homepage": "https://covidcuba.swlx.info",
             "id": 253227227,
             "language": "JavaScript",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2024-08-10T23:35:55Z",
+            "open_issues": 1,
             "owner": "llamaret",
             "repo": "covidcuba.swlx.info",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "covid-19",
+              "covid19-cuba",
+              "cuba",
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -2018,12 +3071,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Typescript + GatsbyJS + TailwindCSS web app for creating  professional CVs",
+            "homepage": null,
             "id": 460661220,
             "language": "TypeScript",
+            "license": "0BSD",
             "last_commit": "2023-10-17T22:40:26Z",
+            "open_issues": 10,
             "owner": "M4ss1ck",
             "repo": "gatsby-cv-maker",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "gatsbyjs",
+              "reactjs",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -2034,12 +3096,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blog desarrollado en ReactJs sobre Hive Blockchain",
+            "homepage": "https://abeltranp9476.netlify.app",
             "id": 522065073,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-08-17T10:54:55Z",
+            "open_issues": 0,
             "owner": "abeltranp9476",
             "repo": "hive-blog",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -2050,12 +3117,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Una app para organizar la impresión y distribución de piezas 3D para respiradores artificiales en Cuba, como parte de la lucha contra la COVID-19.",
+            "homepage": null,
             "id": 250085636,
             "language": "Vue",
+            "license": null,
             "last_commit": "2020-04-11T00:12:59Z",
+            "open_issues": 0,
             "owner": "CarlosLugones",
             "repo": "cuba-vs-covid",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -2066,12 +3138,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 338650055,
             "language": "Nunjucks",
+            "license": "MIT",
             "last_commit": "2021-10-11T21:39:02Z",
+            "open_issues": 0,
             "owner": "ragnarok22",
             "repo": "el-blog-de-Ragnarok",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "blog",
+              "eleventy"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -2082,12 +3162,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 285417309,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-08-06T16:00:58Z",
+            "open_issues": 0,
             "owner": "seiyukaras",
             "repo": "bpatri",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -2098,12 +3183,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dota2 free data API.",
+            "homepage": null,
             "id": 514965612,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-06T01:04:34Z",
+            "open_issues": 0,
             "owner": "iocodz",
             "repo": "dota2-free-data-api",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "dota2",
+              "dota2-api",
+              "netlify-functions"
+            ]
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
         },
@@ -2116,12 +3210,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hide Twitter vanity metrics, notifications and distractions",
+                "homepage": null,
                 "id": 519842072,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2022-08-17T15:18:16Z",
+                "open_issues": 0,
                 "owner": "manuelernestog",
                 "repo": "zen-twitter",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "chrome-extension",
+                  "metrics",
+                  "productivity",
+                  "twitter"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             }
@@ -2145,12 +3249,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JavaScript library for form validation.",
+                "homepage": "https://github.com/dlcastillop/Formly#readme",
                 "id": 517180162,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-09-16T14:22:28Z",
+                "open_issues": 0,
                 "owner": "dlcastillop",
                 "repo": "Formly",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "form",
+                  "form-validation",
+                  "javascript",
+                  "javascript-library",
+                  "library",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2161,12 +3277,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Handle click and dblclick events on same element on javascript.",
+                "homepage": null,
                 "id": 516421980,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-07-30T16:37:39Z",
+                "open_issues": 0,
                 "owner": "manuelernestog",
                 "repo": "click-handler",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2179,12 +3300,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fast-gateway is an easy to use Node.js API gateway framework built to handle large scale API traffic with great performance and scalability. Written with JavaScript, it is a framework for the masses!",
+                    "homepage": "https://fgw.21no.de/",
                     "id": 188700531,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-05-17T14:11:51Z",
+                    "open_issues": 7,
                     "owner": "BackendStack21",
                     "repo": "fast-gateway",
-                    "stars": 322
+                    "stars": 322,
+                    "topics": [
+                      "api-gateway",
+                      "http",
+                      "nodejs",
+                      "proxy"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:31:31.442Z"
                 },
@@ -2195,12 +3326,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Node.js framework agnostic library that enables you to forward an http request to another HTTP server. Supported protocols: HTTP, HTTPS, HTTP2",
+                    "homepage": "https://www.npmjs.com/package/fast-proxy",
                     "id": 190131234,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-01-29T20:24:24Z",
+                    "open_issues": 11,
                     "owner": "fastify",
                     "repo": "fast-proxy",
-                    "stars": 162
+                    "stars": 162,
+                    "topics": [
+                      "api",
+                      "fastify-library",
+                      "gateway",
+                      "http",
+                      "javascript",
+                      "js",
+                      "nodejs",
+                      "proxy",
+                      "rest",
+                      "server"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:31:31.442Z"
                 },
@@ -2211,12 +3358,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Node.js API gateway that just works!",
+                    "homepage": "https://www.npmjs.com/package/k-fastify-gateway",
                     "id": 144907486,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-06-03T19:48:30Z",
+                    "open_issues": 7,
                     "owner": "jkyberneees",
                     "repo": "fastify-gateway",
-                    "stars": 111
+                    "stars": 111,
+                    "topics": [
+                      "api-gateway",
+                      "fastify",
+                      "http-proxy",
+                      "http-router",
+                      "nodejs"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:31:31.442Z"
                 },
@@ -2227,12 +3385,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Keycloak Node.js minimalist connector for backend services integration. ",
+                    "homepage": null,
                     "id": 95303274,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-11-23T14:39:36Z",
+                    "open_issues": 3,
                     "owner": "BackendStack21",
                     "repo": "keycloak-backend",
-                    "stars": 71
+                    "stars": 71,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:31:31.442Z"
                 },
@@ -2243,12 +3406,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "HTTP Cache Middleware",
+                    "homepage": null,
                     "id": 189103424,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-09-20T06:30:35Z",
+                    "open_issues": 2,
                     "owner": "BackendStack21",
                     "repo": "http-cache-middleware",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": [
+                      "cache",
+                      "http",
+                      "middleware",
+                      "rest"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:31:31.442Z"
                 },
@@ -2259,12 +3432,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The ultra fast, distributed (multi process and multi server), STOMP based event emitter for Node.js!",
+                    "homepage": null,
                     "id": 54847631,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2016-10-31T08:51:52Z",
+                    "open_issues": 0,
                     "owner": "jkyberneees",
                     "repo": "distributed-eventemitter",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:31:31.442Z"
                 },
@@ -2275,12 +3453,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Minimalist 'hydra integration' module, intended for Node.js web frameworks integration.",
+                    "homepage": null,
                     "id": 85476745,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-05T03:53:41Z",
+                    "open_issues": 17,
                     "owner": "jkyberneees",
                     "repo": "hydra-integration",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:31:31.442Z"
                 },
@@ -2291,12 +3474,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fastify and MessagePack, together at last. Uses @msgpack/msgpack by default.",
+                    "homepage": null,
                     "id": 368019532,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2021-05-18T22:53:16Z",
+                    "open_issues": 0,
                     "owner": "kenriortega",
                     "repo": "fastify-msgpack",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": [
+                      "fastify",
+                      "msgpack"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:31:31.442Z"
                 },
@@ -2307,12 +3498,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This library share functions for compare two strings and see the differences",
+                    "homepage": null,
                     "id": 127142558,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-20T07:13:06Z",
+                    "open_issues": 5,
                     "owner": "wil92",
                     "repo": "string-mismatch",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": [
+                      "algorithm",
+                      "hacktoberfest",
+                      "javascript",
+                      "string"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:31:31.442Z"
                 },
@@ -2323,12 +3524,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "HTTP to AWS Lambda proxy",
+                    "homepage": null,
                     "id": 251323992,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-12-08T21:34:43Z",
+                    "open_issues": 1,
                     "owner": "BackendStack21",
                     "repo": "http-lambda-proxy",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:31:31.442Z"
                 },
@@ -2339,12 +3545,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Minimalist queue manager based on bull.",
+                    "homepage": null,
                     "id": 87787492,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-04-18T11:48:12Z",
+                    "open_issues": 0,
                     "owner": "jkyberneees",
                     "repo": "bull-queue-manager",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:31:31.442Z"
                 },
@@ -2355,12 +3566,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nodejs module to sign/verify data using NaCL",
+                    "homepage": null,
                     "id": 60064836,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2020-04-07T05:28:55Z",
+                    "open_issues": 0,
                     "owner": "jkyberneees",
                     "repo": "nacl-signature",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:31:31.442Z"
                 },
@@ -2371,12 +3587,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Invokes connect-like middleware if / unless routing criteria matches. Inspired on express-unless module.",
+                    "homepage": null,
                     "id": 164021531,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-07-18T08:34:33Z",
+                    "open_issues": 0,
                     "owner": "BackendStack21",
                     "repo": "middleware-if-unless",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:31:31.442Z"
                 },
@@ -2387,12 +3608,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Allows to capture HTTP response content and headers on request end.",
+                    "homepage": null,
                     "id": 189090207,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-04-07T19:57:07Z",
+                    "open_issues": 0,
                     "owner": "BackendStack21",
                     "repo": "on-http-end",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "end",
+                      "headers",
+                      "http",
+                      "response",
+                      "stream"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:31:31.442Z"
                 },
@@ -2403,12 +3635,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Node.js framework agnostic HTTP error handler",
+                    "homepage": null,
                     "id": 242965776,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-03-30T07:47:19Z",
+                    "open_issues": 0,
                     "owner": "jkyberneees",
                     "repo": "http-error-handler",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:31:31.442Z"
                 },
@@ -2419,12 +3656,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Hydra cluster dashboard application.",
+                    "homepage": null,
                     "id": 91897625,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-07T02:17:35Z",
+                    "open_issues": 9,
                     "owner": "jkyberneees",
                     "repo": "hydra-dashboard",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:31:31.442Z"
                 },
@@ -2435,12 +3677,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Hydra plugin that adds traditional HTTP requests, routing and proxy capabilities to your hydra micro-services.",
+                    "homepage": null,
                     "id": 89146335,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2019-12-30T10:25:32Z",
+                    "open_issues": 0,
                     "owner": "jkyberneees",
                     "repo": "hydra-plugin-http",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:31:31.442Z"
                 },
@@ -2451,12 +3698,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple JSON parser for AWS Lambda + HTTP integration via serverless-http",
+                    "homepage": null,
                     "id": 251261933,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-03-30T11:24:45Z",
+                    "open_issues": 0,
                     "owner": "jkyberneees",
                     "repo": "serverless-json-parser",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:31:31.442Z"
                 }
@@ -2474,12 +3726,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A payment organizer",
+                    "homepage": "https://payme.dlcastillop.com/",
                     "id": 536982454,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-03-28T20:33:40Z",
+                    "open_issues": 0,
                     "owner": "dlcastillop",
                     "repo": "paylink",
-                    "stars": 53
+                    "stars": 53,
+                    "topics": [
+                      "payment-methods",
+                      "payments"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:31:31.442Z"
                 },
@@ -2490,12 +3750,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "React Hooks sandwiches ready to eat",
+                    "homepage": null,
                     "id": 181409462,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2022-12-09T19:33:07Z",
+                    "open_issues": 13,
                     "owner": "apenab",
                     "repo": "react-hooks-toolbox",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "dymo",
+                      "dymo-labelwriter",
+                      "dymo-service",
+                      "google",
+                      "google-api",
+                      "google-react",
+                      "hooks",
+                      "hooks-api-react",
+                      "javascript",
+                      "react",
+                      "react-hooks"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:31:31.442Z"
                 }
@@ -2513,12 +3790,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 172961009,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2020-05-21T13:38:01Z",
+                    "open_issues": 0,
                     "owner": "garciaguimeras",
                     "repo": "TypeScriptTools",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:31:31.442Z"
                 }
@@ -2541,12 +3823,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Organize and Manage Multiple Applications with Kernel Contexts.",
+                "homepage": null,
                 "id": 101703070,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-16T05:17:52Z",
+                "open_issues": 3,
                 "owner": "yceruto",
                 "repo": "symfony-ddd-skeleton",
-                "stars": 133
+                "stars": 133,
+                "topics": [
+                  "ddd",
+                  "ddd-architecture",
+                  "multiple-kernels",
+                  "php",
+                  "skeleton-application",
+                  "symfony",
+                  "symfony-skeleton-application"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2557,12 +3852,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yii2 extension to help setup the standard HTML meta tags besides the ones defined by Opengraph and TwitterCard to contribute to website SEO",
+                "homepage": null,
                 "id": 116883230,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2021-08-25T13:48:45Z",
+                "open_issues": 2,
                 "owner": "daxslab",
                 "repo": "yii2-taggedview",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2573,12 +3873,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yii2 extension to generate thumbnails for images of any size",
+                "homepage": null,
                 "id": 116883361,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-06-25T09:23:58Z",
+                "open_issues": 2,
                 "owner": "daxslab",
                 "repo": "yii2-thumbnailer",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2589,12 +3894,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "FastCodeCi are several command line interface tools for CodeIgniter 4 that allows you to quickly create a repetitive code in record time. The exit code is so clean that it allows modification without problems...",
+                "homepage": null,
                 "id": 145897676,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2018-08-25T14:31:19Z",
+                "open_issues": 0,
                 "owner": "cjamcu",
                 "repo": "fastcode-ci",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "code-generator",
+                  "codeigniter"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2605,12 +3918,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Woew! Another starter plugin",
+                "homepage": null,
                 "id": 402551988,
                 "language": "PHP",
+                "license": "GPL-2.0",
                 "last_commit": "2024-09-04T13:03:36Z",
+                "open_issues": 0,
                 "owner": "themingisprose",
                 "repo": "wasp",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "php",
+                  "plugin",
+                  "wordpress",
+                  "wordpress-framework",
+                  "wordpress-plugin"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2621,12 +3945,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yii2 Website Module",
+                "homepage": null,
                 "id": 174627138,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2021-08-11T20:24:53Z",
+                "open_issues": 0,
                 "owner": "daxslab",
                 "repo": "yii2-website-module",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "cms",
+                  "content",
+                  "module",
+                  "pages",
+                  "website",
+                  "yii2"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2637,12 +3973,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamic management of classes, traits and interfaces in PHP.",
+                "homepage": "https://github.com/thenlabs/class-builder/blob/1.0/doc/es/index.md",
                 "id": 238961693,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2022-05-13T22:28:38Z",
+                "open_issues": 0,
                 "owner": "thenlabs",
                 "repo": "class-builder",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "builder",
+                  "builder-pattern",
+                  "php",
+                  "php-builder",
+                  "php-class",
+                  "php-classes",
+                  "php-interface",
+                  "php-library",
+                  "php-traits"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2653,12 +4004,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yii2 Widget for Calendly integrations",
+                "homepage": null,
                 "id": 221624151,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2019-11-14T07:33:38Z",
+                "open_issues": 0,
                 "owner": "daxslab",
                 "repo": "yii2-calendly",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "calendar",
+                  "calendly",
+                  "extension",
+                  "schedule",
+                  "yii2"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2669,12 +4031,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clase PHP que representa una colección de objetos de un mismo tipo.",
+                "homepage": null,
                 "id": 69474094,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2017-01-04T15:46:09Z",
+                "open_issues": 0,
                 "owner": "andaniel05",
                 "repo": "ObjectCollection",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2685,12 +4052,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simplify the process to upload a file at model level",
+                "homepage": null,
                 "id": 86965345,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2023-07-09T23:28:50Z",
+                "open_issues": 0,
                 "owner": "daxslab",
                 "repo": "yii2-uploader-behavior",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2701,12 +4073,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adds Open Graph and Twitter Cards meta tags to Open Journal System Journals",
+                "homepage": null,
                 "id": 49138748,
                 "language": "PHP",
+                "license": "GPL-2.0",
                 "last_commit": "2016-04-08T13:01:12Z",
+                "open_issues": 1,
                 "owner": "daxslab",
                 "repo": "ojs-social-metatags",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2717,12 +4094,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extends Symfony to the full stack development with integration of StratusPHP.",
+                "homepage": null,
                 "id": 331747429,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2021-07-24T19:40:03Z",
+                "open_issues": 0,
                 "owner": "thenlabs",
                 "repo": "stratus-bundle",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "ajax",
+                  "ajax-request",
+                  "event-driven",
+                  "promote",
+                  "reactive",
+                  "symfony",
+                  "symfony-bundle",
+                  "ui",
+                  "ux",
+                  "ux-ui"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2733,12 +4126,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PHP file parser for Battlefield 3 and Battlefield 4 MapList files",
+                "homepage": null,
                 "id": 332131483,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2021-01-24T04:19:49Z",
+                "open_issues": 0,
                 "owner": "lk-KEVIN",
                 "repo": "BattlefieldMapListParser",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "battlefield",
+                  "battlefield-3",
+                  "battlefield-4",
+                  "bf3",
+                  "bf4",
+                  "maplist",
+                  "parser",
+                  "php-parser",
+                  "snet"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2749,12 +4157,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A custom implementation of the Composite pattern in PHP for create component types with useful functionalities.",
+                "homepage": "https://github.com/thenlabs/doc/blob/master/components/1.0/en/index.md",
                 "id": 238956392,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2022-11-27T20:55:51Z",
+                "open_issues": 0,
                 "owner": "thenlabs",
                 "repo": "components",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "component-architecture",
+                  "component-based",
+                  "component-library",
+                  "components",
+                  "components-library",
+                  "composite",
+                  "composite-pattern",
+                  "php",
+                  "php-library"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2765,12 +4188,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A HTTP Server written in PHP with help of the Symfony components.",
+                "homepage": null,
                 "id": 308719612,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2021-10-23T22:15:49Z",
+                "open_issues": 0,
                 "owner": "thenlabs",
                 "repo": "http-server",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "http-server",
+                  "monolog",
+                  "php",
+                  "symfony-httpfoundation",
+                  "symfony-mime",
+                  "symfony-router"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2781,12 +4216,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Save a MySQL Database using PHP",
+                "homepage": null,
                 "id": 184507690,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2019-05-02T02:07:58Z",
+                "open_issues": 0,
                 "owner": "NTCarlos",
                 "repo": "mysql-php-save-v1.0",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2797,12 +4237,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The WordPress Post Factory",
+                "homepage": null,
                 "id": 712729037,
                 "language": "PHP",
+                "license": "GPL-2.0",
                 "last_commit": "2023-11-03T22:35:02Z",
+                "open_issues": 0,
                 "owner": "themingisprose",
                 "repo": "wppf",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "lorem-ipsum-generator",
+                  "php",
+                  "plugin",
+                  "wordpress",
+                  "wordpress-plugin"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2813,12 +4264,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 147025812,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2020-10-27T00:33:06Z",
+                "open_issues": 3,
                 "owner": "daxslab",
                 "repo": "yii2-contactform-module",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             }
@@ -2836,12 +4292,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Phoenix LiveView but for Django",
+                "homepage": null,
                 "id": 182271222,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-02-10T18:39:52Z",
+                "open_issues": 18,
                 "owner": "edelvalle",
                 "repo": "reactor",
-                "stars": 638
+                "stars": 638,
+                "topics": [
+                  "django",
+                  "django-channels",
+                  "liveview",
+                  "real-time"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2852,12 +4318,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast and easy AJAX libraries for django applications. Contains ajax decorator, ajax middleware, shortcuts and more.",
+                "homepage": null,
                 "id": 11436765,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-27T20:52:14Z",
+                "open_issues": 0,
                 "owner": "yceruto",
                 "repo": "django-ajax",
-                "stars": 322
+                "stars": 322,
+                "topics": [
+                  "ajax",
+                  "django-framework",
+                  "json",
+                  "middleware",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2868,12 +4345,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Django multi-tenancy through Postgres schemas",
+                "homepage": "https://django-pgschemas.readthedocs.io/",
                 "id": 162996334,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-17T23:18:35Z",
+                "open_issues": 0,
                 "owner": "lorinkoz",
                 "repo": "django-pgschemas",
-                "stars": 160
+                "stars": 160,
+                "topics": [
+                  "django",
+                  "multi-tenancy",
+                  "postgres",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2884,12 +4371,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Django custom model field for partial dates with the form YYYY, YYYY-MM, YYYY-MM-DD",
+                "homepage": null,
                 "id": 106856553,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-01-20T20:13:54Z",
+                "open_issues": 4,
                 "owner": "ktowen",
                 "repo": "django_partial_date",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2900,12 +4392,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Javascript model field's choices handling for Django",
+                "homepage": null,
                 "id": 93749850,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-15T18:38:56Z",
+                "open_issues": 1,
                 "owner": "lorinkoz",
                 "repo": "django-js-choices",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "choices",
+                  "django",
+                  "javascript",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2916,12 +4418,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Search the web on text mode",
+                "homepage": null,
                 "id": 86596830,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-21T08:36:45Z",
+                "open_issues": 1,
                 "owner": "jadolg",
                 "repo": "TextMadeWeb",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2932,12 +4439,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple SEO metadata plugin for web2py including Open Graph and Twitter Cards",
+                "homepage": null,
                 "id": 41487123,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2015-09-03T15:53:27Z",
+                "open_issues": 0,
                 "owner": "daxslab",
                 "repo": "web2py-simple-seo",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2948,12 +4460,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Django app for adapting a product for a cuban market, with Provinces and Municipalities.",
+                "homepage": "http://mirage-tech-cuba.github.io",
                 "id": 275605475,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-04-27T17:55:58Z",
+                "open_issues": 0,
                 "owner": "Mirage-Tech-Cuba",
                 "repo": "django-l10n-cu",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "cuba",
+                  "django",
+                  "hacktoberfest",
+                  "l10n"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2964,12 +4486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "typeahead.js autocomplete widget for web2py",
+                "homepage": null,
                 "id": 51525085,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-01-11T16:10:00Z",
+                "open_issues": 1,
                 "owner": "daxslab",
                 "repo": "web2py-typeahead",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2980,12 +4507,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Base structure for a web application using the Flask micro-framework and the MVC software architecture pattern.",
+                "homepage": null,
                 "id": 186742639,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2022-01-22T00:04:54Z",
+                "open_issues": 0,
                 "owner": "leynier",
                 "repo": "flask-base",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "base-structure",
+                  "bootstrap",
+                  "flask",
+                  "flask-cors",
+                  "flask-shell-ipython",
+                  "flask-sqlalchemy",
+                  "font-awesome",
+                  "jquery",
+                  "mvc",
+                  "popper"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -2996,12 +4539,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy connector for SQL Databases, support for sqlite, postgresql and mysql",
+                "homepage": null,
                 "id": 206091562,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-11T18:27:41Z",
+                "open_issues": 0,
                 "owner": "JoseVL92",
                 "repo": "sqlalchemy_multiconnector",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -3012,12 +4560,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "thumbnails plugin for the web2py framework",
+                "homepage": null,
                 "id": 19779371,
                 "language": "Python",
+                "license": "LGPL-2.1",
                 "last_commit": "2015-06-26T12:58:02Z",
+                "open_issues": 0,
                 "owner": "daxslab",
                 "repo": "web2py-thumbnails",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -3028,12 +4581,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTTP2COM",
+                "homepage": "www.openweigh.co.uk",
                 "id": 16808958,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2014-06-21T04:11:42Z",
+                "open_issues": 2,
                 "owner": "codeadict",
                 "repo": "HTTP2COM",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -3044,12 +4602,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTTP sync / sync library that works with both: requests and aiohttp, exploiting the best of each one",
+                "homepage": null,
                 "id": 206081643,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-05-19T19:27:20Z",
+                "open_issues": 0,
                 "owner": "JoseVL92",
                 "repo": "web-requester",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -3060,12 +4623,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stack of containers with Celery application based in Django, Celery Worker, Celery Beat and RabbitMQ",
+                "homepage": null,
                 "id": 242193542,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-09T16:10:45Z",
+                "open_issues": 3,
                 "owner": "mrbrazzi",
                 "repo": "my_django_celery_stack",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -3076,12 +4644,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "simple python internationalization api",
+                "homepage": null,
                 "id": 10603548,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-06-03T01:02:00Z",
+                "open_issues": 0,
                 "owner": "daxslab",
                 "repo": "spia",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -3092,12 +4665,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Global media galley plugin for web2py",
+                "homepage": null,
                 "id": 47262894,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2015-12-02T13:37:01Z",
+                "open_issues": 0,
                 "owner": "daxslab",
                 "repo": "web2py-media-gallery",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -3108,12 +4686,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenERP module to follow up quotations by mail",
+                "homepage": null,
                 "id": 18527863,
                 "language": "PHP",
+                "license": "AGPL-3.0",
                 "last_commit": "2014-05-20T21:46:31Z",
+                "open_issues": 0,
                 "owner": "codeadict",
                 "repo": "quotation_followup",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -3124,12 +4707,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utilities for text mining processing",
+                "homepage": null,
                 "id": 206105196,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-28T20:31:50Z",
+                "open_issues": 0,
                 "owner": "JoseVL92",
                 "repo": "text-miner",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -3140,12 +4728,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "No Captcha Security, plugin for the web2py framework to enable bot protection using no-captcha techniques",
+                "homepage": null,
                 "id": 69476926,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2016-09-28T15:47:05Z",
+                "open_issues": 0,
                 "owner": "daxslab",
                 "repo": "web2py-no-captcha-security",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             }
@@ -3163,12 +4756,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern, simple, customizable landing page dedicated to early customer acquisition for frugal entrepreneurs.",
+                "homepage": null,
                 "id": 120170122,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2023-04-11T23:45:43Z",
+                "open_issues": 5,
                 "owner": "codeadict",
                 "repo": "kings-landing",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "landing-page",
+                  "launch",
+                  "ruby",
+                  "sinatra",
+                  "site-generator",
+                  "starter-template",
+                  "startups",
+                  "website"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             },
@@ -3179,12 +4786,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 330723101,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2023-12-15T11:55:34Z",
+                "open_issues": 0,
                 "owner": "luilver",
                 "repo": "pluie",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             }
@@ -3202,12 +4814,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi Steps Form Component for Bootstrap",
+                "homepage": "https://manuelernestog.github.io/bootstrap-multi-steps-component/",
                 "id": 533064232,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2022-09-10T15:33:32Z",
+                "open_issues": 0,
                 "owner": "manuelernestog",
                 "repo": "bootstrap-multi-steps-component",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "bootstrap",
+                  "component",
+                  "form",
+                  "ui-components"
+                ]
               },
               "first_seen": "2026-08-28T11:31:31.442Z"
             }
@@ -3221,15 +4843,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:31:31.442Z",
+    "last_updated": "2026-08-29T04:51:50.888Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
+      "homepage": "https://cuban-opensourcers.github.io/cuban-opensource",
       "id": 192082154,
       "language": null,
+      "license": null,
       "last_commit": "2024-02-10T04:48:06Z",
+      "open_issues": 10,
       "owner": "cuban-opensourcers",
       "repo": "cuban-opensource",
-      "stars": 201
+      "stars": 201,
+      "topics": [
+        "awesome-list",
+        "cuba",
+        "free-software",
+        "hacktoberfest",
+        "open-source",
+        "software-libre"
+      ]
     },
     "original_repository_sha": "0144702b850eb3c49aceaf7df7b8931b980dfdda",
     "enhanced_repository": "enhansome/enhansome-cuban-opensource",
