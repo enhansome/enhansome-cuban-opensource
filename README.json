@@ -1308,8 +1308,8 @@
             "id": 146609838,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-01T19:33:15Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-02T12:21:47Z",
+            "open_issues": 2,
             "owner": "jadolg",
             "repo": "DockerImageSave",
             "stars": 94,
@@ -4351,7 +4351,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-17T23:18:35Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "lorinkoz",
                 "repo": "django-pgschemas",
                 "stars": 160,
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T04:45:05.188Z",
+    "last_updated": "2026-09-03T04:41:01.987Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
