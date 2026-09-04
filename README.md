@@ -33,7 +33,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 * [HogarEnCuba](https://github.com/daxslab/hogarencuba-mobile) ⭐ 6 | 🐛 0 | 🌐 Dart | 📅 2020-12-22: Client for [www.hogarencuba.com](http://www.hogarencuba.com) made in Flutter.
 * [PorLaLivreApp](https://github.com/garciaguimeras/PorLaLivreApp) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-07-03: Android app to check listings in [www.porlalivre.com](http://www.porlalivre.com) while offline.
 * [Cuba Weather](https://github.com/leynier/cuba-weather-flutter) ⭐ 4 | 🐛 0 | 🌐 Dart | 📅 2020-06-03: Mobile client application for [www.redcuba.cu](https://www.redcuba.cu) weather API. Given a location in Cuba, if it is within the permitted locations, meteorological data on the location is obtained.
-* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 13,957 | 🐛 1,057 | 🌐 Kotlin | 📅 2026-09-02 with some changes to simplify configuring Nauta email accounts.
+* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 13,961 | 🐛 1,061 | 🌐 Kotlin | 📅 2026-09-04 with some changes to simplify configuring Nauta email accounts.
 * [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-01: "Escala Geriátrica de Evaluación Funcional Global" is an instrument used in Cuba to evaluate elder people autonomy. This is an Android implementation.
 * [Rellama](https://github.com/Nenirey/Rellama) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2020-09-15: This is an Radial app using lamw, Lazarus and Free Pascal, download in [apklis](https://www.apklis.cu/application/com.example.appintentdemo3).
 * [QvaPay](https://github.com/qvapay/qp): Aplicación móvil de la pasarela de pagos QvaPay.
@@ -312,7 +312,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 * [django-reactor](https://github.com/edelvalle/reactor) ⭐ 638 | 🐛 18 | 🌐 Python | 📅 2025-02-10: Django implementation of Phoenix LiveView.
 * [django-ajax](https://github.com/yceruto/django-ajax) ⭐ 322 | 🐛 0 | 🌐 Python | 📅 2024-04-27: Django library for AJAX operations.
-* [django-pgschemas](https://github.com/lorinkoz/django-pgschemas) ⭐ 160 | 🐛 1 | 🌐 Python | 📅 2026-08-17: Django multi-tenancy using PostgreSQL schemas.
+* [django-pgschemas](https://github.com/lorinkoz/django-pgschemas) ⭐ 160 | 🐛 3 | 🌐 Python | 📅 2026-09-03: Django multi-tenancy using PostgreSQL schemas.
 * [django-partial-date](https://github.com/ktowen/django_partial_date) ⭐ 23 | 🐛 4 | 🌐 Python | 📅 2022-01-20: Django custom model field for partial dates with the form YYYY, YYYY-MM, YYYY-MM-DD.
 * [django-js-choices](https://github.com/lorinkoz/django-js-choices) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2024-10-15: JavaScript model's fields choices handling for Django.
 * [TextMadeWeb](https://github.com/jadolg/TextMadeWeb) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2024-05-21 A website to open other websites in text only mode. Example here [txtmdweb](https://txtmdweb.herokuapp.com)
@@ -342,4 +342,4 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
