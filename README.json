@@ -1428,7 +1428,7 @@
             "id": 175988627,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-06-21T09:05:04Z",
+            "last_commit": "2026-09-06T13:42:10Z",
             "open_issues": 1,
             "owner": "BackendStack21",
             "repo": "0http",
@@ -4350,8 +4350,8 @@
                 "id": 162996334,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-04T07:17:41Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-06T07:40:23Z",
+                "open_issues": 0,
                 "owner": "lorinkoz",
                 "repo": "django-pgschemas",
                 "stars": 160,
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T04:49:29.263Z",
+    "last_updated": "2026-09-07T04:54:47.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
