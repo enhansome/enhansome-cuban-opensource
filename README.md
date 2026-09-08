@@ -33,7 +33,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 * [HogarEnCuba](https://github.com/daxslab/hogarencuba-mobile) ⭐ 6 | 🐛 0 | 🌐 Dart | 📅 2020-12-22: Client for [www.hogarencuba.com](http://www.hogarencuba.com) made in Flutter.
 * [PorLaLivreApp](https://github.com/garciaguimeras/PorLaLivreApp) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-07-03: Android app to check listings in [www.porlalivre.com](http://www.porlalivre.com) while offline.
 * [Cuba Weather](https://github.com/leynier/cuba-weather-flutter) ⭐ 4 | 🐛 0 | 🌐 Dart | 📅 2020-06-03: Mobile client application for [www.redcuba.cu](https://www.redcuba.cu) weather API. Given a location in Cuba, if it is within the permitted locations, meteorological data on the location is obtained.
-* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 13,971 | 🐛 1,061 | 🌐 Kotlin | 📅 2026-09-05 with some changes to simplify configuring Nauta email accounts.
+* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 13,977 | 🐛 1,061 | 🌐 Kotlin | 📅 2026-09-07 with some changes to simplify configuring Nauta email accounts.
 * [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-01: "Escala Geriátrica de Evaluación Funcional Global" is an instrument used in Cuba to evaluate elder people autonomy. This is an Android implementation.
 * [Rellama](https://github.com/Nenirey/Rellama) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2020-09-15: This is an Radial app using lamw, Lazarus and Free Pascal, download in [apklis](https://www.apklis.cu/application/com.example.appintentdemo3).
 * [QvaPay](https://github.com/qvapay/qp): Aplicación móvil de la pasarela de pagos QvaPay.
@@ -102,7 +102,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Frameworks
 
-* [restana](https://github.com/jkyberneees/ana) ⭐ 469 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-05 Super fast and minimalist web framework for building REST micro-services.
+* [restana](https://github.com/jkyberneees/ana) ⭐ 468 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-05 Super fast and minimalist web framework for building REST micro-services.
 * [0http](https://github.com/jkyberneees/0http) ⭐ 167 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-06 Cero friction HTTP request router/framework. The need for speed!
 * [mailProc](https://github.com/daxslab/mailProc) ⭐ 11 | 🐛 5 | 🌐 Python | 📅 2023-12-19: Mail based services microframework.
 * [StratusPHP](https://github.com/thenlabs/stratus-php) ⭐ 5 | 🐛 2 | 🌐 PHP | 📅 2024-11-06 PHP framework for creating single page applications using the event-driven programming paradigm.
@@ -342,4 +342,4 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
