@@ -33,7 +33,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 * [HogarEnCuba](https://github.com/daxslab/hogarencuba-mobile) ⭐ 6 | 🐛 0 | 🌐 Dart | 📅 2020-12-22: Client for [www.hogarencuba.com](http://www.hogarencuba.com) made in Flutter.
 * [PorLaLivreApp](https://github.com/garciaguimeras/PorLaLivreApp) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-07-03: Android app to check listings in [www.porlalivre.com](http://www.porlalivre.com) while offline.
 * [Cuba Weather](https://github.com/leynier/cuba-weather-flutter) ⭐ 4 | 🐛 0 | 🌐 Dart | 📅 2020-06-03: Mobile client application for [www.redcuba.cu](https://www.redcuba.cu) weather API. Given a location in Cuba, if it is within the permitted locations, meteorological data on the location is obtained.
-* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 13,977 | 🐛 1,066 | 🌐 Kotlin | 📅 2026-09-09 with some changes to simplify configuring Nauta email accounts.
+* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 13,978 | 🐛 1,059 | 🌐 Kotlin | 📅 2026-09-10 with some changes to simplify configuring Nauta email accounts.
 * [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-01: "Escala Geriátrica de Evaluación Funcional Global" is an instrument used in Cuba to evaluate elder people autonomy. This is an Android implementation.
 * [Rellama](https://github.com/Nenirey/Rellama) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2020-09-15: This is an Radial app using lamw, Lazarus and Free Pascal, download in [apklis](https://www.apklis.cu/application/com.example.appintentdemo3).
 * [QvaPay](https://github.com/qvapay/qp): Aplicación móvil de la pasarela de pagos QvaPay.
@@ -185,7 +185,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 * [nauta-cli](https://github.com/ateijelo/nauta-cli) ⭐ 13 | 🐛 5 | 🌐 Python | 📅 2021-05-28: command line utility to manage Nauta captive portal.
 * [Multicp](https://github.com/daxslab/multicp) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2015-12-01: Copy files to multiple destinations faster.
 * [Extend2VNC](https://github.com/fperdigon/Extend2VNC) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2020-05-16: Extend2VNC can extend the screen of your Linux computer wirelessly using a virtual video interface and vncserver.
-* [suitetecsa-sdk-python](https://github.com/SuitETECSA/suitetecsa-sdk-python) ⭐ 8 | 🐛 4 | 🌐 Python | 📅 2026-09-08: A python library that makes it easy for you to interact with ETECSA's web services.
+* [suitetecsa-sdk-python](https://github.com/SuitETECSA/suitetecsa-sdk-python) ⭐ 8 | 🐛 5 | 🌐 Python | 📅 2026-09-10: A python library that makes it easy for you to interact with ETECSA's web services.
 * [nauta-cli](https://github.com/atscub/nauta-cli) ⭐ 7 | 🐛 3 | 🌐 Python | 📅 2020-03-07: fork on the previous.
 * [Nauta.Net](https://github.com/garciaguimeras/Nauta.Net) ⭐ 7 | 🐛 0 | 🌐 C# | 📅 2020-07-12: Windows desktop app to authenticate in Nauta network.
 * [awstail](https://github.com/yorodm/awstail) ⭐ 6 | 🐛 1 | 🌐 Rust | 📅 2021-01-20: Like `tail -f` for AWS Logs.
@@ -342,4 +342,4 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
