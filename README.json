@@ -1308,8 +1308,8 @@
             "id": 146609838,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-14T19:34:29Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-15T07:14:22Z",
+            "open_issues": 2,
             "owner": "jadolg",
             "repo": "DockerImageSave",
             "stars": 94,
@@ -1828,7 +1828,7 @@
             "open_issues": 8,
             "owner": "videomorph-dev",
             "repo": "videomorph",
-            "stars": 98,
+            "stars": 99,
             "topics": [
               "ffmpeg",
               "ffmpeg-wrapper",
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T05:02:13.035Z",
+    "last_updated": "2026-09-16T04:57:51.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
