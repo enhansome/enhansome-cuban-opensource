@@ -1266,7 +1266,7 @@
             "open_issues": 0,
             "owner": "ivangalbans",
             "repo": "TeamReference",
-            "stars": 52,
+            "stars": 53,
             "topics": [
               "acm-icpc",
               "algorithm-competitions",
@@ -4350,8 +4350,8 @@
                 "id": 162996334,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-22T21:22:51Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-23T12:23:47Z",
+                "open_issues": 0,
                 "owner": "lorinkoz",
                 "repo": "django-pgschemas",
                 "stars": 161,
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T04:53:20.915Z",
+    "last_updated": "2026-09-24T05:02:38.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
