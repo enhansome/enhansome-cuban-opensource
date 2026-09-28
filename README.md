@@ -33,7 +33,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 * [HogarEnCuba](https://github.com/daxslab/hogarencuba-mobile) ⭐ 6 | 🐛 0 | 🌐 Dart | 📅 2020-12-22: Client for [www.hogarencuba.com](http://www.hogarencuba.com) made in Flutter.
 * [PorLaLivreApp](https://github.com/garciaguimeras/PorLaLivreApp) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-07-03: Android app to check listings in [www.porlalivre.com](http://www.porlalivre.com) while offline.
 * [Cuba Weather](https://github.com/leynier/cuba-weather-flutter) ⭐ 4 | 🐛 0 | 🌐 Dart | 📅 2020-06-03: Mobile client application for [www.redcuba.cu](https://www.redcuba.cu) weather API. Given a location in Cuba, if it is within the permitted locations, meteorological data on the location is obtained.
-* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 14,038 | 🐛 1,077 | 🌐 Kotlin | 📅 2026-09-25 with some changes to simplify configuring Nauta email accounts.
+* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 14,045 | 🐛 1,075 | 🌐 Kotlin | 📅 2026-09-27 with some changes to simplify configuring Nauta email accounts.
 * [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-01: "Escala Geriátrica de Evaluación Funcional Global" is an instrument used in Cuba to evaluate elder people autonomy. This is an Android implementation.
 * [Rellama](https://github.com/Nenirey/Rellama) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2020-09-15: This is an Radial app using lamw, Lazarus and Free Pascal, download in [apklis](https://www.apklis.cu/application/com.example.appintentdemo3).
 * [QvaPay](https://github.com/qvapay/qp): Aplicación móvil de la pasarela de pagos QvaPay.
@@ -320,11 +320,11 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 * [django-l10n-cu](https://github.com/Mirage-Tech-Cuba/django-l10n-cu) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2022-04-27: Django localization app for adapting a product for a cuban market, with Provinces and Municipalities tables populated in the DB.
 * [web2py-typeahead](https://github.com/daxslab/web2py-typeahead) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2017-01-11: typeahead.js autocompletion widget for web2py framework.
 * [flask-base](https://github.com/leynier/flask-base) ⭐ 4 | 🐛 0 | 🌐 HTML | 📅 2022-01-22: Base structure for a web application using the Flask micro-framework and the MVC software architecture pattern.
+* [my-django-celery-stack](https://github.com/mrbrazzi/my_django_celery_stack.git) ⭐ 3 | 🐛 3 | 🌐 Python | 📅 2026-08-09: Implementation of Producer-Consumer using Docker containers with Django App, Celery Worker & Beat and RabbitMQ.
 * [sqlalchemy-connector](https://github.com/JoseVL92/sqlalchemy-connector) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2023-12-11: Easy connector for SQL Databases, support for sqlite, postgresql and mysql.
 * [web2py-thumbnails](https://github.com/daxslab/web2py-thumbnails) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2015-06-26: Thumbnails plugin for the web2py framework.
 * [HTTP2COM](https://github.com/codeadict/HTTP2COM) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2014-06-21: Windows Service that makes bi-directional proxy between HTTP and Serial Port. Can be used for web apps to access the local hardware from the brwser.
 * [http-requests](https://github.com/JoseVL92/http-requests) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2022-05-19: HTTP sync / sync library that works with both: requests and aiohttp, exploiting the best of each one.
-* [my-django-celery-stack](https://github.com/mrbrazzi/my_django_celery_stack.git) ⭐ 2 | 🐛 3 | 🌐 Python | 📅 2026-08-09: Implementation of Producer-Consumer using Docker containers with Django App, Celery Worker & Beat and RabbitMQ.
 * [Spia](https://github.com/daxslab/spia) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2019-06-03: Simple Python internationalization API.
 * [web2py-media-gallery](https://github.com/daxslab/web2py-media-gallery) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2015-12-02: Global media gallery plugin for web2py
 * [quotation\_followup](https://github.com/codeadict/quotation_followup) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2014-05-20: Odoo (Formerly OpenERP) module to follow up quotations by mail.
@@ -342,4 +342,4 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
