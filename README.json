@@ -1308,7 +1308,7 @@
             "id": 146609838,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-22T12:27:17Z",
+            "last_commit": "2026-09-28T20:22:55Z",
             "open_issues": 2,
             "owner": "jadolg",
             "repo": "DockerImageSave",
@@ -4534,27 +4534,6 @@
             },
             {
               "node_type": "item",
-              "title": "my-django-celery-stack",
-              "description": "Implementation of Producer-Consumer using Docker containers with Django App, Celery Worker & Beat and RabbitMQ.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Stack of containers with Celery application based in Django, Celery Worker, Celery Beat and RabbitMQ",
-                "homepage": null,
-                "id": 242193542,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-08-09T16:10:45Z",
-                "open_issues": 3,
-                "owner": "mrbrazzi",
-                "repo": "my_django_celery_stack",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T11:31:31.442Z"
-            },
-            {
-              "node_type": "item",
               "title": "sqlalchemy-connector",
               "description": "Easy connector for SQL Databases, support for sqlite, postgresql and mysql.",
               "children": [],
@@ -4632,6 +4611,27 @@
                 "open_issues": 0,
                 "owner": "JoseVL92",
                 "repo": "web-requester",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T11:31:31.442Z"
+            },
+            {
+              "node_type": "item",
+              "title": "my-django-celery-stack",
+              "description": "Implementation of Producer-Consumer using Docker containers with Django App, Celery Worker & Beat and RabbitMQ.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Stack of containers with Celery application based in Django, Celery Worker, Celery Beat and RabbitMQ",
+                "homepage": null,
+                "id": 242193542,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-08-09T16:10:45Z",
+                "open_issues": 3,
+                "owner": "mrbrazzi",
+                "repo": "my_django_celery_stack",
                 "stars": 2,
                 "topics": []
               },
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T05:34:32.439Z",
+    "last_updated": "2026-09-29T05:52:17.019Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
