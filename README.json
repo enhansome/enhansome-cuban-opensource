@@ -382,7 +382,7 @@
             "open_issues": 0,
             "owner": "daxslab",
             "repo": "fotorecarga",
-            "stars": 19,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
@@ -1396,8 +1396,8 @@
             "id": 88511749,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T11:38:14Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-01T19:41:04Z",
+            "open_issues": 2,
             "owner": "BackendStack21",
             "repo": "restana",
             "stars": 468,
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T06:08:32.479Z",
+    "last_updated": "2026-10-02T05:52:14.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
