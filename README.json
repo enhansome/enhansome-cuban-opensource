@@ -1793,7 +1793,7 @@
             "open_issues": 42,
             "owner": "swl-x",
             "repo": "MystiQ",
-            "stars": 594,
+            "stars": 595,
             "topics": [
               "audio",
               "conversion",
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:27:50.751Z",
+    "last_updated": "2026-10-04T06:02:48.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
