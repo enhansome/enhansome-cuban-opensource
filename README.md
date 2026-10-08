@@ -33,7 +33,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 * [HogarEnCuba](https://github.com/daxslab/hogarencuba-mobile) ⭐ 6 | 🐛 0 | 🌐 Dart | 📅 2020-12-22: Client for [www.hogarencuba.com](http://www.hogarencuba.com) made in Flutter.
 * [PorLaLivreApp](https://github.com/garciaguimeras/PorLaLivreApp) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-07-03: Android app to check listings in [www.porlalivre.com](http://www.porlalivre.com) while offline.
 * [Cuba Weather](https://github.com/leynier/cuba-weather-flutter) ⭐ 4 | 🐛 0 | 🌐 Dart | 📅 2020-06-03: Mobile client application for [www.redcuba.cu](https://www.redcuba.cu) weather API. Given a location in Cuba, if it is within the permitted locations, meteorological data on the location is obtained.
-* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 14,063 | 🐛 1,074 | 🌐 Kotlin | 📅 2026-10-07 with some changes to simplify configuring Nauta email accounts.
+* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 14,068 | 🐛 1,071 | 🌐 Kotlin | 📅 2026-10-07 with some changes to simplify configuring Nauta email accounts.
 * [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-01: "Escala Geriátrica de Evaluación Funcional Global" is an instrument used in Cuba to evaluate elder people autonomy. This is an Android implementation.
 * [Rellama](https://github.com/Nenirey/Rellama) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2020-09-15: This is an Radial app using lamw, Lazarus and Free Pascal, download in [apklis](https://www.apklis.cu/application/com.example.appintentdemo3).
 * [QvaPay](https://github.com/qvapay/qp): Aplicación móvil de la pasarela de pagos QvaPay.
@@ -42,7 +42,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## API
 
-* [rocketchat\_API](https://github.com/jadolg/rocketchat_API) ⭐ 293 | 🐛 9 | 🌐 Python | 📅 2026-08-08: REST API wrapper for [Rocket.Chat](https://rocket.chat).
+* [rocketchat\_API](https://github.com/jadolg/rocketchat_API) ⭐ 293 | 🐛 9 | 🌐 Python | 📅 2026-10-07: REST API wrapper for [Rocket.Chat](https://rocket.chat).
 * [vpn2go](https://github.com/jadolg/vpn2go) ⚠️ Archived: Easy setup and API management for OpenVPN server
 
 ## GraphQL
@@ -180,7 +180,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 * [MailAD](https://github.com/stdevPavelmc/mailad) ⭐ 37 | 🐛 11 | 🌐 Shell | 📅 2026-06-04: Full mail server configuration script, with the user's base from Samba/Windows Active Directory, manage users directly in the RSAT
 * [PsiphonQt](https://github.com/rsanjuan87/PsiphonQt) ⭐ 35 | 🐛 4 | 🌐 C++ | 📅 2023-08-05: A Psiphon GUI client builded in Qt
 * [bootify](https://github.com/oneohthree/bootify) ⭐ 33 | 🐛 2 | 🌐 Shell | 📅 2020-12-08: Bash script to make bootable USB drives with Windows 7/8/8.1/10 installation files
-* [ngonx](https://github.com/kenriortega/ngonx) ⭐ 20 | 🐛 7 | 🌐 Go | 📅 2021-11-17: It\`s a simple proxy server written with go. The core services are based on nginx server, and traefik
+* [ngonx](https://github.com/kenriortega/ngonx) ⭐ 19 | 🐛 7 | 🌐 Go | 📅 2021-11-17: It\`s a simple proxy server written with go. The core services are based on nginx server, and traefik
 * [cuba-weather](https://github.com/daxslab/cuba-weather) ⭐ 16 | 🐛 3 | 🌐 Python | 📅 2021-03-23: Python3 client for [redcuba.cu](https://www.redcuba.cu) weather API.
 * [nauta-cli](https://github.com/ateijelo/nauta-cli) ⭐ 13 | 🐛 5 | 🌐 Python | 📅 2021-05-28: command line utility to manage Nauta captive portal.
 * [Multicp](https://github.com/daxslab/multicp) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2015-12-01: Copy files to multiple destinations faster.
@@ -342,4 +342,4 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

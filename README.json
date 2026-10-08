@@ -659,7 +659,7 @@
             "id": 84824266,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-08T08:17:28Z",
+            "last_commit": "2026-10-07T10:45:45Z",
             "open_issues": 9,
             "owner": "jadolg",
             "repo": "rocketchat_API",
@@ -2242,7 +2242,7 @@
             "open_issues": 7,
             "owner": "kenriortega",
             "repo": "ngonx",
-            "stars": 20,
+            "stars": 19,
             "topics": [
               "badgerdb",
               "golang",
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T06:10:32.816Z",
+    "last_updated": "2026-10-08T06:18:12.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
