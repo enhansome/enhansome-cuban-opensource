@@ -1308,7 +1308,7 @@
             "id": 146609838,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-28T20:22:55Z",
+            "last_commit": "2026-10-10T18:45:58Z",
             "open_issues": 2,
             "owner": "jadolg",
             "repo": "DockerImageSave",
@@ -2357,8 +2357,8 @@
             "id": 485983950,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-10T16:42:53Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-11T00:35:57Z",
+            "open_issues": 6,
             "owner": "suitetecsa",
             "repo": "suitetecsa-sdk-python",
             "stars": 8,
@@ -4417,7 +4417,7 @@
               "description": "A website to open other websites in text only mode. Example here txtmdweb",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Search the web on text mode",
                 "homepage": null,
                 "id": 86596830,
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T06:02:28.878Z",
+    "last_updated": "2026-10-11T05:59:55.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
