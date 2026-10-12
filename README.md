@@ -33,7 +33,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 * [HogarEnCuba](https://github.com/daxslab/hogarencuba-mobile) ⭐ 6 | 🐛 0 | 🌐 Dart | 📅 2020-12-22: Client for [www.hogarencuba.com](http://www.hogarencuba.com) made in Flutter.
 * [PorLaLivreApp](https://github.com/garciaguimeras/PorLaLivreApp) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-07-03: Android app to check listings in [www.porlalivre.com](http://www.porlalivre.com) while offline.
 * [Cuba Weather](https://github.com/leynier/cuba-weather-flutter) ⭐ 4 | 🐛 0 | 🌐 Dart | 📅 2020-06-03: Mobile client application for [www.redcuba.cu](https://www.redcuba.cu) weather API. Given a location in Cuba, if it is within the permitted locations, meteorological data on the location is obtained.
-* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 14,088 | 🐛 1,073 | 🌐 Kotlin | 📅 2026-10-08 with some changes to simplify configuring Nauta email accounts.
+* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 14,095 | 🐛 1,074 | 🌐 Kotlin | 📅 2026-10-08 with some changes to simplify configuring Nauta email accounts.
 * [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-01: "Escala Geriátrica de Evaluación Funcional Global" is an instrument used in Cuba to evaluate elder people autonomy. This is an Android implementation.
 * [Rellama](https://github.com/Nenirey/Rellama) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2020-09-15: This is an Radial app using lamw, Lazarus and Free Pascal, download in [apklis](https://www.apklis.cu/application/com.example.appintentdemo3).
 * [QvaPay](https://github.com/qvapay/qp): Aplicación móvil de la pasarela de pagos QvaPay.
@@ -53,7 +53,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ### Libraries
 
-* [Si5351](https://github.com/pavelmc/Si5351mcu) ⭐ 71 | 🐛 5 | 🌐 C++ | 📅 2022-03-22: An alternative library for the Si5351 etherkit official one, very small and with more clean signals.
+* [Si5351](https://github.com/pavelmc/Si5351mcu) ⭐ 72 | 🐛 5 | 🌐 C++ | 📅 2022-03-22: An alternative library for the Si5351 etherkit official one, very small and with more clean signals.
 * [FT-857D CAT control](https://github.com/pavelmc/FT857d) ⭐ 47 | 🐛 5 | 🌐 C++ | 📅 2023-08-29: A library that allows you to simulate a Yaesu Radio FT-857D with your arduino, very usefull for ham radio projects.
 * [Bmux](https://github.com/pavelmc/BMux) ⭐ 9 | 🐛 0 | 🌐 C++ | 📅 2018-07-17: Need more buttons in your project but you run out of pins? no problem put up to 8 buttons in just one analog pin; with click and hold feature in the correct way.
 * [Yatuli](https://github.com/pavelmc/Yatuli) ⭐ 7 | 🐛 0 | 🌐 C++ | 📅 2018-07-17: Yet another tune lib, you don't have a rotary encoder for a project? no problem use a linear potentiometer for that.
@@ -342,4 +342,4 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
