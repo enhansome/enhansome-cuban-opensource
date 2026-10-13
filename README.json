@@ -1396,8 +1396,8 @@
             "id": 88511749,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T19:41:04Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-12T20:35:38Z",
+            "open_issues": 3,
             "owner": "BackendStack21",
             "repo": "restana",
             "stars": 468,
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T06:10:27.918Z",
+    "last_updated": "2026-10-13T06:53:41.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
