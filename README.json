@@ -1308,8 +1308,8 @@
             "id": 146609838,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-10T18:45:58Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-14T01:47:01Z",
+            "open_issues": 5,
             "owner": "jadolg",
             "repo": "DockerImageSave",
             "stars": 95,
@@ -1396,8 +1396,8 @@
             "id": 88511749,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T20:35:38Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-13T09:55:55Z",
+            "open_issues": 4,
             "owner": "BackendStack21",
             "repo": "restana",
             "stars": 468,
@@ -1793,7 +1793,7 @@
             "open_issues": 42,
             "owner": "swl-x",
             "repo": "MystiQ",
-            "stars": 595,
+            "stars": 593,
             "topics": [
               "audio",
               "conversion",
@@ -2857,7 +2857,7 @@
             "open_issues": 15,
             "owner": "covid19cubadata",
             "repo": "covid19cubadata.github.io",
-            "stars": 68,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T06:53:41.451Z",
+    "last_updated": "2026-10-14T05:03:06.875Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",

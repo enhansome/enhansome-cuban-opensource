@@ -33,7 +33,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 * [HogarEnCuba](https://github.com/daxslab/hogarencuba-mobile) ⭐ 6 | 🐛 0 | 🌐 Dart | 📅 2020-12-22: Client for [www.hogarencuba.com](http://www.hogarencuba.com) made in Flutter.
 * [PorLaLivreApp](https://github.com/garciaguimeras/PorLaLivreApp) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-07-03: Android app to check listings in [www.porlalivre.com](http://www.porlalivre.com) while offline.
 * [Cuba Weather](https://github.com/leynier/cuba-weather-flutter) ⭐ 4 | 🐛 0 | 🌐 Dart | 📅 2020-06-03: Mobile client application for [www.redcuba.cu](https://www.redcuba.cu) weather API. Given a location in Cuba, if it is within the permitted locations, meteorological data on the location is obtained.
-* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 14,100 | 🐛 1,075 | 🌐 Kotlin | 📅 2026-10-08 with some changes to simplify configuring Nauta email accounts.
+* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 14,103 | 🐛 1,081 | 🌐 Kotlin | 📅 2026-10-14 with some changes to simplify configuring Nauta email accounts.
 * [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-01: "Escala Geriátrica de Evaluación Funcional Global" is an instrument used in Cuba to evaluate elder people autonomy. This is an Android implementation.
 * [Rellama](https://github.com/Nenirey/Rellama) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2020-09-15: This is an Radial app using lamw, Lazarus and Free Pascal, download in [apklis](https://www.apklis.cu/application/com.example.appintentdemo3).
 * [QvaPay](https://github.com/qvapay/qp): Aplicación móvil de la pasarela de pagos QvaPay.
@@ -95,14 +95,14 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Docker
 
-* [DockerImageSave](https://github.com/jadolg/DockerImageSave) ⭐ 95 | 🐛 2 | 🌐 Go | 📅 2026-10-10 Saves docker images on a remote host and allows you to download them to circumvent Docker censorship on Cuba
+* [DockerImageSave](https://github.com/jadolg/DockerImageSave) ⭐ 95 | 🐛 5 | 🌐 Go | 📅 2026-10-14 Saves docker images on a remote host and allows you to download them to circumvent Docker censorship on Cuba
 * [Portainer Stack Utils](https://github.com/greenled/portainer-stack-utils) ⭐ 75 | 🐛 14 | 🌐 Go | 📅 2025-12-05 CLI client for [Portainer](https://portainer.io/)
 * [SimpleStaticServer](https://github.com/PhaserEditor2D/SimpleStaticServer/) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2021-07-08 Zero-configuration server for static files. Optimized for HTML5 games and Single Page Applications. Made with Go.
 * [restana-static](https://hub.docker.com/r/kyberneees/restana-static) Efficiently serve static files using Node.js and Docker containers: <https://itnext.io/restana-static-serving-the-frontend-with-node-js-beyond-nginx-e45fdb2e49cb>
 
 ## Frameworks
 
-* [restana](https://github.com/jkyberneees/ana) ⭐ 468 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-12 Super fast and minimalist web framework for building REST micro-services.
+* [restana](https://github.com/jkyberneees/ana) ⭐ 468 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-13 Super fast and minimalist web framework for building REST micro-services.
 * [0http](https://github.com/jkyberneees/0http) ⭐ 168 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-09 Cero friction HTTP request router/framework. The need for speed!
 * [mailProc](https://github.com/daxslab/mailProc) ⭐ 11 | 🐛 5 | 🌐 Python | 📅 2023-12-19: Mail based services microframework.
 * [StratusPHP](https://github.com/thenlabs/stratus-php) ⭐ 5 | 🐛 2 | 🌐 PHP | 📅 2024-11-06 PHP framework for creating single page applications using the event-driven programming paradigm.
@@ -123,7 +123,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Integrated Development Environments (IDEs)
 
-* [Phaser Editor 2D](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) ⭐ 498 | 🐛 83 | 🌐 JavaScript | 📅 2024-04-25: A complete & visual editor for making HTML5 2D games ([website](https://phasereditor2d.com)). Games are based on the Phaser framework.
+* [Phaser Editor 2D](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) ⭐ 500 | 🐛 83 | 🌐 JavaScript | 📅 2024-04-25: A complete & visual editor for making HTML5 2D games ([website](https://phasereditor2d.com)). Games are based on the Phaser framework.
 
 ## Internet of Things (IoT)
 
@@ -138,7 +138,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Multimedia
 
-* [MystiQ](https://github.com/llamaret/MystiQ/) ⭐ 595 | 🐛 42 | 🌐 C++ | 📅 2024-06-12: Qt5/C++ FFmpeg Media Converter.
+* [MystiQ](https://github.com/llamaret/MystiQ/) ⭐ 593 | 🐛 42 | 🌐 C++ | 📅 2024-06-12: Qt5/C++ FFmpeg Media Converter.
 * [VideoMorph](https://github.com/videomorph-dev/videomorph) ⭐ 99 | 🐛 8 | 🌐 Python | 📅 2024-01-04: GUI wrapper for ffmpeg.
 * [LazView](https://github.com/Nenirey/LazView) ⭐ 18 | 🐛 1 | 🌐 Pascal | 📅 2025-12-01: imagen viewer written in Free Pascal and Lazarus
 * [Picta Downloader GUI](https://github.com/oleksis/picta-dl-gui) ⭐ 16 | 🐛 1 | 🌐 C++ | 📅 2022-01-15: allows you to download audiovisual content from [Picta](https://www.picta.cu/)
@@ -222,7 +222,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Web Applications
 
-* [Covid19 Cuba Data](https://github.com/covid19cubadata/covid19cubadata.github.io) ⭐ 68 | 🐛 15 | 🌐 JavaScript | 📅 2024-08-10: Covid19 - Dashboard for Cuba
+* [Covid19 Cuba Data](https://github.com/covid19cubadata/covid19cubadata.github.io) ⭐ 67 | 🐛 15 | 🌐 JavaScript | 📅 2024-08-10: Covid19 - Dashboard for Cuba
 * [Easypodcasts](https://github.com/easypodcasts/easy_podcasts) ⭐ 39 | 🐛 4 | 🌐 Elixir | 📅 2025-07-04: Podcasts aggregator and audio compressor for cubans.
 * [Binary Coffee Frontend](https://github.com/dcs-community/dcs-frontend) ⭐ 14 | 🐛 55 | 🌐 TypeScript | 📅 2026-08-25: Frontend developed in Angular of the Binary Coffee community <https://binary-coffee.dev>
 * [Threadly Frontend](https://github.com/ragnarok22/threadly) ⚠️ Archived: Schedule, manage and create Twitter's threads in a thoughtful way.
@@ -342,4 +342,4 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
