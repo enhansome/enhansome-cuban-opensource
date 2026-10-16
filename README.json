@@ -659,8 +659,8 @@
             "id": 84824266,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-14T22:13:42Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-15T14:28:29Z",
+            "open_issues": 9,
             "owner": "jadolg",
             "repo": "rocketchat_API",
             "stars": 293,
@@ -4301,7 +4301,7 @@
                 "open_issues": 18,
                 "owner": "edelvalle",
                 "repo": "reactor",
-                "stars": 638,
+                "stars": 637,
                 "topics": [
                   "django",
                   "django-channels",
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T04:51:58.501Z",
+    "last_updated": "2026-10-16T04:42:47.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
