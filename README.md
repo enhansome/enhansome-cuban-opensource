@@ -33,7 +33,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 * [HogarEnCuba](https://github.com/daxslab/hogarencuba-mobile) ⭐ 6 | 🐛 0 | 🌐 Dart | 📅 2020-12-22: Client for [www.hogarencuba.com](http://www.hogarencuba.com) made in Flutter.
 * [PorLaLivreApp](https://github.com/garciaguimeras/PorLaLivreApp) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-07-03: Android app to check listings in [www.porlalivre.com](http://www.porlalivre.com) while offline.
 * [Cuba Weather](https://github.com/leynier/cuba-weather-flutter) ⭐ 4 | 🐛 0 | 🌐 Dart | 📅 2020-06-03: Mobile client application for [www.redcuba.cu](https://www.redcuba.cu) weather API. Given a location in Cuba, if it is within the permitted locations, meteorological data on the location is obtained.
-* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 14,112 | 🐛 1,078 | 🌐 Kotlin | 📅 2026-10-15 with some changes to simplify configuring Nauta email accounts.
+* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 14,114 | 🐛 1,078 | 🌐 Kotlin | 📅 2026-10-15 with some changes to simplify configuring Nauta email accounts.
 * [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-01: "Escala Geriátrica de Evaluación Funcional Global" is an instrument used in Cuba to evaluate elder people autonomy. This is an Android implementation.
 * [Rellama](https://github.com/Nenirey/Rellama) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2020-09-15: This is an Radial app using lamw, Lazarus and Free Pascal, download in [apklis](https://www.apklis.cu/application/com.example.appintentdemo3).
 * [QvaPay](https://github.com/qvapay/qp): Aplicación móvil de la pasarela de pagos QvaPay.
@@ -285,7 +285,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ### PHP
 
-* [symfony-skeleton-vkernel](https://github.com/yceruto/symfony-skeleton-vkernel) ⭐ 133 | 🐛 3 | 🌐 PHP | 📅 2026-06-16: Start point to build multiple Symfony applications with shared config, code and vendors in the same place/repo.
+* [symfony-skeleton-vkernel](https://github.com/yceruto/symfony-skeleton-vkernel) ⭐ 132 | 🐛 3 | 🌐 PHP | 📅 2026-06-16: Start point to build multiple Symfony applications with shared config, code and vendors in the same place/repo.
 * [yii2-taggedview](https://github.com/daxslab/yii2-taggedview) ⭐ 11 | 🐛 2 | 🌐 PHP | 📅 2021-08-25: Yii2 extension to add standard HTML metatags and social one (Open Graph and Twitter Cards) in order to crontribute to webiste SEO.
 * [yii2-thumbnailer](https://github.com/daxslab/yii2-thumbnailer) ⭐ 9 | 🐛 2 | 🌐 PHP | 📅 2024-06-25: Yii2 extension to generate (any size) thumbnails for any image on the fly.
 * [fastcode-ci](https://github.com/cjamcu/fastcode-ci) ⚠️ Archived: CLI commands for CodeIgniter 4 that allows to quickly create repetitive code.
@@ -342,4 +342,4 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

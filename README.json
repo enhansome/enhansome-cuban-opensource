@@ -3832,7 +3832,7 @@
                 "open_issues": 3,
                 "owner": "yceruto",
                 "repo": "symfony-ddd-skeleton",
-                "stars": 133,
+                "stars": 132,
                 "topics": [
                   "ddd",
                   "ddd-architecture",
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T04:40:07.751Z",
+    "last_updated": "2026-10-18T04:45:35.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
