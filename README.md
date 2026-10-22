@@ -33,7 +33,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 * [HogarEnCuba](https://github.com/daxslab/hogarencuba-mobile) ⭐ 6 | 🐛 0 | 🌐 Dart | 📅 2020-12-22: Client for [www.hogarencuba.com](http://www.hogarencuba.com) made in Flutter.
 * [PorLaLivreApp](https://github.com/garciaguimeras/PorLaLivreApp) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-07-03: Android app to check listings in [www.porlalivre.com](http://www.porlalivre.com) while offline.
 * [Cuba Weather](https://github.com/leynier/cuba-weather-flutter) ⭐ 4 | 🐛 0 | 🌐 Dart | 📅 2020-06-03: Mobile client application for [www.redcuba.cu](https://www.redcuba.cu) weather API. Given a location in Cuba, if it is within the permitted locations, meteorological data on the location is obtained.
-* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 14,114 | 🐛 1,093 | 🌐 Kotlin | 📅 2026-10-21 with some changes to simplify configuring Nauta email accounts.
+* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 14,120 | 🐛 1,085 | 🌐 Kotlin | 📅 2026-10-21 with some changes to simplify configuring Nauta email accounts.
 * [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-01: "Escala Geriátrica de Evaluación Funcional Global" is an instrument used in Cuba to evaluate elder people autonomy. This is an Android implementation.
 * [Rellama](https://github.com/Nenirey/Rellama) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2020-09-15: This is an Radial app using lamw, Lazarus and Free Pascal, download in [apklis](https://www.apklis.cu/application/com.example.appintentdemo3).
 * [QvaPay](https://github.com/qvapay/qp): Aplicación móvil de la pasarela de pagos QvaPay.
@@ -254,7 +254,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 #### Node.js
 
-* [fast-gateway](https://github.com/jkyberneees/fast-gateway) ⭐ 323 | 🐛 7 | 🌐 JavaScript | 📅 2026-05-17 A Node.js API Gateway for the masses! <https://itnext.io/a-js-api-gateway-for-the-masses-a12fdb9e961c>
+* [fast-gateway](https://github.com/jkyberneees/fast-gateway) ⭐ 323 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-21 A Node.js API Gateway for the masses! <https://itnext.io/a-js-api-gateway-for-the-masses-a12fdb9e961c>
 * [fast-proxy](https://github.com/fastify/fast-proxy) ⚠️ Archived HTTP proxy library. So you can forward your HTTP request to another server.
 * [k-fastify-gateway](https://github.com/jkyberneees/fastify-gateway) ⭐ 111 | 🐛 7 | 🌐 JavaScript | 📅 2023-06-03 A Node.js API Gateway that just works! (based on fastify)
 * [keycloak-backend](https://github.com/jkyberneees/keycloak-backend) ⭐ 71 | 🐛 3 | 🌐 TypeScript | 📅 2025-11-23 Keycloak Node.js minimalist connector for backend services integration.
@@ -267,7 +267,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 * [bull-queue-manager](https://github.com/jkyberneees/bull-queue-manager) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2017-04-18 Minimalist queue manager based on bull.
 * [nacl-signature](https://github.com/jkyberneees/nacl-signature) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2020-04-07 JavaScript module to sign/verify data using NaCL crypto library (TweetNaCL.js)
 * [middleware-if-unless](https://github.com/jkyberneees/middleware-if-unless) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-18 Invokes connect-like middleware if / unless routing criteria matches. Inspired on express-unless module.
-* [on-http-end](https://github.com/jkyberneees/on-http-end) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2023-04-07 Allows to capture HTTP response content and headers on request end.
+* [on-http-end](https://github.com/jkyberneees/on-http-end) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-21 Allows to capture HTTP response content and headers on request end.
 * [agnostic-http-error-handler](https://github.com/jkyberneees/http-error-handler) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2020-03-30 Node.js framework agnostic HTTP error handler.
 * [hydra-dashboard](https://github.com/jkyberneees/hydra-dashboard) ⭐ 1 | 🐛 9 | 🌐 JavaScript | 📅 2023-01-07 Hydra cluster dashboard/router application.
 * [hydra-plugin-http](https://github.com/jkyberneees/hydra-plugin-http) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-30 Hydra plugin that adds traditional HTTP requests, routing and proxy capabilities to your hydra micro-service cluster.
@@ -342,4 +342,4 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
