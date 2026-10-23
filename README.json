@@ -1396,7 +1396,7 @@
             "id": 88511749,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T09:55:55Z",
+            "last_commit": "2026-10-22T16:56:01Z",
             "open_issues": 4,
             "owner": "BackendStack21",
             "repo": "restana",
@@ -3305,7 +3305,7 @@
                     "id": 188700531,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-21T20:24:16Z",
+                    "last_commit": "2026-10-22T08:10:05Z",
                     "open_issues": 7,
                     "owner": "BackendStack21",
                     "repo": "fast-gateway",
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T05:02:38.378Z",
+    "last_updated": "2026-10-23T05:02:40.777Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
