@@ -1396,8 +1396,8 @@
             "id": 88511749,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T16:56:01Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-24T15:30:55Z",
+            "open_issues": 1,
             "owner": "BackendStack21",
             "repo": "restana",
             "stars": 468,
@@ -1828,7 +1828,7 @@
             "open_issues": 8,
             "owner": "videomorph-dev",
             "repo": "videomorph",
-            "stars": 99,
+            "stars": 100,
             "topics": [
               "ffmpeg",
               "ffmpeg-wrapper",
@@ -3305,7 +3305,7 @@
                     "id": 188700531,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-22T08:10:05Z",
+                    "last_commit": "2026-10-24T15:51:00Z",
                     "open_issues": 7,
                     "owner": "BackendStack21",
                     "repo": "fast-gateway",
@@ -4350,8 +4350,8 @@
                 "id": 162996334,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-06T08:57:05Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-24T19:31:29Z",
+                "open_issues": 1,
                 "owner": "lorinkoz",
                 "repo": "django-pgschemas",
                 "stars": 161,
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T04:47:30.431Z",
+    "last_updated": "2026-10-25T04:55:48.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
