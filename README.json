@@ -4350,7 +4350,7 @@
                 "id": 162996334,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-28T12:03:24Z",
+                "last_commit": "2026-10-29T07:18:37Z",
                 "open_issues": 1,
                 "owner": "lorinkoz",
                 "repo": "django-pgschemas",
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T05:59:41.579Z",
+    "last_updated": "2026-10-30T06:00:59.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
