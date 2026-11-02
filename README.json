@@ -1308,8 +1308,8 @@
             "id": 146609838,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-27T08:52:56Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-01T19:32:30Z",
+            "open_issues": 3,
             "owner": "jadolg",
             "repo": "DockerImageSave",
             "stars": 95,
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T06:24:49.373Z",
+    "last_updated": "2026-11-02T06:25:28.458Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
@@ -4855,7 +4855,7 @@
       "open_issues": 10,
       "owner": "cuban-opensourcers",
       "repo": "cuban-opensource",
-      "stars": 203,
+      "stars": 202,
       "topics": [
         "awesome-list",
         "cuba",
