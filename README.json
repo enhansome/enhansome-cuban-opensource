@@ -3828,8 +3828,8 @@
                 "id": 101703070,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-06-16T05:17:52Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-03T12:30:33Z",
+                "open_issues": 1,
                 "owner": "yceruto",
                 "repo": "symfony-ddd-skeleton",
                 "stars": 132,
@@ -4350,8 +4350,8 @@
                 "id": 162996334,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-29T07:18:37Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-03T19:48:48Z",
+                "open_issues": 2,
                 "owner": "lorinkoz",
                 "repo": "django-pgschemas",
                 "stars": 161,
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T06:58:50.574Z",
+    "last_updated": "2026-11-04T06:41:02.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
