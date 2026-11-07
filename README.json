@@ -659,8 +659,8 @@
             "id": 84824266,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-20T20:31:38Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-06T23:37:09Z",
+            "open_issues": 10,
             "owner": "jadolg",
             "repo": "rocketchat_API",
             "stars": 294,
@@ -1793,7 +1793,7 @@
             "open_issues": 42,
             "owner": "swl-x",
             "repo": "MystiQ",
-            "stars": 593,
+            "stars": 594,
             "topics": [
               "audio",
               "conversion",
@@ -2357,7 +2357,7 @@
             "id": 485983950,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T21:34:18Z",
+            "last_commit": "2026-11-06T23:39:10Z",
             "open_issues": 6,
             "owner": "suitetecsa",
             "repo": "suitetecsa-sdk-python",
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T06:59:38.529Z",
+    "last_updated": "2026-11-07T06:13:40.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
