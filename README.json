@@ -659,8 +659,8 @@
             "id": 84824266,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-06T23:37:09Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-07T22:39:16Z",
+            "open_issues": 9,
             "owner": "jadolg",
             "repo": "rocketchat_API",
             "stars": 294,
@@ -2357,7 +2357,7 @@
             "id": 485983950,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-06T23:39:10Z",
+            "last_commit": "2026-11-08T01:28:04Z",
             "open_issues": 6,
             "owner": "suitetecsa",
             "repo": "suitetecsa-sdk-python",
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T06:13:40.402Z",
+    "last_updated": "2026-11-08T06:18:33.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
