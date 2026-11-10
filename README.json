@@ -1308,8 +1308,8 @@
             "id": 146609838,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-02T10:27:34Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-09T19:32:33Z",
+            "open_issues": 4,
             "owner": "jadolg",
             "repo": "DockerImageSave",
             "stars": 95,
@@ -4327,7 +4327,7 @@
                 "open_issues": 0,
                 "owner": "yceruto",
                 "repo": "django-ajax",
-                "stars": 322,
+                "stars": 323,
                 "topics": [
                   "ajax",
                   "django-framework",
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T06:51:38.202Z",
+    "last_updated": "2026-11-10T07:29:38.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
