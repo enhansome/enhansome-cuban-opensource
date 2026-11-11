@@ -1308,8 +1308,8 @@
             "id": 146609838,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-09T19:32:33Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-10T08:38:48Z",
+            "open_issues": 2,
             "owner": "jadolg",
             "repo": "DockerImageSave",
             "stars": 95,
@@ -1793,7 +1793,7 @@
             "open_issues": 42,
             "owner": "swl-x",
             "repo": "MystiQ",
-            "stars": 594,
+            "stars": 595,
             "topics": [
               "audio",
               "conversion",
@@ -2357,7 +2357,7 @@
             "id": 485983950,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-08T01:28:04Z",
+            "last_commit": "2026-11-11T06:22:23Z",
             "open_issues": 6,
             "owner": "suitetecsa",
             "repo": "suitetecsa-sdk-python",
@@ -3309,7 +3309,7 @@
                     "open_issues": 7,
                     "owner": "BackendStack21",
                     "repo": "fast-gateway",
-                    "stars": 323,
+                    "stars": 324,
                     "topics": [
                       "api-gateway",
                       "http",
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T07:29:38.928Z",
+    "last_updated": "2026-11-11T06:45:36.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
