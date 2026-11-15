@@ -1308,7 +1308,7 @@
             "id": 146609838,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-10T08:38:48Z",
+            "last_commit": "2026-11-14T19:33:30Z",
             "open_issues": 2,
             "owner": "jadolg",
             "repo": "DockerImageSave",
@@ -1793,7 +1793,7 @@
             "open_issues": 42,
             "owner": "swl-x",
             "repo": "MystiQ",
-            "stars": 596,
+            "stars": 595,
             "topics": [
               "audio",
               "conversion",
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T06:43:27.110Z",
+    "last_updated": "2026-11-15T06:48:22.892Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
