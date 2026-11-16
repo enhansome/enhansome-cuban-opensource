@@ -1308,7 +1308,7 @@
             "id": 146609838,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-14T19:33:30Z",
+            "last_commit": "2026-11-15T16:04:40Z",
             "open_issues": 2,
             "owner": "jadolg",
             "repo": "DockerImageSave",
@@ -3411,7 +3411,7 @@
                     "id": 189103424,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2023-09-20T06:30:35Z",
+                    "last_commit": "2026-11-15T19:50:42Z",
                     "open_issues": 2,
                     "owner": "BackendStack21",
                     "repo": "http-cache-middleware",
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T06:48:22.892Z",
+    "last_updated": "2026-11-16T06:48:14.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
