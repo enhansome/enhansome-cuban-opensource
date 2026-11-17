@@ -33,7 +33,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 * [HogarEnCuba](https://github.com/daxslab/hogarencuba-mobile) ⭐ 6 | 🐛 0 | 🌐 Dart | 📅 2020-12-22: Client for [www.hogarencuba.com](http://www.hogarencuba.com) made in Flutter.
 * [PorLaLivreApp](https://github.com/garciaguimeras/PorLaLivreApp) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-07-03: Android app to check listings in [www.porlalivre.com](http://www.porlalivre.com) while offline.
 * [Cuba Weather](https://github.com/leynier/cuba-weather-flutter) ⭐ 4 | 🐛 0 | 🌐 Dart | 📅 2020-06-03: Mobile client application for [www.redcuba.cu](https://www.redcuba.cu) weather API. Given a location in Cuba, if it is within the permitted locations, meteorological data on the location is obtained.
-* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 14,227 | 🐛 1,104 | 🌐 Kotlin | 📅 2026-11-14 with some changes to simplify configuring Nauta email accounts.
+* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 14,236 | 🐛 1,106 | 🌐 Kotlin | 📅 2026-11-17 with some changes to simplify configuring Nauta email accounts.
 * [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-01: "Escala Geriátrica de Evaluación Funcional Global" is an instrument used in Cuba to evaluate elder people autonomy. This is an Android implementation.
 * [Rellama](https://github.com/Nenirey/Rellama) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2020-09-15: This is an Radial app using lamw, Lazarus and Free Pascal, download in [apklis](https://www.apklis.cu/application/com.example.appintentdemo3).
 * [QvaPay](https://github.com/qvapay/qp): Aplicación móvil de la pasarela de pagos QvaPay.
@@ -257,7 +257,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 * [fast-gateway](https://github.com/jkyberneees/fast-gateway) ⭐ 324 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-30 A Node.js API Gateway for the masses! <https://itnext.io/a-js-api-gateway-for-the-masses-a12fdb9e961c>
 * [fast-proxy](https://github.com/fastify/fast-proxy) ⚠️ Archived HTTP proxy library. So you can forward your HTTP request to another server.
 * [k-fastify-gateway](https://github.com/jkyberneees/fastify-gateway) ⭐ 111 | 🐛 7 | 🌐 JavaScript | 📅 2023-06-03 A Node.js API Gateway that just works! (based on fastify)
-* [keycloak-backend](https://github.com/jkyberneees/keycloak-backend) ⭐ 71 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-30 Keycloak Node.js minimalist connector for backend services integration.
+* [keycloak-backend](https://github.com/jkyberneees/keycloak-backend) ⭐ 72 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-30 Keycloak Node.js minimalist connector for backend services integration.
 * [http-cache-middleware](https://github.com/jkyberneees/http-cache-middleware) ⭐ 30 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-15 HTTP caching made simple!
 * [distributed-eventemitter](https://github.com/jkyberneees/distributed-eventemitter) ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2016-10-31 The ultra fast, distributed (multi process and multi server), STOMP based event emitter for Node.js!
 * [hydra-integration](https://github.com/jkyberneees/hydra-integration) ⭐ 14 | 🐛 17 | 🌐 JavaScript | 📅 2023-01-05 Minimalist 'hydra integration' module, intended for Node.js web frameworks integration.
@@ -342,4 +342,4 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._

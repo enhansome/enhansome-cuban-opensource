@@ -3394,7 +3394,7 @@
                     "open_issues": 3,
                     "owner": "BackendStack21",
                     "repo": "keycloak-backend",
-                    "stars": 71,
+                    "stars": 72,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:31:31.442Z"
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T06:48:14.052Z",
+    "last_updated": "2026-11-17T08:07:41.371Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
