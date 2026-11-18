@@ -721,7 +721,7 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2022-03-22T19:39:05Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "pavelmc",
                 "repo": "Si5351mcu",
                 "stars": 72,
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T08:07:41.371Z",
+    "last_updated": "2026-11-18T07:42:16.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
