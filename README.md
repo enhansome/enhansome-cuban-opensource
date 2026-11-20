@@ -33,7 +33,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 * [HogarEnCuba](https://github.com/daxslab/hogarencuba-mobile) ⭐ 6 | 🐛 0 | 🌐 Dart | 📅 2020-12-22: Client for [www.hogarencuba.com](http://www.hogarencuba.com) made in Flutter.
 * [PorLaLivreApp](https://github.com/garciaguimeras/PorLaLivreApp) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-07-03: Android app to check listings in [www.porlalivre.com](http://www.porlalivre.com) while offline.
 * [Cuba Weather](https://github.com/leynier/cuba-weather-flutter) ⭐ 4 | 🐛 0 | 🌐 Dart | 📅 2020-06-03: Mobile client application for [www.redcuba.cu](https://www.redcuba.cu) weather API. Given a location in Cuba, if it is within the permitted locations, meteorological data on the location is obtained.
-* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 14,245 | 🐛 1,108 | 🌐 Kotlin | 📅 2026-11-18 with some changes to simplify configuring Nauta email accounts.
+* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 14,248 | 🐛 1,111 | 🌐 Kotlin | 📅 2026-11-20 with some changes to simplify configuring Nauta email accounts.
 * [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-01: "Escala Geriátrica de Evaluación Funcional Global" is an instrument used in Cuba to evaluate elder people autonomy. This is an Android implementation.
 * [Rellama](https://github.com/Nenirey/Rellama) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2020-09-15: This is an Radial app using lamw, Lazarus and Free Pascal, download in [apklis](https://www.apklis.cu/application/com.example.appintentdemo3).
 * [QvaPay](https://github.com/qvapay/qp): Aplicación móvil de la pasarela de pagos QvaPay.
@@ -123,7 +123,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Integrated Development Environments (IDEs)
 
-* [Phaser Editor 2D](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) ⭐ 505 | 🐛 83 | 🌐 JavaScript | 📅 2024-04-25: A complete & visual editor for making HTML5 2D games ([website](https://phasereditor2d.com)). Games are based on the Phaser framework.
+* [Phaser Editor 2D](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) ⭐ 504 | 🐛 83 | 🌐 JavaScript | 📅 2024-04-25: A complete & visual editor for making HTML5 2D games ([website](https://phasereditor2d.com)). Games are based on the Phaser framework.
 
 ## Internet of Things (IoT)
 
@@ -138,7 +138,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Multimedia
 
-* [MystiQ](https://github.com/llamaret/MystiQ/) ⭐ 595 | 🐛 42 | 🌐 C++ | 📅 2024-06-12: Qt5/C++ FFmpeg Media Converter.
+* [MystiQ](https://github.com/llamaret/MystiQ/) ⭐ 594 | 🐛 42 | 🌐 C++ | 📅 2024-06-12: Qt5/C++ FFmpeg Media Converter.
 * [VideoMorph](https://github.com/videomorph-dev/videomorph) ⭐ 100 | 🐛 8 | 🌐 Python | 📅 2024-01-04: GUI wrapper for ffmpeg.
 * [LazView](https://github.com/Nenirey/LazView) ⭐ 18 | 🐛 1 | 🌐 Pascal | 📅 2025-12-01: imagen viewer written in Free Pascal and Lazarus
 * [Picta Downloader GUI](https://github.com/oleksis/picta-dl-gui) ⭐ 16 | 🐛 1 | 🌐 C++ | 📅 2022-01-15: allows you to download audiovisual content from [Picta](https://www.picta.cu/)
@@ -254,7 +254,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 #### Node.js
 
-* [fast-gateway](https://github.com/jkyberneees/fast-gateway) ⭐ 324 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-30 A Node.js API Gateway for the masses! <https://itnext.io/a-js-api-gateway-for-the-masses-a12fdb9e961c>
+* [fast-gateway](https://github.com/jkyberneees/fast-gateway) ⭐ 323 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-30 A Node.js API Gateway for the masses! <https://itnext.io/a-js-api-gateway-for-the-masses-a12fdb9e961c>
 * [fast-proxy](https://github.com/fastify/fast-proxy) ⚠️ Archived HTTP proxy library. So you can forward your HTTP request to another server.
 * [k-fastify-gateway](https://github.com/jkyberneees/fastify-gateway) ⭐ 111 | 🐛 7 | 🌐 JavaScript | 📅 2023-06-03 A Node.js API Gateway that just works! (based on fastify)
 * [keycloak-backend](https://github.com/jkyberneees/keycloak-backend) ⭐ 72 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-30 Keycloak Node.js minimalist connector for backend services integration.
@@ -285,7 +285,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ### PHP
 
-* [symfony-skeleton-vkernel](https://github.com/yceruto/symfony-skeleton-vkernel) ⭐ 131 | 🐛 1 | 🌐 PHP | 📅 2026-11-03: Start point to build multiple Symfony applications with shared config, code and vendors in the same place/repo.
+* [symfony-skeleton-vkernel](https://github.com/yceruto/symfony-skeleton-vkernel) ⭐ 132 | 🐛 1 | 🌐 PHP | 📅 2026-11-03: Start point to build multiple Symfony applications with shared config, code and vendors in the same place/repo.
 * [yii2-taggedview](https://github.com/daxslab/yii2-taggedview) ⭐ 11 | 🐛 2 | 🌐 PHP | 📅 2021-08-25: Yii2 extension to add standard HTML metatags and social one (Open Graph and Twitter Cards) in order to crontribute to webiste SEO.
 * [yii2-thumbnailer](https://github.com/daxslab/yii2-thumbnailer) ⭐ 9 | 🐛 2 | 🌐 PHP | 📅 2024-06-25: Yii2 extension to generate (any size) thumbnails for any image on the fly.
 * [fastcode-ci](https://github.com/cjamcu/fastcode-ci) ⚠️ Archived: CLI commands for CodeIgniter 4 that allows to quickly create repetitive code.
@@ -311,7 +311,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 ### Python
 
 * [django-reactor](https://github.com/edelvalle/reactor) ⭐ 637 | 🐛 18 | 🌐 Python | 📅 2025-02-10: Django implementation of Phoenix LiveView.
-* [django-ajax](https://github.com/yceruto/django-ajax) ⭐ 323 | 🐛 0 | 🌐 Python | 📅 2024-04-27: Django library for AJAX operations.
+* [django-ajax](https://github.com/yceruto/django-ajax) ⭐ 322 | 🐛 0 | 🌐 Python | 📅 2024-04-27: Django library for AJAX operations.
 * [django-pgschemas](https://github.com/lorinkoz/django-pgschemas) ⭐ 161 | 🐛 0 | 🌐 Python | 📅 2026-11-05: Django multi-tenancy using PostgreSQL schemas.
 * [django-partial-date](https://github.com/ktowen/django_partial_date) ⭐ 23 | 🐛 4 | 🌐 Python | 📅 2022-01-20: Django custom model field for partial dates with the form YYYY, YYYY-MM, YYYY-MM-DD.
 * [django-js-choices](https://github.com/lorinkoz/django-js-choices) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2024-10-15: JavaScript model's fields choices handling for Django.
@@ -342,4 +342,4 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._

@@ -1793,7 +1793,7 @@
             "open_issues": 42,
             "owner": "swl-x",
             "repo": "MystiQ",
-            "stars": 595,
+            "stars": 594,
             "topics": [
               "audio",
               "conversion",
@@ -3309,7 +3309,7 @@
                     "open_issues": 7,
                     "owner": "BackendStack21",
                     "repo": "fast-gateway",
-                    "stars": 324,
+                    "stars": 323,
                     "topics": [
                       "api-gateway",
                       "http",
@@ -3832,7 +3832,7 @@
                 "open_issues": 1,
                 "owner": "yceruto",
                 "repo": "symfony-ddd-skeleton",
-                "stars": 131,
+                "stars": 132,
                 "topics": [
                   "ddd",
                   "ddd-architecture",
@@ -4327,7 +4327,7 @@
                 "open_issues": 0,
                 "owner": "yceruto",
                 "repo": "django-ajax",
-                "stars": 323,
+                "stars": 322,
                 "topics": [
                   "ajax",
                   "django-framework",
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T07:38:55.432Z",
+    "last_updated": "2026-11-20T07:29:35.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
