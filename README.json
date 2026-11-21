@@ -2979,9 +2979,9 @@
             "description": "Our own blog for the community",
             "homepage": null,
             "id": 225615643,
-            "language": "JavaScript",
+            "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-25T17:29:22Z",
+            "last_commit": "2026-11-20T15:37:22Z",
             "open_issues": 30,
             "owner": "binary-coffee-dev",
             "repo": "dcs-blog",
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T07:29:35.057Z",
+    "last_updated": "2026-11-21T07:24:34.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",

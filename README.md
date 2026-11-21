@@ -33,7 +33,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 * [HogarEnCuba](https://github.com/daxslab/hogarencuba-mobile) ⭐ 6 | 🐛 0 | 🌐 Dart | 📅 2020-12-22: Client for [www.hogarencuba.com](http://www.hogarencuba.com) made in Flutter.
 * [PorLaLivreApp](https://github.com/garciaguimeras/PorLaLivreApp) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-07-03: Android app to check listings in [www.porlalivre.com](http://www.porlalivre.com) while offline.
 * [Cuba Weather](https://github.com/leynier/cuba-weather-flutter) ⭐ 4 | 🐛 0 | 🌐 Dart | 📅 2020-06-03: Mobile client application for [www.redcuba.cu](https://www.redcuba.cu) weather API. Given a location in Cuba, if it is within the permitted locations, meteorological data on the location is obtained.
-* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 14,248 | 🐛 1,111 | 🌐 Kotlin | 📅 2026-11-20 with some changes to simplify configuring Nauta email accounts.
+* [daxSmail](https://github.com/daxslab/daxSmail) ⭐ 4 | 🐛 8 | 🌐 Java | 📅 2015-12-16: Email client based on [k9mail](https://github.com/k9mail/k-9) ⭐ 14,256 | 🐛 1,112 | 🌐 Kotlin | 📅 2026-11-20 with some changes to simplify configuring Nauta email accounts.
 * [Escala Geriátrica](https://github.com/daxslab/escala-geriatrica) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-01: "Escala Geriátrica de Evaluación Funcional Global" is an instrument used in Cuba to evaluate elder people autonomy. This is an Android implementation.
 * [Rellama](https://github.com/Nenirey/Rellama) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2020-09-15: This is an Radial app using lamw, Lazarus and Free Pascal, download in [apklis](https://www.apklis.cu/application/com.example.appintentdemo3).
 * [QvaPay](https://github.com/qvapay/qp): Aplicación móvil de la pasarela de pagos QvaPay.
@@ -227,7 +227,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 * [Binary Coffee Frontend](https://github.com/dcs-community/dcs-frontend) ⭐ 14 | 🐛 55 | 🌐 TypeScript | 📅 2026-08-25: Frontend developed in Angular of the Binary Coffee community <https://binary-coffee.dev>
 * [Threadly Frontend](https://github.com/ragnarok22/threadly) ⚠️ Archived: Schedule, manage and create Twitter's threads in a thoughtful way.
 * [NStart](https://github.com/Pixely-Studios/NStart) ⭐ 10 | 🐛 5 | 🌐 HTML | 📅 2024-04-29: Una solucion para estudios de videojuegos que necesiten una página para promocionar su estudio, sus productos y su equipo.
-* [Binary Coffee API](https://github.com/dcs-community/dcs-blog) ⭐ 9 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-25: Backend based in strapi of the Binary Coffee community <https://binary-coffee.dev>
+* [Binary Coffee API](https://github.com/dcs-community/dcs-blog) ⭐ 9 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-20: Backend based in strapi of the Binary Coffee community <https://binary-coffee.dev>
 * [django-misclientes](https://github.com/dcruz1990/django-misclientes) ⭐ 6 | 🐛 2 | 🌐 HTML | 📅 2023-10-03: A simple Django App to manage contracts and customers in companies.
 * [Binary Coffee Admin Frontend](https://github.com/dcs-community/dcs-admin-frontend) ⚠️ Archived: Administration frontend developed in Angular of the Binary Coffee community <https://binary-coffee.dev>
 * [CovidCuba](https://github.com/llamaret/covidcuba.swlx.info) ⭐ 5 | 🐛 1 | 🌐 JavaScript | 📅 2024-08-10: Website COVID-19 Pandemic Situation in Cuba. From SWL-X Project
@@ -342,4 +342,4 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
