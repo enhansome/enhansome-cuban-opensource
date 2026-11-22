@@ -2340,7 +2340,7 @@
             "open_issues": 0,
             "owner": "fperdigon",
             "repo": "Extend2VNC",
-            "stars": 10,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-08-28T11:31:31.442Z"
@@ -4327,7 +4327,7 @@
                 "open_issues": 0,
                 "owner": "yceruto",
                 "repo": "django-ajax",
-                "stars": 322,
+                "stars": 323,
                 "topics": [
                   "ajax",
                   "django-framework",
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T07:24:34.648Z",
+    "last_updated": "2026-11-22T07:05:38.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
