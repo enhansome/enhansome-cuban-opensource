@@ -659,7 +659,7 @@
             "id": 84824266,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-07T22:39:16Z",
+            "last_commit": "2026-11-22T20:28:40Z",
             "open_issues": 9,
             "owner": "jadolg",
             "repo": "rocketchat_API",
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T07:05:38.991Z",
+    "last_updated": "2026-11-23T07:52:48.798Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
