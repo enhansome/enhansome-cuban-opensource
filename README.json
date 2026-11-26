@@ -1312,7 +1312,7 @@
             "open_issues": 2,
             "owner": "jadolg",
             "repo": "DockerImageSave",
-            "stars": 95,
+            "stars": 94,
             "topics": [
               "china",
               "cuba",
@@ -2037,7 +2037,7 @@
                 "open_issues": 3,
                 "owner": "fperdigon",
                 "repo": "ECG-BaseLineWander-Removal-Methods",
-                "stars": 50,
+                "stars": 49,
                 "topics": [
                   "baseline-wander-removal",
                   "ecg-signal",
@@ -3305,7 +3305,7 @@
                     "id": 188700531,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-30T13:36:37Z",
+                    "last_commit": "2026-11-25T10:30:04Z",
                     "open_issues": 7,
                     "owner": "BackendStack21",
                     "repo": "fast-gateway",
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T08:50:45.720Z",
+    "last_updated": "2026-11-26T08:36:24.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
