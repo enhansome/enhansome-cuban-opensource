@@ -2357,8 +2357,8 @@
             "id": 485983950,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-27T06:50:13Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-27T09:45:44Z",
+            "open_issues": 6,
             "owner": "suitetecsa",
             "repo": "suitetecsa-sdk-python",
             "stars": 8,
@@ -4843,7 +4843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T08:47:53.706Z",
+    "last_updated": "2026-11-28T08:03:40.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.",
